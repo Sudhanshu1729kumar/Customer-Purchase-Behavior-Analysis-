@@ -1,0 +1,2001 @@
+customer_id,signup_date,state,city,gender,age,segment,acquisition_channel
+C00001,2025-01-30,Jharkhand,CityA,F,43,Direct Buyer,Organic
+C00002,2024-10-18,Uttar Pradesh,CityA,F,24,Direct Buyer,Organic
+C00003,2024-10-20,Jharkhand,CityD,F,22,Reseller,Influencer
+C00004,2023-09-02,Punjab,CityD,F,28,Reseller,Google Ads
+C00005,2023-06-04,Jharkhand,CityB,M,31,Reseller,Referral
+C00006,2024-02-19,Jammu & Kashmir,CityE,M,23,Direct Buyer,Organic
+C00007,2023-11-06,Bihar,CityA,F,37,Direct Buyer,Organic
+C00008,2024-01-02,Bihar,CityD,M,33,Reseller,Organic
+C00009,2025-06-07,Gujarat,CityA,F,23,Reseller,Organic
+C00010,2023-02-27,Tamil Nadu,CityB,M,25,Direct Buyer,Referral
+C00011,2023-06-11,Kerala,CityB,M,18,Reseller,Google Ads
+C00012,2023-02-22,Maharashtra,CityE,M,19,Reseller,Facebook Ads
+C00013,2023-02-08,Karnataka,CityE,F,33,Reseller,Organic
+C00014,2025-06-08,Maharashtra,CityB,F,23,Reseller,Referral
+C00015,2023-12-18,West Bengal,CityD,F,44,Reseller,Influencer
+C00016,2024-05-11,Assam,CityA,F,30,Direct Buyer,Facebook Ads
+C00017,2025-06-18,West Bengal,CityC,F,19,Reseller,Facebook Ads
+C00018,2024-12-21,Kerala,CityE,F,20,Direct Buyer,Influencer
+C00019,2025-02-05,Odisha,CityC,F,38,Reseller,Google Ads
+C00020,2024-06-25,Kerala,CityD,F,29,Direct Buyer,Organic
+C00021,2023-09-06,Jharkhand,CityE,M,37,Direct Buyer,Organic
+C00022,2024-11-28,Jammu & Kashmir,CityC,M,27,Direct Buyer,Influencer
+C00023,2025-07-12,Haryana,CityD,M,25,Reseller,Referral
+C00024,2023-07-15,Tamil Nadu,CityA,F,38,Reseller,Organic
+C00025,2024-08-28,Telangana,CityD,M,23,Reseller,Referral
+C00026,2024-01-06,Maharashtra,CityE,M,33,Direct Buyer,Facebook Ads
+C00027,2024-12-08,Delhi,CityB,F,28,Reseller,Influencer
+C00028,2024-12-20,Delhi,CityA,F,37,Direct Buyer,Organic
+C00029,2025-01-25,Madhya Pradesh,CityC,M,44,Direct Buyer,Referral
+C00030,2025-03-15,Delhi,CityE,F,26,Reseller,Google Ads
+C00031,2024-11-16,Maharashtra,CityB,F,25,Direct Buyer,Organic
+C00032,2024-12-10,Andhra Pradesh,CityD,F,35,Reseller,Organic
+C00033,2024-10-08,Maharashtra,CityB,F,21,Reseller,Influencer
+C00034,2023-05-07,Telangana,CityE,M,42,Reseller,Referral
+C00035,2024-10-21,Haryana,CityE,M,41,Direct Buyer,Referral
+C00036,2024-07-19,Assam,CityB,F,22,Reseller,Referral
+C00037,2023-08-22,Gujarat,CityD,F,18,Direct Buyer,Organic
+C00038,2023-02-09,Delhi,CityB,F,20,Reseller,Influencer
+C00039,2024-06-01,Gujarat,CityE,F,20,Reseller,Organic
+C00040,2025-03-04,Bihar,CityE,F,36,Direct Buyer,Organic
+C00041,2023-07-14,Gujarat,CityC,M,42,Reseller,Organic
+C00042,2024-08-26,Jharkhand,CityC,F,36,Reseller,Organic
+C00043,2023-05-12,Delhi,CityA,F,28,Direct Buyer,Google Ads
+C00044,2025-03-18,Rajasthan,CityE,M,32,Reseller,Google Ads
+C00045,2023-06-06,Punjab,CityC,F,23,Reseller,Influencer
+C00046,2025-04-30,Punjab,CityB,M,38,Reseller,Organic
+C00047,2023-06-02,Uttar Pradesh,CityD,M,33,Reseller,Facebook Ads
+C00048,2025-03-09,West Bengal,CityB,M,36,Direct Buyer,Referral
+C00049,2024-03-12,West Bengal,CityD,F,24,Direct Buyer,Google Ads
+C00050,2023-11-08,Rajasthan,CityC,F,28,Reseller,Facebook Ads
+C00051,2023-09-24,Karnataka,CityA,F,35,Reseller,Organic
+C00052,2025-02-07,Chhattisgarh,CityB,F,41,Reseller,Organic
+C00053,2023-09-16,Madhya Pradesh,CityB,M,25,Direct Buyer,Organic
+C00054,2023-01-04,Rajasthan,CityB,M,36,Reseller,Referral
+C00055,2023-02-11,Jammu & Kashmir,CityD,M,24,Reseller,Influencer
+C00056,2024-09-01,Jammu & Kashmir,CityC,M,46,Direct Buyer,Organic
+C00057,2023-04-10,West Bengal,CityB,M,26,Direct Buyer,Organic
+C00058,2023-07-26,Tamil Nadu,CityB,F,35,Reseller,Organic
+C00059,2024-02-28,Rajasthan,CityA,F,31,Reseller,Google Ads
+C00060,2025-02-15,Haryana,CityA,M,50,Reseller,Organic
+C00061,2024-11-28,Madhya Pradesh,CityC,F,31,Reseller,Organic
+C00062,2024-01-30,Jammu & Kashmir,CityC,F,25,Direct Buyer,Organic
+C00063,2024-02-26,Bihar,CityE,F,35,Direct Buyer,Referral
+C00064,2024-11-25,Rajasthan,CityA,M,34,Direct Buyer,Referral
+C00065,2024-09-29,Jharkhand,CityE,F,28,Reseller,Facebook Ads
+C00066,2023-02-08,Rajasthan,CityD,M,21,Reseller,Organic
+C00067,2024-11-10,Madhya Pradesh,CityE,M,25,Reseller,Referral
+C00068,2024-02-24,Madhya Pradesh,CityB,F,37,Reseller,Organic
+C00069,2025-03-18,Maharashtra,CityE,F,18,Direct Buyer,Organic
+C00070,2024-10-08,Tamil Nadu,CityC,F,28,Reseller,Referral
+C00071,2024-10-22,Assam,CityD,M,37,Reseller,Organic
+C00072,2024-07-22,Andhra Pradesh,CityB,M,29,Reseller,Referral
+C00073,2025-03-02,Rajasthan,CityE,M,47,Reseller,Organic
+C00074,2025-01-16,Madhya Pradesh,CityD,F,18,Reseller,Organic
+C00075,2024-03-24,Uttar Pradesh,CityD,F,22,Direct Buyer,Google Ads
+C00076,2024-08-22,Kerala,CityB,F,18,Reseller,Referral
+C00077,2025-02-16,Haryana,CityE,M,45,Direct Buyer,Facebook Ads
+C00078,2025-06-20,Kerala,CityD,F,22,Reseller,Google Ads
+C00079,2025-05-02,Haryana,CityD,F,18,Reseller,Referral
+C00080,2024-07-11,Madhya Pradesh,CityA,F,25,Direct Buyer,Facebook Ads
+C00081,2024-08-31,Kerala,CityD,F,18,Reseller,Referral
+C00082,2023-10-02,West Bengal,CityA,F,25,Direct Buyer,Organic
+C00083,2024-11-30,Chhattisgarh,CityE,F,30,Reseller,Organic
+C00084,2023-05-28,Bihar,CityE,F,36,Reseller,Referral
+C00085,2024-07-17,Chhattisgarh,CityE,F,28,Direct Buyer,Organic
+C00086,2024-05-24,Telangana,CityC,M,30,Direct Buyer,Organic
+C00087,2024-03-19,Jammu & Kashmir,CityE,M,25,Direct Buyer,Organic
+C00088,2024-08-29,West Bengal,CityD,F,18,Direct Buyer,Organic
+C00089,2024-07-27,Maharashtra,CityB,M,18,Reseller,Organic
+C00090,2025-01-01,Jammu & Kashmir,CityA,F,27,Direct Buyer,Organic
+C00091,2024-03-08,Punjab,CityC,F,30,Direct Buyer,Organic
+C00092,2023-11-09,Haryana,CityE,M,26,Reseller,Organic
+C00093,2024-08-17,Karnataka,CityE,M,18,Reseller,Referral
+C00094,2025-07-03,Bihar,CityB,M,31,Direct Buyer,Organic
+C00095,2023-03-24,Gujarat,CityB,F,43,Reseller,Google Ads
+C00096,2023-02-22,Jammu & Kashmir,CityC,F,29,Reseller,Google Ads
+C00097,2024-09-17,Tamil Nadu,CityA,M,25,Direct Buyer,Referral
+C00098,2024-09-22,Andhra Pradesh,CityE,F,29,Reseller,Facebook Ads
+C00099,2024-04-25,Andhra Pradesh,CityC,F,21,Reseller,Organic
+C00100,2024-06-23,Kerala,CityD,M,20,Direct Buyer,Organic
+C00101,2024-09-16,Chhattisgarh,CityD,M,33,Reseller,Influencer
+C00102,2024-08-30,Gujarat,CityC,M,37,Direct Buyer,Organic
+C00103,2023-06-22,Chhattisgarh,CityE,F,28,Reseller,Influencer
+C00104,2024-01-30,Gujarat,CityC,M,18,Reseller,Referral
+C00105,2023-05-28,Gujarat,CityE,F,32,Reseller,Organic
+C00106,2023-09-14,Uttar Pradesh,CityB,F,46,Direct Buyer,Referral
+C00107,2024-06-20,Maharashtra,CityC,M,28,Reseller,Referral
+C00108,2023-05-29,Punjab,CityE,F,28,Reseller,Organic
+C00109,2025-05-06,Uttar Pradesh,CityC,F,23,Reseller,Organic
+C00110,2023-10-29,Andhra Pradesh,CityC,M,33,Reseller,Facebook Ads
+C00111,2024-04-01,Haryana,CityE,F,24,Reseller,Referral
+C00112,2025-05-02,Karnataka,CityE,F,38,Reseller,Organic
+C00113,2023-04-02,Telangana,CityA,F,24,Reseller,Organic
+C00114,2024-12-03,Maharashtra,CityC,F,32,Reseller,Google Ads
+C00115,2024-12-07,Karnataka,CityD,F,29,Direct Buyer,Referral
+C00116,2023-01-09,Karnataka,CityC,M,42,Direct Buyer,Referral
+C00117,2024-07-21,Chhattisgarh,CityC,M,33,Reseller,Influencer
+C00118,2023-11-26,Assam,CityE,F,41,Reseller,Organic
+C00119,2023-04-03,Chhattisgarh,CityC,M,30,Direct Buyer,Referral
+C00120,2023-02-08,Kerala,CityC,F,28,Direct Buyer,Google Ads
+C00121,2024-03-02,Delhi,CityD,F,29,Reseller,Facebook Ads
+C00122,2024-02-03,Madhya Pradesh,CityE,M,23,Direct Buyer,Organic
+C00123,2023-03-07,Odisha,CityC,F,34,Reseller,Organic
+C00124,2024-12-13,Uttar Pradesh,CityB,M,24,Reseller,Facebook Ads
+C00125,2024-06-14,Madhya Pradesh,CityA,F,30,Reseller,Organic
+C00126,2023-07-25,Karnataka,CityD,M,36,Direct Buyer,Influencer
+C00127,2024-03-03,Kerala,CityC,F,42,Reseller,Organic
+C00128,2023-10-03,Karnataka,CityB,F,31,Direct Buyer,Organic
+C00129,2025-02-12,Telangana,CityC,F,36,Reseller,Organic
+C00130,2024-05-14,Uttar Pradesh,CityC,M,35,Reseller,Facebook Ads
+C00131,2023-09-24,Kerala,CityE,F,26,Reseller,Google Ads
+C00132,2024-12-20,Delhi,CityE,M,46,Direct Buyer,Referral
+C00133,2023-09-12,Bihar,CityE,F,25,Reseller,Influencer
+C00134,2024-02-27,Chhattisgarh,CityB,F,30,Reseller,Organic
+C00135,2023-12-29,Madhya Pradesh,CityC,F,41,Reseller,Organic
+C00136,2023-09-05,Jammu & Kashmir,CityA,M,41,Direct Buyer,Google Ads
+C00137,2023-09-29,Karnataka,CityD,M,30,Reseller,Google Ads
+C00138,2024-12-16,Jharkhand,CityE,F,37,Reseller,Google Ads
+C00139,2024-02-22,West Bengal,CityE,M,28,Reseller,Google Ads
+C00140,2024-08-06,Telangana,CityC,F,26,Direct Buyer,Organic
+C00141,2024-05-25,Jammu & Kashmir,CityC,M,20,Direct Buyer,Organic
+C00142,2025-05-22,Assam,CityB,M,35,Direct Buyer,Influencer
+C00143,2024-02-16,Delhi,CityB,F,36,Reseller,Organic
+C00144,2024-02-07,Rajasthan,CityE,F,25,Reseller,Organic
+C00145,2024-08-11,Delhi,CityC,M,32,Direct Buyer,Facebook Ads
+C00146,2024-09-15,Delhi,CityA,M,51,Reseller,Organic
+C00147,2023-10-01,Telangana,CityD,F,39,Reseller,Google Ads
+C00148,2023-01-29,Madhya Pradesh,CityC,F,22,Reseller,Organic
+C00149,2025-03-21,Madhya Pradesh,CityC,F,38,Direct Buyer,Google Ads
+C00150,2024-04-01,Karnataka,CityB,F,22,Reseller,Referral
+C00151,2023-01-26,Andhra Pradesh,CityD,M,18,Direct Buyer,Referral
+C00152,2023-10-02,Tamil Nadu,CityE,M,29,Direct Buyer,Referral
+C00153,2024-03-14,Assam,CityC,F,42,Reseller,Organic
+C00154,2025-04-24,Punjab,CityE,F,41,Reseller,Referral
+C00155,2023-12-12,Chhattisgarh,CityC,F,33,Direct Buyer,Referral
+C00156,2024-02-22,Karnataka,CityE,F,25,Direct Buyer,Referral
+C00157,2024-06-18,Karnataka,CityD,F,33,Direct Buyer,Organic
+C00158,2023-05-22,Gujarat,CityB,F,27,Direct Buyer,Organic
+C00159,2024-07-08,Maharashtra,CityD,F,25,Reseller,Organic
+C00160,2025-03-10,Assam,CityA,F,38,Direct Buyer,Facebook Ads
+C00161,2023-06-16,Haryana,CityB,F,25,Reseller,Organic
+C00162,2023-09-03,Bihar,CityD,F,39,Direct Buyer,Google Ads
+C00163,2023-09-26,Chhattisgarh,CityA,F,25,Direct Buyer,Facebook Ads
+C00164,2024-08-21,West Bengal,CityC,F,46,Direct Buyer,Facebook Ads
+C00165,2024-06-16,West Bengal,CityC,F,18,Direct Buyer,Google Ads
+C00166,2023-01-01,Jharkhand,CityE,F,22,Direct Buyer,Organic
+C00167,2025-02-10,Gujarat,CityB,F,28,Reseller,Google Ads
+C00168,2023-04-29,Gujarat,CityC,M,18,Direct Buyer,Referral
+C00169,2023-05-31,Haryana,CityB,M,18,Reseller,Google Ads
+C00170,2023-07-14,Andhra Pradesh,CityC,M,18,Reseller,Google Ads
+C00171,2023-03-30,West Bengal,CityE,F,27,Reseller,Organic
+C00172,2024-03-13,Odisha,CityD,M,27,Reseller,Organic
+C00173,2023-06-28,Karnataka,CityE,M,32,Direct Buyer,Referral
+C00174,2023-10-08,Maharashtra,CityA,F,28,Direct Buyer,Facebook Ads
+C00175,2025-04-14,Kerala,CityC,F,32,Reseller,Organic
+C00176,2025-02-25,Punjab,CityA,M,26,Reseller,Organic
+C00177,2024-01-26,Maharashtra,CityA,F,35,Reseller,Organic
+C00178,2023-05-14,Telangana,CityB,F,34,Direct Buyer,Referral
+C00179,2023-08-26,Andhra Pradesh,CityC,M,27,Reseller,Influencer
+C00180,2023-03-31,Assam,CityA,M,34,Direct Buyer,Facebook Ads
+C00181,2023-03-07,Chhattisgarh,CityD,F,28,Direct Buyer,Organic
+C00182,2023-04-11,Karnataka,CityA,F,18,Reseller,Organic
+C00183,2024-04-09,Haryana,CityD,F,37,Direct Buyer,Organic
+C00184,2024-05-26,Gujarat,CityB,M,22,Direct Buyer,Referral
+C00185,2025-04-20,Karnataka,CityA,F,37,Direct Buyer,Google Ads
+C00186,2025-02-28,Jharkhand,CityE,F,32,Reseller,Organic
+C00187,2025-07-01,Haryana,CityB,M,29,Reseller,Referral
+C00188,2024-07-31,Jammu & Kashmir,CityD,F,18,Direct Buyer,Google Ads
+C00189,2024-04-15,Jammu & Kashmir,CityB,M,42,Reseller,Influencer
+C00190,2023-03-19,Odisha,CityA,F,27,Direct Buyer,Organic
+C00191,2023-12-30,Delhi,CityC,F,35,Reseller,Organic
+C00192,2024-12-30,Jharkhand,CityC,M,29,Reseller,Organic
+C00193,2024-02-29,Chhattisgarh,CityD,F,27,Reseller,Facebook Ads
+C00194,2023-08-13,Bihar,CityD,F,31,Direct Buyer,Influencer
+C00195,2023-07-15,Rajasthan,CityC,F,30,Reseller,Organic
+C00196,2025-04-29,Chhattisgarh,CityD,M,27,Direct Buyer,Organic
+C00197,2024-02-16,Odisha,CityB,M,29,Reseller,Google Ads
+C00198,2024-02-12,Gujarat,CityE,M,33,Direct Buyer,Facebook Ads
+C00199,2024-02-18,Assam,CityE,F,33,Direct Buyer,Influencer
+C00200,2024-04-18,Haryana,CityB,F,30,Reseller,Organic
+C00201,2024-12-27,Kerala,CityE,F,34,Reseller,Organic
+C00202,2024-10-31,Karnataka,CityA,M,26,Reseller,Organic
+C00203,2023-03-16,Jharkhand,CityB,F,47,Reseller,Organic
+C00204,2025-04-04,Karnataka,CityD,M,41,Direct Buyer,Referral
+C00205,2024-08-24,Jharkhand,CityB,F,36,Reseller,Organic
+C00206,2024-01-21,Rajasthan,CityC,M,18,Reseller,Organic
+C00207,2023-09-02,Odisha,CityD,M,34,Direct Buyer,Google Ads
+C00208,2023-05-01,Telangana,CityC,M,27,Reseller,Organic
+C00209,2025-06-19,Telangana,CityD,F,22,Direct Buyer,Facebook Ads
+C00210,2023-05-31,Kerala,CityE,F,27,Reseller,Organic
+C00211,2023-06-20,Haryana,CityB,F,23,Direct Buyer,Google Ads
+C00212,2024-08-06,Maharashtra,CityA,F,34,Reseller,Organic
+C00213,2025-06-01,Assam,CityD,F,42,Reseller,Facebook Ads
+C00214,2024-09-14,Jammu & Kashmir,CityD,F,36,Reseller,Organic
+C00215,2025-03-29,Haryana,CityC,F,52,Reseller,Organic
+C00216,2025-07-05,Assam,CityE,M,18,Reseller,Facebook Ads
+C00217,2024-05-21,Delhi,CityC,M,25,Reseller,Organic
+C00218,2023-04-27,Odisha,CityC,F,22,Direct Buyer,Organic
+C00219,2024-02-16,Kerala,CityE,M,39,Reseller,Google Ads
+C00220,2024-01-30,Telangana,CityA,F,28,Direct Buyer,Google Ads
+C00221,2024-05-02,Madhya Pradesh,CityC,F,31,Reseller,Organic
+C00222,2023-07-05,Uttar Pradesh,CityC,F,35,Direct Buyer,Organic
+C00223,2023-08-23,Bihar,CityD,M,18,Reseller,Organic
+C00224,2024-10-29,Delhi,CityE,F,25,Reseller,Organic
+C00225,2025-04-06,Rajasthan,CityB,F,37,Reseller,Influencer
+C00226,2024-06-22,Odisha,CityA,M,25,Reseller,Referral
+C00227,2024-01-15,Assam,CityA,F,18,Reseller,Referral
+C00228,2024-02-07,Madhya Pradesh,CityE,M,22,Reseller,Influencer
+C00229,2023-03-02,Assam,CityD,M,27,Direct Buyer,Referral
+C00230,2023-09-29,Karnataka,CityD,M,31,Direct Buyer,Facebook Ads
+C00231,2024-10-01,Andhra Pradesh,CityE,F,29,Reseller,Organic
+C00232,2023-12-25,Punjab,CityD,F,25,Direct Buyer,Organic
+C00233,2023-05-25,Karnataka,CityA,F,37,Direct Buyer,Referral
+C00234,2024-09-17,Uttar Pradesh,CityA,F,28,Direct Buyer,Organic
+C00235,2024-08-23,Odisha,CityB,F,31,Reseller,Organic
+C00236,2024-09-26,Madhya Pradesh,CityE,F,25,Reseller,Organic
+C00237,2025-04-26,Bihar,CityC,M,42,Reseller,Organic
+C00238,2023-12-23,Uttar Pradesh,CityC,M,26,Direct Buyer,Referral
+C00239,2023-09-25,West Bengal,CityB,F,30,Reseller,Referral
+C00240,2023-07-23,Karnataka,CityB,F,38,Reseller,Organic
+C00241,2024-09-25,Bihar,CityD,F,32,Reseller,Organic
+C00242,2024-09-22,Andhra Pradesh,CityB,F,32,Reseller,Facebook Ads
+C00243,2025-06-23,Maharashtra,CityB,M,18,Direct Buyer,Organic
+C00244,2024-04-02,Telangana,CityC,M,35,Reseller,Referral
+C00245,2024-01-19,Andhra Pradesh,CityD,M,30,Direct Buyer,Facebook Ads
+C00246,2023-05-11,Jharkhand,CityB,M,34,Direct Buyer,Organic
+C00247,2023-12-27,Rajasthan,CityB,F,31,Reseller,Facebook Ads
+C00248,2023-09-02,Maharashtra,CityD,M,25,Reseller,Facebook Ads
+C00249,2023-09-09,Gujarat,CityE,F,37,Direct Buyer,Organic
+C00250,2023-05-13,Punjab,CityD,F,31,Reseller,Organic
+C00251,2023-08-15,Kerala,CityC,F,19,Reseller,Influencer
+C00252,2025-05-19,Gujarat,CityE,F,40,Reseller,Organic
+C00253,2025-04-18,Jammu & Kashmir,CityA,F,18,Direct Buyer,Google Ads
+C00254,2023-08-07,West Bengal,CityD,F,37,Direct Buyer,Referral
+C00255,2024-06-27,Andhra Pradesh,CityC,M,41,Reseller,Organic
+C00256,2023-10-02,Odisha,CityE,F,21,Reseller,Organic
+C00257,2025-06-17,Chhattisgarh,CityD,F,29,Reseller,Referral
+C00258,2025-07-08,Jharkhand,CityB,F,28,Direct Buyer,Organic
+C00259,2024-10-03,Jharkhand,CityD,M,28,Reseller,Facebook Ads
+C00260,2023-09-30,Maharashtra,CityA,F,44,Direct Buyer,Influencer
+C00261,2023-04-19,Jammu & Kashmir,CityD,M,21,Reseller,Google Ads
+C00262,2023-03-09,Telangana,CityE,M,27,Direct Buyer,Organic
+C00263,2023-10-16,Punjab,CityE,F,42,Reseller,Google Ads
+C00264,2024-07-15,Delhi,CityD,M,27,Direct Buyer,Google Ads
+C00265,2024-03-14,Tamil Nadu,CityE,F,22,Reseller,Influencer
+C00266,2024-07-17,Delhi,CityB,F,32,Direct Buyer,Referral
+C00267,2025-01-25,Madhya Pradesh,CityD,M,36,Reseller,Facebook Ads
+C00268,2023-01-23,West Bengal,CityB,F,26,Reseller,Referral
+C00269,2023-07-31,Assam,CityB,F,34,Reseller,Organic
+C00270,2024-05-19,West Bengal,CityC,F,18,Direct Buyer,Influencer
+C00271,2025-06-18,Jammu & Kashmir,CityD,F,19,Direct Buyer,Organic
+C00272,2025-06-13,Andhra Pradesh,CityE,M,26,Reseller,Organic
+C00273,2025-04-27,Bihar,CityB,F,34,Direct Buyer,Google Ads
+C00274,2023-11-02,Madhya Pradesh,CityC,M,36,Direct Buyer,Organic
+C00275,2024-11-05,Tamil Nadu,CityD,F,20,Direct Buyer,Google Ads
+C00276,2023-11-11,Karnataka,CityD,M,35,Direct Buyer,Facebook Ads
+C00277,2023-05-12,Rajasthan,CityA,F,31,Direct Buyer,Organic
+C00278,2024-12-17,Andhra Pradesh,CityA,F,22,Reseller,Organic
+C00279,2024-09-22,Tamil Nadu,CityB,M,19,Direct Buyer,Facebook Ads
+C00280,2024-01-20,Jharkhand,CityA,F,31,Direct Buyer,Referral
+C00281,2024-07-22,West Bengal,CityB,F,40,Direct Buyer,Influencer
+C00282,2023-07-04,Kerala,CityE,F,30,Reseller,Google Ads
+C00283,2024-04-17,Jammu & Kashmir,CityB,M,22,Reseller,Organic
+C00284,2025-07-11,Chhattisgarh,CityA,F,18,Reseller,Organic
+C00285,2024-09-06,Rajasthan,CityE,M,42,Direct Buyer,Influencer
+C00286,2023-05-28,West Bengal,CityA,F,38,Direct Buyer,Referral
+C00287,2023-03-01,Jharkhand,CityB,F,32,Reseller,Organic
+C00288,2025-03-27,Bihar,CityC,M,41,Direct Buyer,Google Ads
+C00289,2024-03-04,Madhya Pradesh,CityD,M,31,Direct Buyer,Google Ads
+C00290,2024-02-27,Punjab,CityA,M,25,Direct Buyer,Referral
+C00291,2025-02-07,Jammu & Kashmir,CityB,M,34,Reseller,Organic
+C00292,2025-02-13,West Bengal,CityE,F,23,Direct Buyer,Facebook Ads
+C00293,2025-06-26,Maharashtra,CityA,F,22,Reseller,Facebook Ads
+C00294,2024-05-01,Haryana,CityA,F,36,Direct Buyer,Google Ads
+C00295,2024-07-29,Delhi,CityD,M,36,Reseller,Influencer
+C00296,2024-04-05,Delhi,CityB,M,19,Reseller,Referral
+C00297,2024-09-30,Chhattisgarh,CityC,F,20,Direct Buyer,Google Ads
+C00298,2024-10-18,Jharkhand,CityE,F,26,Reseller,Influencer
+C00299,2024-05-16,Delhi,CityB,F,24,Reseller,Organic
+C00300,2023-06-19,Kerala,CityE,M,33,Direct Buyer,Organic
+C00301,2024-01-03,Odisha,CityA,F,30,Reseller,Google Ads
+C00302,2025-07-07,Tamil Nadu,CityD,F,39,Reseller,Organic
+C00303,2023-08-08,West Bengal,CityD,F,32,Reseller,Organic
+C00304,2025-04-01,Delhi,CityC,M,24,Reseller,Organic
+C00305,2024-10-20,Punjab,CityD,M,18,Reseller,Organic
+C00306,2023-01-24,Kerala,CityA,M,31,Reseller,Organic
+C00307,2024-02-29,West Bengal,CityC,F,18,Direct Buyer,Organic
+C00308,2024-01-11,Chhattisgarh,CityB,F,24,Reseller,Influencer
+C00309,2024-01-29,Uttar Pradesh,CityD,M,24,Reseller,Facebook Ads
+C00310,2023-06-20,Haryana,CityC,M,25,Reseller,Facebook Ads
+C00311,2025-01-10,Jammu & Kashmir,CityA,F,19,Reseller,Organic
+C00312,2025-01-10,Chhattisgarh,CityE,F,24,Direct Buyer,Facebook Ads
+C00313,2025-01-19,Assam,CityE,F,39,Direct Buyer,Facebook Ads
+C00314,2023-07-26,Telangana,CityA,F,39,Reseller,Facebook Ads
+C00315,2025-06-30,Kerala,CityA,M,42,Reseller,Organic
+C00316,2024-11-28,Uttar Pradesh,CityE,F,30,Reseller,Organic
+C00317,2023-04-28,Chhattisgarh,CityC,F,32,Direct Buyer,Google Ads
+C00318,2024-05-14,Tamil Nadu,CityE,F,39,Direct Buyer,Facebook Ads
+C00319,2023-09-02,West Bengal,CityA,F,18,Reseller,Facebook Ads
+C00320,2024-04-18,Jammu & Kashmir,CityD,F,36,Reseller,Referral
+C00321,2024-07-31,Punjab,CityB,F,40,Direct Buyer,Organic
+C00322,2025-01-14,Assam,CityD,F,22,Direct Buyer,Facebook Ads
+C00323,2025-02-21,Assam,CityD,M,41,Direct Buyer,Organic
+C00324,2024-09-05,Tamil Nadu,CityA,F,46,Reseller,Facebook Ads
+C00325,2025-01-28,Assam,CityE,F,36,Reseller,Influencer
+C00326,2024-11-03,Jharkhand,CityC,M,34,Reseller,Google Ads
+C00327,2023-11-05,Telangana,CityD,M,21,Direct Buyer,Organic
+C00328,2025-06-02,Rajasthan,CityE,M,38,Direct Buyer,Organic
+C00329,2023-12-14,Gujarat,CityC,F,21,Reseller,Facebook Ads
+C00330,2024-07-17,Punjab,CityD,F,32,Reseller,Google Ads
+C00331,2023-09-15,Madhya Pradesh,CityC,F,33,Reseller,Referral
+C00332,2023-03-17,Jammu & Kashmir,CityE,F,18,Reseller,Referral
+C00333,2023-05-24,Andhra Pradesh,CityB,F,33,Reseller,Organic
+C00334,2025-04-27,Haryana,CityE,M,50,Direct Buyer,Facebook Ads
+C00335,2023-12-03,Bihar,CityA,F,18,Reseller,Facebook Ads
+C00336,2024-02-24,Kerala,CityC,F,29,Reseller,Influencer
+C00337,2024-12-20,Telangana,CityB,F,18,Direct Buyer,Organic
+C00338,2024-12-23,Chhattisgarh,CityC,F,22,Reseller,Facebook Ads
+C00339,2025-01-15,Kerala,CityC,M,18,Reseller,Organic
+C00340,2024-07-31,Tamil Nadu,CityD,F,31,Reseller,Referral
+C00341,2023-01-29,Chhattisgarh,CityA,M,36,Direct Buyer,Google Ads
+C00342,2025-03-24,Kerala,CityC,M,33,Direct Buyer,Organic
+C00343,2023-01-12,Delhi,CityE,F,22,Reseller,Organic
+C00344,2023-02-18,Delhi,CityE,F,25,Reseller,Google Ads
+C00345,2025-02-23,Andhra Pradesh,CityD,M,32,Reseller,Referral
+C00346,2025-02-23,Bihar,CityA,M,22,Direct Buyer,Organic
+C00347,2023-08-22,Jharkhand,CityA,F,19,Direct Buyer,Organic
+C00348,2025-02-17,Delhi,CityE,M,28,Direct Buyer,Referral
+C00349,2024-07-20,Madhya Pradesh,CityB,F,22,Reseller,Influencer
+C00350,2024-10-12,Madhya Pradesh,CityD,M,33,Direct Buyer,Organic
+C00351,2023-09-21,Jammu & Kashmir,CityD,F,40,Direct Buyer,Google Ads
+C00352,2025-04-07,Chhattisgarh,CityE,F,50,Direct Buyer,Organic
+C00353,2023-01-13,Andhra Pradesh,CityE,M,32,Direct Buyer,Organic
+C00354,2023-10-31,Madhya Pradesh,CityB,F,35,Reseller,Organic
+C00355,2024-01-13,West Bengal,CityB,F,25,Reseller,Google Ads
+C00356,2024-05-17,Tamil Nadu,CityA,F,25,Reseller,Organic
+C00357,2025-03-28,West Bengal,CityD,M,40,Reseller,Google Ads
+C00358,2023-10-17,Rajasthan,CityD,M,27,Direct Buyer,Referral
+C00359,2023-04-13,Rajasthan,CityE,M,30,Direct Buyer,Influencer
+C00360,2024-12-04,Haryana,CityA,F,39,Direct Buyer,Google Ads
+C00361,2025-02-02,Bihar,CityD,M,27,Reseller,Facebook Ads
+C00362,2023-12-09,Uttar Pradesh,CityA,F,42,Reseller,Google Ads
+C00363,2023-01-06,West Bengal,CityA,F,34,Direct Buyer,Referral
+C00364,2023-09-11,Tamil Nadu,CityE,M,33,Reseller,Google Ads
+C00365,2024-04-11,Gujarat,CityA,F,24,Reseller,Organic
+C00366,2024-08-20,Jharkhand,CityB,F,34,Direct Buyer,Organic
+C00367,2024-09-09,Odisha,CityB,F,26,Direct Buyer,Referral
+C00368,2024-10-25,Jammu & Kashmir,CityC,F,33,Reseller,Organic
+C00369,2023-12-31,West Bengal,CityE,M,29,Direct Buyer,Organic
+C00370,2024-01-21,Odisha,CityC,F,37,Direct Buyer,Referral
+C00371,2023-12-20,Andhra Pradesh,CityB,M,29,Direct Buyer,Organic
+C00372,2023-02-09,Rajasthan,CityC,F,46,Direct Buyer,Referral
+C00373,2025-03-21,Bihar,CityE,F,27,Reseller,Organic
+C00374,2024-06-03,Jharkhand,CityE,F,25,Direct Buyer,Influencer
+C00375,2024-05-03,Andhra Pradesh,CityA,M,32,Reseller,Influencer
+C00376,2024-11-23,Punjab,CityD,M,38,Reseller,Influencer
+C00377,2023-03-15,Punjab,CityA,M,38,Direct Buyer,Organic
+C00378,2025-03-04,Andhra Pradesh,CityE,M,31,Reseller,Referral
+C00379,2023-02-12,Kerala,CityB,F,32,Direct Buyer,Influencer
+C00380,2025-07-02,Tamil Nadu,CityB,M,32,Direct Buyer,Influencer
+C00381,2024-02-26,Odisha,CityA,M,21,Direct Buyer,Google Ads
+C00382,2023-02-19,Gujarat,CityE,M,38,Direct Buyer,Organic
+C00383,2023-05-15,Kerala,CityB,F,19,Reseller,Referral
+C00384,2025-04-27,West Bengal,CityE,F,21,Reseller,Google Ads
+C00385,2024-03-21,Telangana,CityB,M,30,Reseller,Organic
+C00386,2023-01-10,Jammu & Kashmir,CityE,M,27,Reseller,Referral
+C00387,2023-08-30,Haryana,CityC,F,36,Reseller,Google Ads
+C00388,2023-01-13,Telangana,CityE,M,33,Direct Buyer,Facebook Ads
+C00389,2025-06-12,West Bengal,CityE,M,31,Direct Buyer,Referral
+C00390,2023-01-07,Haryana,CityA,F,20,Direct Buyer,Referral
+C00391,2023-07-16,Uttar Pradesh,CityC,M,30,Direct Buyer,Influencer
+C00392,2024-10-21,Rajasthan,CityD,F,29,Direct Buyer,Referral
+C00393,2025-05-13,Tamil Nadu,CityA,F,31,Reseller,Google Ads
+C00394,2025-04-09,Assam,CityD,F,26,Reseller,Facebook Ads
+C00395,2023-02-12,Haryana,CityB,F,34,Reseller,Facebook Ads
+C00396,2025-06-12,Telangana,CityD,M,27,Direct Buyer,Facebook Ads
+C00397,2024-07-15,Jammu & Kashmir,CityE,F,33,Reseller,Referral
+C00398,2024-10-25,Assam,CityD,F,36,Direct Buyer,Referral
+C00399,2025-03-29,Punjab,CityA,F,25,Direct Buyer,Referral
+C00400,2023-06-25,Rajasthan,CityA,F,23,Reseller,Organic
+C00401,2024-08-30,Andhra Pradesh,CityD,F,33,Reseller,Organic
+C00402,2023-04-30,Odisha,CityA,M,19,Reseller,Organic
+C00403,2024-01-26,Jharkhand,CityA,F,38,Reseller,Google Ads
+C00404,2024-12-16,Madhya Pradesh,CityD,M,30,Direct Buyer,Organic
+C00405,2025-01-03,Haryana,CityC,M,29,Direct Buyer,Organic
+C00406,2023-01-21,Madhya Pradesh,CityC,F,34,Direct Buyer,Organic
+C00407,2024-04-16,Bihar,CityB,M,33,Direct Buyer,Facebook Ads
+C00408,2024-08-05,Madhya Pradesh,CityA,F,30,Direct Buyer,Organic
+C00409,2024-06-18,Chhattisgarh,CityD,F,37,Direct Buyer,Referral
+C00410,2025-03-14,Delhi,CityA,F,24,Reseller,Organic
+C00411,2023-09-27,Delhi,CityE,F,35,Direct Buyer,Google Ads
+C00412,2025-05-03,Odisha,CityA,F,21,Reseller,Influencer
+C00413,2023-07-23,Gujarat,CityA,M,34,Reseller,Influencer
+C00414,2024-10-26,Uttar Pradesh,CityC,F,27,Reseller,Organic
+C00415,2023-08-23,Haryana,CityD,M,19,Direct Buyer,Referral
+C00416,2023-05-07,West Bengal,CityA,F,32,Reseller,Referral
+C00417,2025-04-22,Andhra Pradesh,CityC,M,29,Reseller,Organic
+C00418,2025-04-15,Rajasthan,CityB,F,18,Direct Buyer,Organic
+C00419,2024-08-01,Uttar Pradesh,CityC,F,18,Direct Buyer,Organic
+C00420,2024-05-16,Chhattisgarh,CityC,F,28,Direct Buyer,Google Ads
+C00421,2024-08-03,Maharashtra,CityC,F,42,Direct Buyer,Organic
+C00422,2024-11-29,Telangana,CityA,F,32,Direct Buyer,Referral
+C00423,2024-06-25,Gujarat,CityA,M,24,Direct Buyer,Referral
+C00424,2025-01-30,Rajasthan,CityB,F,38,Reseller,Referral
+C00425,2023-02-12,Chhattisgarh,CityE,M,37,Direct Buyer,Google Ads
+C00426,2023-06-05,Chhattisgarh,CityE,M,40,Direct Buyer,Facebook Ads
+C00427,2023-02-21,Maharashtra,CityE,M,35,Reseller,Facebook Ads
+C00428,2024-09-25,Tamil Nadu,CityB,F,37,Reseller,Referral
+C00429,2024-02-09,Jharkhand,CityE,F,35,Reseller,Organic
+C00430,2023-05-02,Tamil Nadu,CityE,M,26,Direct Buyer,Organic
+C00431,2023-11-29,Maharashtra,CityC,M,18,Reseller,Influencer
+C00432,2024-02-06,Uttar Pradesh,CityA,F,25,Direct Buyer,Influencer
+C00433,2023-11-14,Andhra Pradesh,CityA,F,38,Direct Buyer,Facebook Ads
+C00434,2025-05-15,Madhya Pradesh,CityC,F,26,Direct Buyer,Organic
+C00435,2023-12-02,Maharashtra,CityC,F,28,Direct Buyer,Organic
+C00436,2024-07-20,Punjab,CityC,M,20,Reseller,Organic
+C00437,2023-05-16,Maharashtra,CityA,F,25,Reseller,Google Ads
+C00438,2024-10-06,Andhra Pradesh,CityE,F,29,Reseller,Facebook Ads
+C00439,2024-10-16,Maharashtra,CityC,F,33,Direct Buyer,Google Ads
+C00440,2024-06-24,Punjab,CityB,F,26,Reseller,Referral
+C00441,2025-06-28,Punjab,CityC,M,25,Reseller,Organic
+C00442,2023-06-24,Delhi,CityD,M,36,Reseller,Organic
+C00443,2024-12-15,Rajasthan,CityC,F,32,Direct Buyer,Organic
+C00444,2024-02-09,Odisha,CityA,M,33,Reseller,Referral
+C00445,2023-07-17,Assam,CityC,F,42,Direct Buyer,Organic
+C00446,2023-02-16,Karnataka,CityD,F,25,Reseller,Facebook Ads
+C00447,2024-07-05,Tamil Nadu,CityB,F,29,Reseller,Facebook Ads
+C00448,2024-01-30,Andhra Pradesh,CityE,F,34,Reseller,Organic
+C00449,2024-02-17,Bihar,CityC,F,23,Reseller,Organic
+C00450,2023-12-08,Delhi,CityD,F,31,Direct Buyer,Organic
+C00451,2023-12-16,Chhattisgarh,CityD,M,30,Reseller,Facebook Ads
+C00452,2023-04-23,Rajasthan,CityB,F,52,Direct Buyer,Referral
+C00453,2025-06-24,Jammu & Kashmir,CityA,M,30,Direct Buyer,Organic
+C00454,2024-01-19,West Bengal,CityC,F,39,Direct Buyer,Google Ads
+C00455,2023-02-04,Jharkhand,CityD,M,36,Direct Buyer,Referral
+C00456,2024-03-07,Jammu & Kashmir,CityB,M,20,Reseller,Referral
+C00457,2023-11-18,Assam,CityE,F,18,Direct Buyer,Facebook Ads
+C00458,2024-05-31,Karnataka,CityD,M,31,Direct Buyer,Google Ads
+C00459,2023-02-25,Assam,CityB,F,40,Direct Buyer,Facebook Ads
+C00460,2023-04-08,Jammu & Kashmir,CityA,M,32,Direct Buyer,Organic
+C00461,2024-06-15,Jharkhand,CityA,F,30,Reseller,Organic
+C00462,2023-01-31,Gujarat,CityD,M,27,Direct Buyer,Google Ads
+C00463,2023-09-25,Karnataka,CityD,M,19,Direct Buyer,Referral
+C00464,2024-04-04,Chhattisgarh,CityC,F,22,Reseller,Facebook Ads
+C00465,2023-08-17,Maharashtra,CityB,F,18,Direct Buyer,Google Ads
+C00466,2023-07-15,Bihar,CityD,M,21,Direct Buyer,Influencer
+C00467,2023-05-03,Karnataka,CityC,F,25,Reseller,Organic
+C00468,2024-01-30,Odisha,CityC,F,36,Reseller,Organic
+C00469,2025-03-22,Uttar Pradesh,CityD,F,26,Direct Buyer,Organic
+C00470,2024-08-04,Andhra Pradesh,CityA,F,32,Reseller,Facebook Ads
+C00471,2023-02-09,Jammu & Kashmir,CityB,M,31,Reseller,Organic
+C00472,2025-04-11,Bihar,CityB,F,33,Reseller,Organic
+C00473,2025-05-06,Tamil Nadu,CityA,F,21,Reseller,Organic
+C00474,2023-01-31,Rajasthan,CityD,M,38,Direct Buyer,Organic
+C00475,2023-10-27,Jammu & Kashmir,CityB,M,18,Reseller,Organic
+C00476,2024-10-29,Haryana,CityD,F,26,Direct Buyer,Organic
+C00477,2024-10-03,Telangana,CityD,F,29,Direct Buyer,Facebook Ads
+C00478,2023-11-13,Delhi,CityC,M,36,Reseller,Organic
+C00479,2023-05-14,Madhya Pradesh,CityA,M,41,Reseller,Organic
+C00480,2023-01-01,Delhi,CityD,F,36,Direct Buyer,Google Ads
+C00481,2025-06-15,Telangana,CityE,F,41,Reseller,Google Ads
+C00482,2024-12-29,Odisha,CityA,F,23,Reseller,Organic
+C00483,2023-02-13,Andhra Pradesh,CityB,F,39,Direct Buyer,Organic
+C00484,2023-08-14,Karnataka,CityC,F,38,Direct Buyer,Facebook Ads
+C00485,2024-04-10,Gujarat,CityB,M,18,Direct Buyer,Organic
+C00486,2023-05-16,West Bengal,CityB,F,28,Direct Buyer,Organic
+C00487,2023-06-02,Madhya Pradesh,CityA,M,34,Direct Buyer,Organic
+C00488,2023-09-19,Karnataka,CityB,F,25,Direct Buyer,Organic
+C00489,2024-11-24,Gujarat,CityD,M,21,Direct Buyer,Referral
+C00490,2024-12-27,Assam,CityB,M,46,Reseller,Google Ads
+C00491,2024-01-11,Assam,CityC,F,30,Reseller,Google Ads
+C00492,2025-03-25,Punjab,CityC,F,31,Direct Buyer,Referral
+C00493,2023-11-06,Jharkhand,CityE,F,19,Direct Buyer,Organic
+C00494,2024-12-06,Karnataka,CityC,M,25,Reseller,Referral
+C00495,2024-06-22,Haryana,CityB,M,22,Reseller,Organic
+C00496,2023-06-18,Andhra Pradesh,CityC,F,38,Reseller,Organic
+C00497,2024-07-08,Jammu & Kashmir,CityA,F,34,Direct Buyer,Facebook Ads
+C00498,2023-12-05,Tamil Nadu,CityC,F,25,Direct Buyer,Google Ads
+C00499,2024-09-16,Odisha,CityD,M,34,Direct Buyer,Organic
+C00500,2024-10-13,Maharashtra,CityA,F,27,Direct Buyer,Google Ads
+C00501,2024-11-15,Rajasthan,CityE,F,31,Direct Buyer,Organic
+C00502,2024-06-27,Punjab,CityD,F,31,Reseller,Organic
+C00503,2023-12-06,Bihar,CityB,F,33,Reseller,Organic
+C00504,2024-06-28,Kerala,CityB,M,32,Reseller,Facebook Ads
+C00505,2024-08-17,Bihar,CityB,F,33,Direct Buyer,Google Ads
+C00506,2024-03-08,Haryana,CityD,M,40,Reseller,Facebook Ads
+C00507,2025-03-14,Telangana,CityD,F,35,Direct Buyer,Organic
+C00508,2025-03-19,Karnataka,CityD,F,27,Direct Buyer,Organic
+C00509,2023-04-29,Tamil Nadu,CityA,M,29,Reseller,Referral
+C00510,2024-03-08,Uttar Pradesh,CityA,M,39,Direct Buyer,Organic
+C00511,2024-05-28,Uttar Pradesh,CityB,M,30,Direct Buyer,Organic
+C00512,2023-01-03,Karnataka,CityC,F,27,Reseller,Influencer
+C00513,2024-02-20,Madhya Pradesh,CityB,F,24,Reseller,Facebook Ads
+C00514,2023-10-01,Punjab,CityE,M,32,Direct Buyer,Organic
+C00515,2025-06-27,Telangana,CityA,F,23,Reseller,Organic
+C00516,2023-07-20,Madhya Pradesh,CityD,F,40,Reseller,Organic
+C00517,2025-06-27,West Bengal,CityA,M,21,Direct Buyer,Facebook Ads
+C00518,2024-09-23,Tamil Nadu,CityD,M,41,Direct Buyer,Google Ads
+C00519,2024-12-30,Jharkhand,CityE,M,27,Reseller,Facebook Ads
+C00520,2023-12-23,Delhi,CityE,M,21,Direct Buyer,Organic
+C00521,2025-06-30,Gujarat,CityA,M,31,Direct Buyer,Organic
+C00522,2025-06-13,Odisha,CityD,F,22,Reseller,Influencer
+C00523,2023-01-27,Telangana,CityE,F,30,Direct Buyer,Influencer
+C00524,2024-07-26,Jharkhand,CityB,F,25,Reseller,Referral
+C00525,2024-01-02,Punjab,CityB,F,37,Reseller,Organic
+C00526,2024-10-31,Uttar Pradesh,CityD,F,31,Direct Buyer,Referral
+C00527,2023-07-10,Kerala,CityA,F,20,Direct Buyer,Google Ads
+C00528,2024-05-25,Kerala,CityE,F,25,Reseller,Facebook Ads
+C00529,2024-04-10,Maharashtra,CityA,F,35,Direct Buyer,Facebook Ads
+C00530,2025-04-19,West Bengal,CityB,F,40,Direct Buyer,Organic
+C00531,2024-10-24,Tamil Nadu,CityE,F,29,Direct Buyer,Organic
+C00532,2024-12-20,Madhya Pradesh,CityA,F,21,Reseller,Organic
+C00533,2025-06-08,Bihar,CityC,M,38,Direct Buyer,Influencer
+C00534,2023-09-24,Uttar Pradesh,CityD,F,35,Reseller,Referral
+C00535,2023-01-15,West Bengal,CityD,F,40,Reseller,Google Ads
+C00536,2025-06-10,Jammu & Kashmir,CityC,M,32,Direct Buyer,Organic
+C00537,2024-04-29,Maharashtra,CityB,F,25,Direct Buyer,Influencer
+C00538,2023-03-13,Madhya Pradesh,CityE,F,34,Direct Buyer,Google Ads
+C00539,2025-05-07,Bihar,CityD,F,32,Reseller,Organic
+C00540,2023-06-17,Gujarat,CityC,F,25,Reseller,Google Ads
+C00541,2023-11-18,Jammu & Kashmir,CityC,M,31,Direct Buyer,Organic
+C00542,2023-03-04,Tamil Nadu,CityB,F,28,Reseller,Organic
+C00543,2024-10-04,Haryana,CityB,M,35,Direct Buyer,Organic
+C00544,2023-05-29,Tamil Nadu,CityA,F,33,Reseller,Influencer
+C00545,2025-05-24,Delhi,CityD,F,21,Direct Buyer,Influencer
+C00546,2025-06-12,Odisha,CityA,F,20,Direct Buyer,Organic
+C00547,2023-01-06,Telangana,CityC,F,29,Direct Buyer,Facebook Ads
+C00548,2025-06-01,Maharashtra,CityE,F,30,Direct Buyer,Facebook Ads
+C00549,2025-05-17,Assam,CityE,F,36,Direct Buyer,Google Ads
+C00550,2023-07-03,Odisha,CityB,F,34,Reseller,Organic
+C00551,2024-07-18,Odisha,CityE,M,41,Reseller,Referral
+C00552,2024-03-22,Gujarat,CityE,F,26,Direct Buyer,Facebook Ads
+C00553,2025-05-04,Maharashtra,CityE,M,25,Reseller,Organic
+C00554,2024-05-26,Bihar,CityC,M,22,Direct Buyer,Organic
+C00555,2024-03-21,Odisha,CityE,F,35,Reseller,Facebook Ads
+C00556,2023-08-10,Punjab,CityE,F,30,Reseller,Organic
+C00557,2023-08-29,Uttar Pradesh,CityE,F,18,Reseller,Influencer
+C00558,2024-08-27,Bihar,CityA,M,31,Direct Buyer,Organic
+C00559,2024-03-30,Jammu & Kashmir,CityC,F,32,Direct Buyer,Influencer
+C00560,2023-02-26,Maharashtra,CityB,M,28,Direct Buyer,Organic
+C00561,2024-08-15,Gujarat,CityA,F,32,Direct Buyer,Organic
+C00562,2024-05-21,Delhi,CityD,M,20,Reseller,Organic
+C00563,2025-03-13,Assam,CityC,F,43,Reseller,Google Ads
+C00564,2024-08-27,Haryana,CityC,M,33,Direct Buyer,Facebook Ads
+C00565,2025-07-03,Telangana,CityD,F,18,Direct Buyer,Organic
+C00566,2024-10-01,Punjab,CityD,F,29,Reseller,Organic
+C00567,2024-07-15,Chhattisgarh,CityD,F,33,Direct Buyer,Referral
+C00568,2023-05-29,Madhya Pradesh,CityB,F,21,Reseller,Referral
+C00569,2024-01-29,Odisha,CityE,M,34,Reseller,Google Ads
+C00570,2023-01-28,Telangana,CityC,F,43,Direct Buyer,Organic
+C00571,2024-10-04,Assam,CityE,F,24,Reseller,Referral
+C00572,2024-05-10,Bihar,CityE,F,33,Reseller,Facebook Ads
+C00573,2023-08-07,Uttar Pradesh,CityD,F,31,Reseller,Influencer
+C00574,2024-02-15,Jammu & Kashmir,CityB,F,37,Reseller,Facebook Ads
+C00575,2024-10-20,Punjab,CityA,M,29,Direct Buyer,Organic
+C00576,2025-04-27,Maharashtra,CityB,F,21,Direct Buyer,Organic
+C00577,2023-05-08,Maharashtra,CityE,M,37,Direct Buyer,Referral
+C00578,2024-04-13,Bihar,CityB,F,21,Direct Buyer,Referral
+C00579,2024-04-02,Karnataka,CityD,F,44,Reseller,Google Ads
+C00580,2025-07-01,Assam,CityA,M,34,Reseller,Facebook Ads
+C00581,2024-12-06,Rajasthan,CityD,M,25,Reseller,Referral
+C00582,2024-03-23,Tamil Nadu,CityA,F,38,Reseller,Organic
+C00583,2024-10-03,Gujarat,CityE,M,29,Reseller,Organic
+C00584,2025-01-28,Jammu & Kashmir,CityA,F,28,Direct Buyer,Organic
+C00585,2025-06-21,Uttar Pradesh,CityA,F,24,Direct Buyer,Organic
+C00586,2024-10-08,Karnataka,CityA,M,18,Reseller,Referral
+C00587,2024-10-29,Bihar,CityB,F,34,Direct Buyer,Organic
+C00588,2023-01-31,West Bengal,CityB,F,18,Reseller,Organic
+C00589,2024-10-21,Assam,CityE,M,23,Direct Buyer,Organic
+C00590,2024-04-22,Tamil Nadu,CityA,M,33,Direct Buyer,Organic
+C00591,2024-06-13,Assam,CityC,F,25,Reseller,Organic
+C00592,2025-03-03,Bihar,CityE,F,31,Reseller,Facebook Ads
+C00593,2025-01-27,Jharkhand,CityA,F,20,Direct Buyer,Organic
+C00594,2025-04-04,Jammu & Kashmir,CityA,M,27,Direct Buyer,Referral
+C00595,2023-10-08,Jharkhand,CityB,M,31,Direct Buyer,Referral
+C00596,2024-05-09,West Bengal,CityE,F,22,Direct Buyer,Influencer
+C00597,2025-05-17,Odisha,CityA,F,43,Direct Buyer,Organic
+C00598,2025-02-21,Chhattisgarh,CityA,F,24,Reseller,Organic
+C00599,2024-06-13,Rajasthan,CityE,M,41,Reseller,Organic
+C00600,2023-02-22,Gujarat,CityC,M,28,Reseller,Referral
+C00601,2023-08-29,Bihar,CityE,M,18,Reseller,Influencer
+C00602,2023-09-04,Kerala,CityE,M,20,Reseller,Facebook Ads
+C00603,2023-03-06,Assam,CityC,F,31,Direct Buyer,Facebook Ads
+C00604,2024-03-24,Haryana,CityE,F,38,Direct Buyer,Organic
+C00605,2023-11-13,Delhi,CityA,F,44,Reseller,Facebook Ads
+C00606,2024-02-11,Uttar Pradesh,CityE,F,31,Direct Buyer,Organic
+C00607,2023-08-21,Tamil Nadu,CityC,F,20,Reseller,Referral
+C00608,2024-11-12,Maharashtra,CityD,F,32,Reseller,Referral
+C00609,2024-05-13,Jharkhand,CityE,M,23,Direct Buyer,Organic
+C00610,2023-05-31,Tamil Nadu,CityB,M,33,Direct Buyer,Organic
+C00611,2024-09-03,Jharkhand,CityA,F,22,Reseller,Google Ads
+C00612,2024-05-31,West Bengal,CityA,F,18,Reseller,Organic
+C00613,2023-12-13,Karnataka,CityB,F,40,Direct Buyer,Organic
+C00614,2024-10-04,Bihar,CityB,M,28,Reseller,Organic
+C00615,2024-08-19,Delhi,CityE,M,30,Reseller,Organic
+C00616,2023-03-24,Jharkhand,CityB,F,37,Direct Buyer,Facebook Ads
+C00617,2024-11-25,Jammu & Kashmir,CityD,F,45,Reseller,Referral
+C00618,2024-03-02,Chhattisgarh,CityC,F,35,Reseller,Google Ads
+C00619,2023-09-06,Karnataka,CityB,F,30,Reseller,Organic
+C00620,2023-03-14,Jharkhand,CityB,F,33,Direct Buyer,Facebook Ads
+C00621,2024-07-31,Tamil Nadu,CityD,M,27,Direct Buyer,Google Ads
+C00622,2025-07-09,Punjab,CityA,M,30,Reseller,Organic
+C00623,2025-04-02,Delhi,CityA,F,31,Reseller,Organic
+C00624,2023-03-28,Jharkhand,CityE,M,23,Reseller,Google Ads
+C00625,2023-01-19,Delhi,CityD,M,30,Reseller,Organic
+C00626,2023-10-20,Bihar,CityC,F,32,Reseller,Organic
+C00627,2025-06-13,Andhra Pradesh,CityC,F,34,Direct Buyer,Organic
+C00628,2023-02-27,Delhi,CityD,M,33,Reseller,Organic
+C00629,2025-04-08,Gujarat,CityC,F,19,Reseller,Organic
+C00630,2023-11-24,Jammu & Kashmir,CityA,M,39,Reseller,Organic
+C00631,2023-02-20,Kerala,CityC,M,39,Reseller,Facebook Ads
+C00632,2023-10-04,Rajasthan,CityC,M,29,Reseller,Organic
+C00633,2024-03-01,Jharkhand,CityD,M,33,Reseller,Google Ads
+C00634,2024-03-16,Gujarat,CityD,M,28,Direct Buyer,Organic
+C00635,2024-11-10,Delhi,CityC,M,36,Direct Buyer,Influencer
+C00636,2024-10-01,Assam,CityB,F,23,Reseller,Influencer
+C00637,2023-07-29,Jammu & Kashmir,CityD,F,40,Direct Buyer,Google Ads
+C00638,2023-01-20,Jharkhand,CityE,F,35,Reseller,Influencer
+C00639,2023-06-03,Tamil Nadu,CityE,M,35,Reseller,Facebook Ads
+C00640,2023-12-10,West Bengal,CityA,F,29,Direct Buyer,Google Ads
+C00641,2024-01-02,Karnataka,CityC,F,18,Reseller,Organic
+C00642,2023-12-28,Chhattisgarh,CityB,F,37,Direct Buyer,Organic
+C00643,2023-12-19,Gujarat,CityA,M,18,Direct Buyer,Facebook Ads
+C00644,2023-10-21,Uttar Pradesh,CityC,M,37,Direct Buyer,Organic
+C00645,2023-05-22,Jammu & Kashmir,CityD,M,23,Direct Buyer,Google Ads
+C00646,2024-10-10,Jharkhand,CityE,F,18,Reseller,Google Ads
+C00647,2025-05-22,Telangana,CityB,M,30,Direct Buyer,Organic
+C00648,2023-07-26,Bihar,CityE,M,39,Direct Buyer,Google Ads
+C00649,2023-03-13,Gujarat,CityD,F,22,Direct Buyer,Organic
+C00650,2025-04-02,Jharkhand,CityC,F,42,Reseller,Organic
+C00651,2024-09-09,Gujarat,CityD,F,35,Direct Buyer,Referral
+C00652,2024-05-06,West Bengal,CityD,M,31,Reseller,Organic
+C00653,2023-06-10,West Bengal,CityE,F,26,Direct Buyer,Referral
+C00654,2025-02-07,Karnataka,CityB,F,27,Reseller,Referral
+C00655,2023-12-14,Maharashtra,CityD,M,33,Direct Buyer,Organic
+C00656,2025-02-16,Gujarat,CityE,F,36,Reseller,Google Ads
+C00657,2024-12-17,Jharkhand,CityB,F,25,Reseller,Referral
+C00658,2025-01-31,Gujarat,CityC,M,23,Reseller,Organic
+C00659,2024-01-06,Punjab,CityC,F,28,Reseller,Organic
+C00660,2024-02-24,Chhattisgarh,CityA,M,41,Reseller,Google Ads
+C00661,2023-07-13,Punjab,CityE,F,20,Reseller,Google Ads
+C00662,2023-03-24,Odisha,CityB,M,39,Direct Buyer,Organic
+C00663,2024-06-09,Bihar,CityD,M,30,Direct Buyer,Organic
+C00664,2024-03-24,Telangana,CityC,F,18,Direct Buyer,Google Ads
+C00665,2024-07-15,Jharkhand,CityB,F,26,Reseller,Referral
+C00666,2024-12-11,Haryana,CityE,M,34,Reseller,Organic
+C00667,2023-09-13,Madhya Pradesh,CityA,M,44,Reseller,Referral
+C00668,2023-06-19,Punjab,CityC,M,19,Direct Buyer,Referral
+C00669,2024-12-14,Jammu & Kashmir,CityB,M,18,Direct Buyer,Google Ads
+C00670,2025-04-04,Madhya Pradesh,CityB,F,19,Reseller,Organic
+C00671,2024-07-19,Bihar,CityB,F,39,Reseller,Referral
+C00672,2024-12-24,Odisha,CityE,M,18,Direct Buyer,Organic
+C00673,2024-08-05,Uttar Pradesh,CityE,F,41,Direct Buyer,Influencer
+C00674,2023-12-06,Gujarat,CityE,F,39,Direct Buyer,Google Ads
+C00675,2024-12-13,Gujarat,CityD,F,31,Direct Buyer,Facebook Ads
+C00676,2024-08-01,West Bengal,CityB,F,24,Reseller,Facebook Ads
+C00677,2025-05-07,Bihar,CityC,F,30,Reseller,Organic
+C00678,2024-01-16,Chhattisgarh,CityE,M,34,Reseller,Influencer
+C00679,2023-08-12,Maharashtra,CityE,F,33,Reseller,Organic
+C00680,2025-03-16,Uttar Pradesh,CityB,F,43,Reseller,Google Ads
+C00681,2024-11-26,Karnataka,CityE,M,27,Reseller,Organic
+C00682,2024-10-28,Kerala,CityD,M,19,Reseller,Organic
+C00683,2023-04-30,Assam,CityD,F,18,Reseller,Referral
+C00684,2023-07-29,Karnataka,CityE,F,18,Reseller,Google Ads
+C00685,2025-04-10,Odisha,CityB,M,31,Reseller,Google Ads
+C00686,2025-07-14,Odisha,CityB,M,28,Reseller,Referral
+C00687,2024-05-19,Jharkhand,CityB,M,30,Direct Buyer,Organic
+C00688,2024-08-20,Assam,CityA,M,25,Direct Buyer,Influencer
+C00689,2025-01-26,Assam,CityE,M,21,Reseller,Organic
+C00690,2024-02-14,Gujarat,CityB,F,34,Reseller,Google Ads
+C00691,2023-07-05,Delhi,CityD,M,18,Reseller,Referral
+C00692,2024-12-27,Jammu & Kashmir,CityC,F,23,Direct Buyer,Organic
+C00693,2024-07-14,Karnataka,CityC,M,36,Reseller,Organic
+C00694,2023-07-02,Delhi,CityB,M,22,Reseller,Organic
+C00695,2025-03-18,Tamil Nadu,CityC,F,33,Direct Buyer,Organic
+C00696,2024-02-22,Jammu & Kashmir,CityC,F,23,Reseller,Organic
+C00697,2025-05-02,Delhi,CityA,F,26,Reseller,Organic
+C00698,2024-10-26,West Bengal,CityD,F,34,Reseller,Organic
+C00699,2023-10-26,Rajasthan,CityD,M,19,Reseller,Referral
+C00700,2023-07-12,West Bengal,CityA,F,35,Reseller,Google Ads
+C00701,2023-06-01,Odisha,CityA,M,30,Direct Buyer,Organic
+C00702,2024-11-18,Kerala,CityC,F,40,Reseller,Organic
+C00703,2024-05-20,Bihar,CityE,M,31,Direct Buyer,Organic
+C00704,2025-02-28,Odisha,CityC,M,21,Reseller,Referral
+C00705,2024-03-23,Maharashtra,CityA,M,43,Reseller,Google Ads
+C00706,2023-04-06,Maharashtra,CityD,F,22,Reseller,Referral
+C00707,2023-09-26,Gujarat,CityC,M,28,Reseller,Google Ads
+C00708,2023-09-17,Uttar Pradesh,CityE,F,37,Reseller,Referral
+C00709,2025-01-27,Karnataka,CityC,F,18,Reseller,Referral
+C00710,2024-07-16,Tamil Nadu,CityB,F,41,Direct Buyer,Organic
+C00711,2023-08-05,Tamil Nadu,CityC,F,20,Reseller,Google Ads
+C00712,2025-03-09,Haryana,CityA,M,26,Reseller,Influencer
+C00713,2024-02-11,Chhattisgarh,CityD,F,32,Reseller,Referral
+C00714,2023-08-27,Odisha,CityD,M,29,Reseller,Google Ads
+C00715,2023-09-11,Tamil Nadu,CityA,M,36,Reseller,Organic
+C00716,2024-04-23,Karnataka,CityB,F,18,Reseller,Influencer
+C00717,2024-04-06,Delhi,CityA,M,35,Reseller,Organic
+C00718,2024-09-22,Andhra Pradesh,CityC,F,36,Reseller,Organic
+C00719,2023-03-08,Uttar Pradesh,CityA,F,38,Direct Buyer,Organic
+C00720,2023-07-12,Kerala,CityA,F,18,Reseller,Influencer
+C00721,2023-01-28,Chhattisgarh,CityB,M,18,Reseller,Google Ads
+C00722,2025-05-18,Bihar,CityC,M,27,Direct Buyer,Influencer
+C00723,2023-06-07,Karnataka,CityE,F,19,Direct Buyer,Google Ads
+C00724,2024-08-31,Jharkhand,CityE,F,18,Direct Buyer,Referral
+C00725,2023-07-06,Bihar,CityD,M,26,Reseller,Influencer
+C00726,2023-06-19,Punjab,CityA,F,31,Direct Buyer,Influencer
+C00727,2025-05-24,Kerala,CityD,M,52,Direct Buyer,Referral
+C00728,2023-05-24,Jammu & Kashmir,CityB,F,34,Reseller,Organic
+C00729,2024-03-27,Chhattisgarh,CityE,F,44,Direct Buyer,Facebook Ads
+C00730,2024-02-05,Kerala,CityA,M,29,Reseller,Influencer
+C00731,2025-06-21,Tamil Nadu,CityB,F,34,Direct Buyer,Google Ads
+C00732,2024-09-08,Chhattisgarh,CityB,M,28,Direct Buyer,Google Ads
+C00733,2023-05-25,Jharkhand,CityA,M,51,Direct Buyer,Influencer
+C00734,2023-01-15,Chhattisgarh,CityB,F,24,Direct Buyer,Google Ads
+C00735,2024-08-02,Karnataka,CityA,F,25,Reseller,Google Ads
+C00736,2023-02-06,Telangana,CityA,M,36,Reseller,Facebook Ads
+C00737,2024-12-27,Jammu & Kashmir,CityC,M,31,Direct Buyer,Organic
+C00738,2023-04-24,Uttar Pradesh,CityD,F,26,Direct Buyer,Referral
+C00739,2023-05-09,Rajasthan,CityB,M,37,Direct Buyer,Referral
+C00740,2023-06-25,Chhattisgarh,CityB,F,29,Direct Buyer,Google Ads
+C00741,2025-05-20,Andhra Pradesh,CityC,F,29,Direct Buyer,Referral
+C00742,2023-09-23,Telangana,CityC,M,31,Direct Buyer,Organic
+C00743,2025-06-03,Gujarat,CityC,F,18,Reseller,Organic
+C00744,2025-02-23,Gujarat,CityE,M,18,Reseller,Facebook Ads
+C00745,2025-05-13,Madhya Pradesh,CityE,F,38,Direct Buyer,Referral
+C00746,2024-05-09,Chhattisgarh,CityE,M,24,Reseller,Organic
+C00747,2023-01-01,Gujarat,CityA,F,28,Reseller,Organic
+C00748,2023-03-29,Chhattisgarh,CityB,F,42,Reseller,Referral
+C00749,2023-09-28,Delhi,CityD,M,29,Direct Buyer,Organic
+C00750,2023-05-02,Rajasthan,CityA,F,28,Direct Buyer,Organic
+C00751,2024-02-08,Gujarat,CityB,F,37,Direct Buyer,Organic
+C00752,2023-02-04,Rajasthan,CityB,F,25,Reseller,Referral
+C00753,2024-08-03,Kerala,CityC,F,39,Direct Buyer,Referral
+C00754,2023-02-12,Telangana,CityC,M,37,Direct Buyer,Organic
+C00755,2024-10-29,Jharkhand,CityA,F,44,Reseller,Google Ads
+C00756,2024-05-07,Delhi,CityC,F,24,Reseller,Organic
+C00757,2024-05-31,Telangana,CityB,F,40,Reseller,Organic
+C00758,2023-03-09,Kerala,CityC,F,34,Direct Buyer,Organic
+C00759,2024-07-06,Jharkhand,CityE,F,19,Direct Buyer,Organic
+C00760,2023-04-24,Kerala,CityC,F,18,Reseller,Organic
+C00761,2023-03-14,Uttar Pradesh,CityB,F,23,Direct Buyer,Organic
+C00762,2024-04-21,Karnataka,CityA,M,32,Reseller,Referral
+C00763,2025-01-15,Odisha,CityD,M,33,Reseller,Referral
+C00764,2023-07-23,Delhi,CityC,F,29,Reseller,Referral
+C00765,2024-12-20,Odisha,CityB,F,29,Reseller,Facebook Ads
+C00766,2025-02-10,Karnataka,CityD,F,28,Reseller,Organic
+C00767,2023-09-17,Karnataka,CityD,F,38,Reseller,Influencer
+C00768,2024-07-18,Kerala,CityE,F,18,Reseller,Organic
+C00769,2024-01-29,Odisha,CityD,F,32,Reseller,Facebook Ads
+C00770,2024-06-22,Punjab,CityB,F,23,Direct Buyer,Organic
+C00771,2023-10-19,Uttar Pradesh,CityB,F,22,Reseller,Google Ads
+C00772,2025-06-17,Kerala,CityC,F,39,Reseller,Referral
+C00773,2023-04-08,Rajasthan,CityC,F,22,Direct Buyer,Organic
+C00774,2023-05-09,Madhya Pradesh,CityC,F,28,Reseller,Referral
+C00775,2023-07-07,Karnataka,CityD,F,45,Direct Buyer,Organic
+C00776,2023-05-06,Jharkhand,CityD,F,36,Direct Buyer,Google Ads
+C00777,2024-11-17,Kerala,CityE,F,26,Reseller,Facebook Ads
+C00778,2024-02-16,Assam,CityC,F,27,Direct Buyer,Organic
+C00779,2024-09-05,Chhattisgarh,CityA,F,20,Direct Buyer,Organic
+C00780,2025-06-02,Assam,CityE,F,40,Direct Buyer,Organic
+C00781,2025-06-06,Jammu & Kashmir,CityA,F,38,Direct Buyer,Facebook Ads
+C00782,2024-08-20,Haryana,CityD,F,35,Reseller,Organic
+C00783,2025-07-07,Haryana,CityE,F,36,Direct Buyer,Referral
+C00784,2024-01-10,Maharashtra,CityE,M,23,Reseller,Influencer
+C00785,2024-02-04,West Bengal,CityB,F,18,Reseller,Organic
+C00786,2023-11-24,Uttar Pradesh,CityD,F,34,Reseller,Influencer
+C00787,2023-08-09,West Bengal,CityD,M,37,Reseller,Referral
+C00788,2023-12-18,Haryana,CityE,F,42,Reseller,Organic
+C00789,2023-07-11,Madhya Pradesh,CityD,F,28,Direct Buyer,Organic
+C00790,2025-05-01,Delhi,CityE,M,27,Direct Buyer,Facebook Ads
+C00791,2025-05-31,Assam,CityB,M,28,Reseller,Organic
+C00792,2025-06-25,Karnataka,CityE,F,35,Direct Buyer,Organic
+C00793,2023-07-26,Jammu & Kashmir,CityD,F,27,Direct Buyer,Organic
+C00794,2024-04-15,Chhattisgarh,CityD,F,29,Reseller,Google Ads
+C00795,2024-11-08,Uttar Pradesh,CityE,F,36,Reseller,Referral
+C00796,2025-06-28,Odisha,CityE,F,24,Direct Buyer,Referral
+C00797,2024-11-02,Delhi,CityE,F,41,Direct Buyer,Organic
+C00798,2023-02-05,Assam,CityC,F,35,Direct Buyer,Google Ads
+C00799,2024-07-08,Gujarat,CityD,M,18,Direct Buyer,Influencer
+C00800,2023-09-21,Rajasthan,CityD,M,25,Reseller,Organic
+C00801,2023-08-16,Maharashtra,CityC,F,18,Reseller,Organic
+C00802,2023-11-11,Gujarat,CityE,M,28,Direct Buyer,Google Ads
+C00803,2024-01-28,Andhra Pradesh,CityB,F,26,Reseller,Google Ads
+C00804,2024-12-28,Maharashtra,CityE,M,36,Direct Buyer,Referral
+C00805,2023-07-26,Delhi,CityE,F,22,Direct Buyer,Influencer
+C00806,2024-09-08,Telangana,CityC,F,33,Direct Buyer,Referral
+C00807,2024-02-20,Kerala,CityD,F,34,Direct Buyer,Organic
+C00808,2023-07-08,Andhra Pradesh,CityE,F,32,Reseller,Facebook Ads
+C00809,2024-03-28,Jharkhand,CityD,F,39,Direct Buyer,Referral
+C00810,2024-01-27,Haryana,CityA,M,46,Direct Buyer,Influencer
+C00811,2025-05-23,Delhi,CityD,M,30,Direct Buyer,Organic
+C00812,2024-07-09,Gujarat,CityB,F,33,Direct Buyer,Referral
+C00813,2024-08-19,Rajasthan,CityB,F,22,Reseller,Google Ads
+C00814,2024-01-14,Bihar,CityE,F,21,Direct Buyer,Organic
+C00815,2025-05-19,Jammu & Kashmir,CityD,M,38,Direct Buyer,Organic
+C00816,2025-04-18,Tamil Nadu,CityE,M,37,Reseller,Google Ads
+C00817,2025-06-02,Maharashtra,CityC,M,21,Direct Buyer,Organic
+C00818,2024-01-02,Tamil Nadu,CityB,M,19,Direct Buyer,Referral
+C00819,2023-10-31,Bihar,CityE,F,24,Direct Buyer,Google Ads
+C00820,2024-09-07,Punjab,CityC,F,28,Reseller,Organic
+C00821,2024-02-09,Karnataka,CityE,F,26,Direct Buyer,Influencer
+C00822,2023-03-08,Maharashtra,CityD,M,31,Direct Buyer,Facebook Ads
+C00823,2023-01-07,Chhattisgarh,CityD,F,37,Reseller,Referral
+C00824,2025-04-13,Gujarat,CityD,F,33,Reseller,Organic
+C00825,2024-04-13,Odisha,CityD,M,34,Reseller,Influencer
+C00826,2025-05-12,Bihar,CityA,F,18,Direct Buyer,Organic
+C00827,2023-02-13,Telangana,CityC,F,18,Direct Buyer,Organic
+C00828,2025-05-28,Uttar Pradesh,CityC,M,23,Reseller,Organic
+C00829,2024-12-08,Kerala,CityD,F,24,Reseller,Organic
+C00830,2024-05-04,Assam,CityA,F,36,Reseller,Referral
+C00831,2023-08-19,Madhya Pradesh,CityD,M,22,Direct Buyer,Influencer
+C00832,2024-11-18,Chhattisgarh,CityA,M,35,Reseller,Google Ads
+C00833,2023-05-15,Tamil Nadu,CityD,M,23,Reseller,Organic
+C00834,2024-05-23,Telangana,CityB,F,20,Reseller,Organic
+C00835,2023-04-04,Haryana,CityB,F,20,Direct Buyer,Facebook Ads
+C00836,2023-08-08,West Bengal,CityE,M,48,Reseller,Organic
+C00837,2023-05-21,Bihar,CityD,F,23,Reseller,Google Ads
+C00838,2024-09-06,Kerala,CityC,F,35,Direct Buyer,Google Ads
+C00839,2023-10-05,Gujarat,CityE,M,18,Reseller,Google Ads
+C00840,2024-10-10,Tamil Nadu,CityB,F,41,Reseller,Organic
+C00841,2023-09-12,Odisha,CityD,F,32,Direct Buyer,Referral
+C00842,2024-10-05,Maharashtra,CityE,F,32,Reseller,Organic
+C00843,2023-12-13,Bihar,CityD,F,33,Direct Buyer,Organic
+C00844,2025-06-19,Bihar,CityB,F,34,Reseller,Referral
+C00845,2023-04-23,Odisha,CityE,F,36,Direct Buyer,Influencer
+C00846,2024-08-25,Assam,CityB,M,25,Reseller,Google Ads
+C00847,2023-02-11,Gujarat,CityA,M,24,Direct Buyer,Influencer
+C00848,2025-05-20,Karnataka,CityB,F,30,Reseller,Google Ads
+C00849,2023-07-30,Telangana,CityD,F,35,Reseller,Organic
+C00850,2023-07-18,Punjab,CityC,F,29,Direct Buyer,Referral
+C00851,2023-05-22,West Bengal,CityB,F,36,Direct Buyer,Organic
+C00852,2024-08-18,Uttar Pradesh,CityC,M,34,Reseller,Organic
+C00853,2025-04-17,Rajasthan,CityA,M,28,Direct Buyer,Referral
+C00854,2023-01-14,Maharashtra,CityE,M,18,Reseller,Facebook Ads
+C00855,2025-01-04,Madhya Pradesh,CityE,F,25,Direct Buyer,Facebook Ads
+C00856,2025-02-06,Rajasthan,CityC,F,43,Reseller,Organic
+C00857,2024-11-27,West Bengal,CityE,F,32,Direct Buyer,Organic
+C00858,2023-01-25,Madhya Pradesh,CityB,F,24,Reseller,Organic
+C00859,2024-12-03,Uttar Pradesh,CityC,M,32,Reseller,Organic
+C00860,2025-06-28,Uttar Pradesh,CityD,M,35,Reseller,Organic
+C00861,2024-01-04,Assam,CityB,F,24,Reseller,Facebook Ads
+C00862,2024-09-19,Jammu & Kashmir,CityB,M,39,Direct Buyer,Google Ads
+C00863,2024-02-03,Delhi,CityB,F,33,Direct Buyer,Organic
+C00864,2023-04-14,Andhra Pradesh,CityD,F,21,Direct Buyer,Facebook Ads
+C00865,2025-04-22,Haryana,CityA,F,36,Reseller,Organic
+C00866,2024-03-20,Bihar,CityE,F,26,Reseller,Influencer
+C00867,2024-03-11,Telangana,CityC,F,28,Direct Buyer,Organic
+C00868,2023-03-22,Assam,CityA,M,21,Direct Buyer,Google Ads
+C00869,2025-01-19,Telangana,CityC,M,35,Reseller,Influencer
+C00870,2023-07-03,Chhattisgarh,CityE,F,28,Direct Buyer,Google Ads
+C00871,2023-04-20,Chhattisgarh,CityD,F,35,Direct Buyer,Organic
+C00872,2025-05-17,Tamil Nadu,CityB,M,25,Direct Buyer,Facebook Ads
+C00873,2023-07-23,Madhya Pradesh,CityB,M,24,Reseller,Organic
+C00874,2024-12-19,Karnataka,CityD,M,24,Reseller,Organic
+C00875,2023-03-23,Maharashtra,CityA,F,33,Reseller,Organic
+C00876,2023-04-07,Punjab,CityA,M,24,Reseller,Influencer
+C00877,2024-02-29,Jammu & Kashmir,CityC,F,28,Reseller,Influencer
+C00878,2023-03-03,Odisha,CityD,M,25,Reseller,Organic
+C00879,2023-05-16,Tamil Nadu,CityA,F,33,Direct Buyer,Referral
+C00880,2025-01-14,Uttar Pradesh,CityD,M,18,Reseller,Influencer
+C00881,2024-10-31,West Bengal,CityE,F,31,Reseller,Referral
+C00882,2024-07-31,Chhattisgarh,CityB,F,43,Direct Buyer,Organic
+C00883,2025-03-30,Kerala,CityB,F,39,Direct Buyer,Referral
+C00884,2024-03-17,Haryana,CityB,F,25,Direct Buyer,Google Ads
+C00885,2023-01-31,Madhya Pradesh,CityD,M,33,Reseller,Referral
+C00886,2024-09-03,Bihar,CityD,M,32,Direct Buyer,Google Ads
+C00887,2023-07-24,Telangana,CityC,M,41,Direct Buyer,Organic
+C00888,2023-01-12,Kerala,CityB,F,18,Reseller,Organic
+C00889,2024-05-25,West Bengal,CityC,M,38,Direct Buyer,Organic
+C00890,2024-07-30,Jharkhand,CityB,M,27,Reseller,Organic
+C00891,2023-04-26,Telangana,CityC,F,24,Reseller,Referral
+C00892,2023-05-15,Andhra Pradesh,CityC,F,23,Reseller,Organic
+C00893,2024-08-09,Delhi,CityE,M,19,Reseller,Google Ads
+C00894,2023-11-06,Haryana,CityC,M,25,Reseller,Organic
+C00895,2024-12-10,Tamil Nadu,CityD,M,21,Direct Buyer,Facebook Ads
+C00896,2024-06-05,Assam,CityC,F,31,Reseller,Influencer
+C00897,2024-09-27,Andhra Pradesh,CityB,F,34,Direct Buyer,Google Ads
+C00898,2023-06-30,Madhya Pradesh,CityC,F,27,Direct Buyer,Influencer
+C00899,2023-04-20,Madhya Pradesh,CityA,M,41,Reseller,Referral
+C00900,2024-06-13,Andhra Pradesh,CityB,M,25,Reseller,Organic
+C00901,2024-01-01,Madhya Pradesh,CityA,F,27,Direct Buyer,Influencer
+C00902,2023-04-30,Bihar,CityB,M,26,Direct Buyer,Google Ads
+C00903,2025-06-20,Tamil Nadu,CityD,F,34,Reseller,Google Ads
+C00904,2023-04-24,West Bengal,CityD,M,35,Reseller,Facebook Ads
+C00905,2025-04-27,Haryana,CityD,F,33,Direct Buyer,Referral
+C00906,2024-01-03,Gujarat,CityA,F,29,Reseller,Organic
+C00907,2024-09-11,Chhattisgarh,CityE,F,19,Direct Buyer,Facebook Ads
+C00908,2023-03-29,Kerala,CityB,F,27,Direct Buyer,Organic
+C00909,2023-08-19,Assam,CityD,F,41,Reseller,Organic
+C00910,2024-03-31,Jammu & Kashmir,CityB,F,38,Reseller,Referral
+C00911,2024-03-11,Chhattisgarh,CityA,F,32,Reseller,Referral
+C00912,2023-09-18,Kerala,CityE,M,26,Direct Buyer,Organic
+C00913,2025-04-19,Punjab,CityA,F,29,Reseller,Google Ads
+C00914,2023-07-09,West Bengal,CityB,F,26,Reseller,Google Ads
+C00915,2023-05-15,Madhya Pradesh,CityE,F,39,Direct Buyer,Facebook Ads
+C00916,2023-05-04,Madhya Pradesh,CityE,M,23,Reseller,Referral
+C00917,2024-05-22,Gujarat,CityA,F,37,Reseller,Influencer
+C00918,2023-04-24,Chhattisgarh,CityD,M,25,Direct Buyer,Organic
+C00919,2025-03-08,Kerala,CityB,M,40,Reseller,Facebook Ads
+C00920,2024-03-04,Maharashtra,CityC,F,33,Direct Buyer,Organic
+C00921,2025-05-25,Kerala,CityC,F,24,Direct Buyer,Organic
+C00922,2024-06-06,Delhi,CityA,F,27,Reseller,Referral
+C00923,2023-05-15,Bihar,CityB,F,35,Reseller,Facebook Ads
+C00924,2023-06-24,Andhra Pradesh,CityB,M,26,Reseller,Organic
+C00925,2023-03-05,Maharashtra,CityA,M,30,Direct Buyer,Organic
+C00926,2024-08-29,Kerala,CityB,F,25,Reseller,Referral
+C00927,2025-03-13,Delhi,CityD,F,44,Direct Buyer,Referral
+C00928,2023-08-22,Chhattisgarh,CityA,M,45,Direct Buyer,Referral
+C00929,2023-11-17,Jharkhand,CityD,M,41,Reseller,Organic
+C00930,2023-05-30,Odisha,CityB,F,29,Direct Buyer,Referral
+C00931,2024-07-24,Odisha,CityA,F,26,Reseller,Organic
+C00932,2023-03-31,Telangana,CityB,F,23,Direct Buyer,Organic
+C00933,2023-09-20,Rajasthan,CityA,M,42,Direct Buyer,Referral
+C00934,2023-04-07,West Bengal,CityB,F,37,Reseller,Facebook Ads
+C00935,2024-12-11,Delhi,CityD,F,37,Reseller,Organic
+C00936,2023-04-20,Uttar Pradesh,CityD,M,28,Direct Buyer,Organic
+C00937,2024-03-03,Bihar,CityB,M,18,Direct Buyer,Referral
+C00938,2025-05-12,Kerala,CityA,M,18,Direct Buyer,Organic
+C00939,2023-11-29,Assam,CityC,F,30,Reseller,Organic
+C00940,2024-05-01,Maharashtra,CityD,F,25,Reseller,Organic
+C00941,2023-10-06,Telangana,CityD,M,24,Reseller,Organic
+C00942,2024-12-02,West Bengal,CityC,F,32,Direct Buyer,Organic
+C00943,2023-10-20,Delhi,CityB,F,38,Reseller,Google Ads
+C00944,2023-12-17,Chhattisgarh,CityA,F,24,Reseller,Facebook Ads
+C00945,2025-05-30,Bihar,CityB,F,19,Direct Buyer,Facebook Ads
+C00946,2023-10-27,Haryana,CityE,F,24,Reseller,Referral
+C00947,2025-06-19,Karnataka,CityD,M,21,Reseller,Facebook Ads
+C00948,2024-01-01,Delhi,CityE,M,34,Reseller,Influencer
+C00949,2024-02-25,Madhya Pradesh,CityD,M,29,Direct Buyer,Facebook Ads
+C00950,2023-05-11,Rajasthan,CityD,F,45,Reseller,Organic
+C00951,2024-09-13,Karnataka,CityE,F,35,Reseller,Referral
+C00952,2024-03-30,Madhya Pradesh,CityE,F,44,Reseller,Organic
+C00953,2024-03-15,Chhattisgarh,CityB,M,18,Direct Buyer,Referral
+C00954,2025-03-18,Madhya Pradesh,CityE,F,18,Direct Buyer,Referral
+C00955,2024-11-16,West Bengal,CityB,M,31,Reseller,Google Ads
+C00956,2024-10-06,Delhi,CityB,M,30,Reseller,Facebook Ads
+C00957,2023-11-16,Maharashtra,CityB,F,29,Direct Buyer,Organic
+C00958,2025-06-07,Telangana,CityD,F,30,Direct Buyer,Organic
+C00959,2025-01-06,Kerala,CityD,M,21,Direct Buyer,Organic
+C00960,2025-05-29,Assam,CityE,M,34,Direct Buyer,Organic
+C00961,2024-06-05,Odisha,CityD,F,35,Direct Buyer,Organic
+C00962,2023-08-09,Telangana,CityE,F,20,Direct Buyer,Organic
+C00963,2024-10-25,Rajasthan,CityD,M,27,Reseller,Organic
+C00964,2025-05-02,Madhya Pradesh,CityA,F,27,Reseller,Influencer
+C00965,2025-03-10,Chhattisgarh,CityA,F,24,Reseller,Organic
+C00966,2024-04-05,Jammu & Kashmir,CityE,F,20,Direct Buyer,Organic
+C00967,2024-12-26,Gujarat,CityD,F,30,Direct Buyer,Organic
+C00968,2024-03-05,Jharkhand,CityD,F,32,Direct Buyer,Referral
+C00969,2024-12-04,Odisha,CityB,F,25,Reseller,Organic
+C00970,2023-08-03,Tamil Nadu,CityC,F,21,Reseller,Referral
+C00971,2025-06-17,Chhattisgarh,CityE,F,33,Reseller,Organic
+C00972,2023-11-22,Delhi,CityC,M,23,Reseller,Referral
+C00973,2023-08-19,Delhi,CityC,M,27,Direct Buyer,Google Ads
+C00974,2024-05-10,Punjab,CityE,M,26,Direct Buyer,Organic
+C00975,2024-02-15,Odisha,CityD,M,39,Reseller,Organic
+C00976,2023-11-02,Odisha,CityE,F,24,Reseller,Referral
+C00977,2024-11-07,Jammu & Kashmir,CityC,F,43,Direct Buyer,Google Ads
+C00978,2025-04-10,Tamil Nadu,CityD,M,36,Reseller,Referral
+C00979,2023-05-10,West Bengal,CityA,F,44,Direct Buyer,Referral
+C00980,2023-06-09,Tamil Nadu,CityE,F,35,Reseller,Google Ads
+C00981,2024-08-23,Telangana,CityE,M,28,Reseller,Referral
+C00982,2024-08-29,Uttar Pradesh,CityD,F,22,Reseller,Organic
+C00983,2025-01-01,Assam,CityA,F,27,Reseller,Organic
+C00984,2023-10-19,Telangana,CityA,M,41,Direct Buyer,Facebook Ads
+C00985,2023-03-21,Delhi,CityD,M,29,Reseller,Google Ads
+C00986,2025-01-12,Haryana,CityB,F,35,Reseller,Influencer
+C00987,2023-11-20,Chhattisgarh,CityE,M,31,Reseller,Influencer
+C00988,2025-02-27,Delhi,CityE,M,31,Reseller,Google Ads
+C00989,2025-01-22,Jharkhand,CityC,M,32,Reseller,Referral
+C00990,2024-04-05,Haryana,CityD,F,33,Reseller,Google Ads
+C00991,2024-09-22,Delhi,CityC,F,23,Direct Buyer,Organic
+C00992,2023-05-11,Assam,CityC,M,27,Direct Buyer,Referral
+C00993,2024-03-03,Assam,CityA,M,32,Reseller,Organic
+C00994,2025-06-18,West Bengal,CityE,M,31,Reseller,Organic
+C00995,2023-12-28,Rajasthan,CityC,F,26,Reseller,Facebook Ads
+C00996,2023-03-08,Kerala,CityA,F,33,Reseller,Referral
+C00997,2024-10-12,Bihar,CityD,M,23,Direct Buyer,Organic
+C00998,2023-12-29,Punjab,CityC,F,20,Direct Buyer,Organic
+C00999,2025-01-24,Gujarat,CityE,F,32,Direct Buyer,Google Ads
+C01000,2023-12-04,Karnataka,CityC,F,20,Reseller,Facebook Ads
+C01001,2024-02-21,Jammu & Kashmir,CityD,F,32,Reseller,Referral
+C01002,2025-04-19,Kerala,CityC,M,18,Direct Buyer,Organic
+C01003,2023-07-09,Chhattisgarh,CityE,M,24,Reseller,Organic
+C01004,2023-04-20,Chhattisgarh,CityA,F,27,Reseller,Organic
+C01005,2025-06-30,Chhattisgarh,CityE,F,18,Direct Buyer,Referral
+C01006,2023-03-23,Uttar Pradesh,CityA,M,27,Direct Buyer,Google Ads
+C01007,2023-08-16,Karnataka,CityB,F,39,Direct Buyer,Organic
+C01008,2025-07-10,Delhi,CityE,F,19,Reseller,Organic
+C01009,2023-10-08,Tamil Nadu,CityE,M,27,Reseller,Organic
+C01010,2025-05-26,Bihar,CityD,F,43,Reseller,Referral
+C01011,2023-06-08,Madhya Pradesh,CityC,M,21,Direct Buyer,Organic
+C01012,2023-09-21,Kerala,CityA,F,41,Reseller,Referral
+C01013,2023-05-16,Assam,CityA,F,27,Direct Buyer,Referral
+C01014,2023-06-14,Jharkhand,CityD,F,30,Direct Buyer,Google Ads
+C01015,2023-04-27,Punjab,CityD,M,40,Reseller,Referral
+C01016,2023-06-09,Haryana,CityC,F,26,Reseller,Organic
+C01017,2024-09-28,Telangana,CityC,F,35,Reseller,Referral
+C01018,2025-02-23,Bihar,CityE,M,37,Direct Buyer,Facebook Ads
+C01019,2023-06-09,Andhra Pradesh,CityB,F,24,Direct Buyer,Organic
+C01020,2023-06-12,Andhra Pradesh,CityC,F,23,Direct Buyer,Referral
+C01021,2024-09-05,Punjab,CityD,F,28,Reseller,Influencer
+C01022,2025-02-02,Odisha,CityC,M,28,Reseller,Organic
+C01023,2024-04-03,Maharashtra,CityA,F,21,Direct Buyer,Referral
+C01024,2025-06-15,Gujarat,CityB,F,24,Reseller,Google Ads
+C01025,2024-10-08,Bihar,CityE,F,18,Direct Buyer,Referral
+C01026,2024-03-04,Assam,CityA,F,27,Direct Buyer,Facebook Ads
+C01027,2023-06-11,Bihar,CityA,M,37,Reseller,Organic
+C01028,2023-05-04,Delhi,CityB,M,18,Reseller,Organic
+C01029,2024-05-21,Haryana,CityE,M,26,Reseller,Facebook Ads
+C01030,2023-05-13,Karnataka,CityD,M,49,Reseller,Facebook Ads
+C01031,2023-03-28,Chhattisgarh,CityE,M,29,Direct Buyer,Influencer
+C01032,2023-06-10,Karnataka,CityC,F,40,Direct Buyer,Organic
+C01033,2023-07-13,Rajasthan,CityA,M,21,Direct Buyer,Referral
+C01034,2024-09-04,Rajasthan,CityC,F,33,Direct Buyer,Organic
+C01035,2024-03-04,Bihar,CityD,F,20,Reseller,Organic
+C01036,2025-02-16,Uttar Pradesh,CityC,M,33,Reseller,Organic
+C01037,2023-10-01,West Bengal,CityE,F,36,Direct Buyer,Organic
+C01038,2023-03-06,Madhya Pradesh,CityC,M,34,Reseller,Organic
+C01039,2024-05-29,Uttar Pradesh,CityD,F,27,Direct Buyer,Organic
+C01040,2023-12-12,Assam,CityD,M,32,Direct Buyer,Organic
+C01041,2024-09-11,Madhya Pradesh,CityD,F,32,Reseller,Influencer
+C01042,2023-04-13,Kerala,CityE,M,35,Reseller,Google Ads
+C01043,2023-10-10,Karnataka,CityD,M,29,Direct Buyer,Organic
+C01044,2023-06-24,Karnataka,CityA,F,37,Direct Buyer,Google Ads
+C01045,2024-04-14,Madhya Pradesh,CityD,F,41,Reseller,Referral
+C01046,2024-08-16,Gujarat,CityC,F,27,Direct Buyer,Google Ads
+C01047,2025-05-30,Uttar Pradesh,CityC,F,30,Direct Buyer,Organic
+C01048,2023-12-10,West Bengal,CityC,M,22,Direct Buyer,Referral
+C01049,2024-08-11,Bihar,CityE,M,32,Reseller,Google Ads
+C01050,2025-03-10,Maharashtra,CityC,F,32,Reseller,Organic
+C01051,2025-05-19,Karnataka,CityE,M,30,Direct Buyer,Influencer
+C01052,2023-01-08,Gujarat,CityE,M,31,Direct Buyer,Google Ads
+C01053,2024-08-14,Maharashtra,CityD,F,45,Reseller,Influencer
+C01054,2024-07-25,Jharkhand,CityA,M,18,Direct Buyer,Organic
+C01055,2024-10-08,Jharkhand,CityD,M,26,Direct Buyer,Organic
+C01056,2024-02-14,West Bengal,CityD,F,27,Reseller,Organic
+C01057,2025-05-02,Tamil Nadu,CityE,F,41,Direct Buyer,Influencer
+C01058,2023-08-06,Telangana,CityE,F,33,Direct Buyer,Organic
+C01059,2023-03-13,Bihar,CityC,M,33,Reseller,Referral
+C01060,2025-06-10,Karnataka,CityC,M,40,Reseller,Organic
+C01061,2025-01-24,Bihar,CityD,M,28,Direct Buyer,Organic
+C01062,2025-03-28,Jharkhand,CityB,F,35,Reseller,Organic
+C01063,2025-05-28,Kerala,CityB,F,25,Reseller,Referral
+C01064,2023-08-06,Kerala,CityC,F,21,Direct Buyer,Google Ads
+C01065,2023-09-03,Maharashtra,CityB,F,44,Direct Buyer,Organic
+C01066,2024-04-13,Kerala,CityC,M,32,Direct Buyer,Google Ads
+C01067,2024-09-18,Delhi,CityE,M,35,Direct Buyer,Facebook Ads
+C01068,2023-08-22,Tamil Nadu,CityD,M,21,Reseller,Referral
+C01069,2023-05-29,Punjab,CityA,M,34,Reseller,Referral
+C01070,2025-06-16,Maharashtra,CityD,F,44,Reseller,Organic
+C01071,2025-06-21,Karnataka,CityC,F,27,Reseller,Organic
+C01072,2023-03-13,Chhattisgarh,CityC,F,19,Direct Buyer,Google Ads
+C01073,2023-06-07,Maharashtra,CityD,M,31,Direct Buyer,Organic
+C01074,2025-05-10,Andhra Pradesh,CityC,M,21,Reseller,Referral
+C01075,2024-10-18,Punjab,CityB,F,18,Reseller,Organic
+C01076,2023-02-07,Tamil Nadu,CityB,F,24,Reseller,Facebook Ads
+C01077,2024-06-28,Maharashtra,CityC,F,26,Reseller,Organic
+C01078,2023-10-16,Maharashtra,CityC,F,22,Reseller,Referral
+C01079,2024-11-07,Kerala,CityB,F,40,Reseller,Organic
+C01080,2025-01-21,Assam,CityC,F,45,Direct Buyer,Influencer
+C01081,2023-06-12,Maharashtra,CityC,F,34,Reseller,Organic
+C01082,2025-04-06,Rajasthan,CityD,M,33,Reseller,Referral
+C01083,2023-04-26,Bihar,CityA,F,28,Direct Buyer,Referral
+C01084,2025-07-13,Karnataka,CityB,F,22,Reseller,Google Ads
+C01085,2025-03-07,Jharkhand,CityD,F,42,Direct Buyer,Organic
+C01086,2024-09-11,Rajasthan,CityA,F,29,Reseller,Facebook Ads
+C01087,2024-05-31,Rajasthan,CityC,F,26,Reseller,Organic
+C01088,2024-07-18,Uttar Pradesh,CityC,F,38,Reseller,Organic
+C01089,2024-02-26,Chhattisgarh,CityD,F,29,Direct Buyer,Facebook Ads
+C01090,2024-01-28,Gujarat,CityC,F,37,Reseller,Google Ads
+C01091,2024-12-14,Kerala,CityE,M,26,Direct Buyer,Facebook Ads
+C01092,2025-02-07,Delhi,CityD,F,38,Reseller,Google Ads
+C01093,2025-02-17,Delhi,CityA,M,37,Reseller,Organic
+C01094,2023-12-28,Chhattisgarh,CityD,F,40,Reseller,Influencer
+C01095,2025-02-05,Andhra Pradesh,CityB,F,24,Reseller,Organic
+C01096,2023-07-05,Andhra Pradesh,CityD,F,29,Reseller,Facebook Ads
+C01097,2025-07-03,West Bengal,CityC,F,45,Reseller,Referral
+C01098,2024-05-16,Karnataka,CityC,M,28,Reseller,Referral
+C01099,2024-02-05,Jammu & Kashmir,CityE,M,36,Reseller,Organic
+C01100,2023-05-07,Jammu & Kashmir,CityE,M,48,Reseller,Referral
+C01101,2024-11-27,Haryana,CityE,M,18,Reseller,Organic
+C01102,2023-08-21,Jharkhand,CityA,M,27,Reseller,Organic
+C01103,2025-05-07,Haryana,CityE,F,30,Direct Buyer,Organic
+C01104,2023-03-14,Jharkhand,CityA,F,18,Direct Buyer,Referral
+C01105,2024-09-29,Jammu & Kashmir,CityE,M,26,Reseller,Organic
+C01106,2024-06-30,Assam,CityA,M,22,Reseller,Organic
+C01107,2025-01-16,West Bengal,CityD,F,36,Reseller,Organic
+C01108,2024-08-13,Kerala,CityD,M,18,Direct Buyer,Organic
+C01109,2024-11-11,Karnataka,CityC,F,45,Reseller,Google Ads
+C01110,2025-03-31,Haryana,CityA,F,35,Direct Buyer,Influencer
+C01111,2024-10-29,Odisha,CityB,F,21,Reseller,Organic
+C01112,2023-07-02,Jharkhand,CityC,M,38,Reseller,Referral
+C01113,2023-02-06,Maharashtra,CityD,M,34,Reseller,Facebook Ads
+C01114,2023-12-03,Haryana,CityA,F,29,Reseller,Referral
+C01115,2024-02-07,Maharashtra,CityE,F,24,Direct Buyer,Facebook Ads
+C01116,2024-03-12,Telangana,CityB,F,34,Reseller,Organic
+C01117,2024-06-20,Gujarat,CityD,M,30,Direct Buyer,Referral
+C01118,2024-02-10,Odisha,CityC,F,24,Direct Buyer,Organic
+C01119,2024-09-14,Chhattisgarh,CityA,F,19,Direct Buyer,Organic
+C01120,2024-02-09,Assam,CityB,F,23,Reseller,Referral
+C01121,2025-02-23,Chhattisgarh,CityA,F,25,Reseller,Referral
+C01122,2025-02-20,Haryana,CityE,F,39,Reseller,Organic
+C01123,2024-05-18,Tamil Nadu,CityC,M,36,Reseller,Referral
+C01124,2024-05-13,Chhattisgarh,CityA,F,26,Direct Buyer,Google Ads
+C01125,2024-04-12,Haryana,CityD,M,26,Reseller,Google Ads
+C01126,2023-10-13,Karnataka,CityC,F,37,Direct Buyer,Referral
+C01127,2024-12-11,Gujarat,CityD,F,32,Reseller,Referral
+C01128,2024-01-06,Tamil Nadu,CityA,F,32,Direct Buyer,Referral
+C01129,2024-08-15,Madhya Pradesh,CityC,M,24,Reseller,Organic
+C01130,2024-04-05,Odisha,CityD,M,29,Reseller,Organic
+C01131,2023-01-15,Telangana,CityE,M,30,Direct Buyer,Organic
+C01132,2023-05-19,Uttar Pradesh,CityE,F,29,Reseller,Referral
+C01133,2025-02-27,Telangana,CityA,F,35,Direct Buyer,Referral
+C01134,2025-04-07,Delhi,CityC,M,36,Reseller,Influencer
+C01135,2023-07-14,Gujarat,CityB,M,22,Reseller,Google Ads
+C01136,2024-08-09,Maharashtra,CityC,F,25,Direct Buyer,Organic
+C01137,2023-12-29,Odisha,CityE,M,24,Direct Buyer,Organic
+C01138,2024-01-04,West Bengal,CityD,F,41,Reseller,Organic
+C01139,2025-04-04,West Bengal,CityB,F,48,Direct Buyer,Facebook Ads
+C01140,2024-05-12,Haryana,CityA,F,26,Direct Buyer,Facebook Ads
+C01141,2024-11-18,Assam,CityB,F,28,Direct Buyer,Influencer
+C01142,2025-01-15,Delhi,CityA,F,36,Reseller,Referral
+C01143,2024-03-03,Kerala,CityB,F,24,Reseller,Google Ads
+C01144,2024-09-01,Delhi,CityA,F,36,Direct Buyer,Referral
+C01145,2023-10-14,Chhattisgarh,CityA,F,29,Direct Buyer,Google Ads
+C01146,2023-03-08,Tamil Nadu,CityB,F,18,Reseller,Facebook Ads
+C01147,2023-05-13,Punjab,CityB,M,19,Reseller,Referral
+C01148,2025-05-31,Odisha,CityA,F,27,Reseller,Referral
+C01149,2023-06-03,Delhi,CityE,F,39,Direct Buyer,Facebook Ads
+C01150,2023-09-30,Madhya Pradesh,CityB,F,22,Reseller,Organic
+C01151,2024-09-30,Chhattisgarh,CityC,M,25,Reseller,Organic
+C01152,2023-02-01,Uttar Pradesh,CityD,F,31,Reseller,Organic
+C01153,2024-09-20,Andhra Pradesh,CityA,F,18,Direct Buyer,Referral
+C01154,2024-01-23,Assam,CityA,F,32,Reseller,Referral
+C01155,2024-04-14,Telangana,CityD,M,18,Reseller,Organic
+C01156,2023-11-22,Kerala,CityE,F,34,Direct Buyer,Organic
+C01157,2025-05-16,Madhya Pradesh,CityD,F,23,Direct Buyer,Organic
+C01158,2023-02-14,Uttar Pradesh,CityB,F,22,Reseller,Referral
+C01159,2023-08-14,Odisha,CityD,F,32,Reseller,Organic
+C01160,2024-10-29,Telangana,CityA,M,36,Direct Buyer,Organic
+C01161,2023-11-25,Chhattisgarh,CityD,M,33,Direct Buyer,Organic
+C01162,2025-01-28,West Bengal,CityC,M,31,Direct Buyer,Organic
+C01163,2025-06-22,Assam,CityB,M,31,Direct Buyer,Google Ads
+C01164,2023-04-27,Gujarat,CityD,F,33,Direct Buyer,Organic
+C01165,2023-12-24,Jammu & Kashmir,CityA,F,33,Direct Buyer,Facebook Ads
+C01166,2023-09-19,Delhi,CityB,M,26,Reseller,Referral
+C01167,2024-04-09,Delhi,CityA,F,35,Reseller,Influencer
+C01168,2025-05-06,Odisha,CityE,M,23,Reseller,Organic
+C01169,2023-04-15,Madhya Pradesh,CityC,F,38,Reseller,Organic
+C01170,2024-07-03,Andhra Pradesh,CityE,F,36,Reseller,Organic
+C01171,2024-08-10,Chhattisgarh,CityC,M,47,Reseller,Organic
+C01172,2024-03-11,Madhya Pradesh,CityD,M,34,Direct Buyer,Facebook Ads
+C01173,2024-09-25,Punjab,CityB,M,37,Reseller,Organic
+C01174,2023-06-02,Rajasthan,CityD,F,18,Reseller,Organic
+C01175,2024-02-27,Gujarat,CityC,M,37,Direct Buyer,Google Ads
+C01176,2024-06-13,Bihar,CityC,F,39,Reseller,Referral
+C01177,2024-02-22,Assam,CityC,F,42,Reseller,Organic
+C01178,2024-10-31,Punjab,CityA,M,30,Reseller,Organic
+C01179,2024-11-24,Haryana,CityB,M,27,Direct Buyer,Organic
+C01180,2024-03-25,Jharkhand,CityD,F,21,Reseller,Influencer
+C01181,2023-05-06,Bihar,CityD,M,22,Direct Buyer,Google Ads
+C01182,2023-09-24,Odisha,CityE,F,29,Reseller,Google Ads
+C01183,2023-08-26,Gujarat,CityC,F,18,Reseller,Influencer
+C01184,2024-08-31,Rajasthan,CityC,F,23,Reseller,Referral
+C01185,2023-09-28,Gujarat,CityC,M,30,Direct Buyer,Organic
+C01186,2024-08-10,Kerala,CityD,F,30,Direct Buyer,Organic
+C01187,2023-05-03,Haryana,CityE,M,22,Direct Buyer,Facebook Ads
+C01188,2023-10-10,Madhya Pradesh,CityA,F,20,Direct Buyer,Google Ads
+C01189,2023-11-23,Kerala,CityB,M,21,Reseller,Organic
+C01190,2024-11-10,West Bengal,CityA,F,28,Direct Buyer,Referral
+C01191,2024-02-11,Maharashtra,CityD,M,47,Reseller,Influencer
+C01192,2024-10-04,Punjab,CityC,F,38,Direct Buyer,Organic
+C01193,2025-06-17,Gujarat,CityB,M,31,Reseller,Google Ads
+C01194,2023-09-28,Gujarat,CityD,M,34,Reseller,Organic
+C01195,2023-08-10,Tamil Nadu,CityD,M,38,Reseller,Referral
+C01196,2024-04-04,Telangana,CityD,F,35,Reseller,Organic
+C01197,2023-01-18,Uttar Pradesh,CityB,M,27,Reseller,Referral
+C01198,2023-05-15,West Bengal,CityB,F,23,Direct Buyer,Referral
+C01199,2024-05-08,Kerala,CityE,M,28,Reseller,Organic
+C01200,2024-09-02,Kerala,CityE,M,38,Reseller,Google Ads
+C01201,2025-03-11,Kerala,CityA,F,27,Direct Buyer,Facebook Ads
+C01202,2023-09-11,Maharashtra,CityB,F,21,Reseller,Facebook Ads
+C01203,2025-06-21,Gujarat,CityB,F,18,Direct Buyer,Organic
+C01204,2023-04-25,Karnataka,CityB,F,29,Direct Buyer,Google Ads
+C01205,2025-02-10,Rajasthan,CityE,M,21,Direct Buyer,Organic
+C01206,2023-12-03,West Bengal,CityD,F,26,Direct Buyer,Organic
+C01207,2024-12-01,Haryana,CityC,F,41,Reseller,Organic
+C01208,2023-09-29,Bihar,CityE,F,29,Reseller,Organic
+C01209,2025-06-28,Tamil Nadu,CityB,F,23,Reseller,Google Ads
+C01210,2023-02-09,Odisha,CityE,F,32,Direct Buyer,Organic
+C01211,2025-05-27,Odisha,CityA,M,45,Reseller,Organic
+C01212,2023-11-25,Karnataka,CityB,F,29,Reseller,Google Ads
+C01213,2025-03-27,Uttar Pradesh,CityA,M,18,Reseller,Referral
+C01214,2023-10-14,West Bengal,CityB,F,35,Direct Buyer,Facebook Ads
+C01215,2023-05-06,Telangana,CityE,F,32,Reseller,Organic
+C01216,2024-07-13,Bihar,CityD,M,30,Direct Buyer,Facebook Ads
+C01217,2024-09-04,Kerala,CityC,F,28,Reseller,Organic
+C01218,2024-12-19,Chhattisgarh,CityA,F,23,Reseller,Influencer
+C01219,2024-05-12,Andhra Pradesh,CityE,F,42,Reseller,Referral
+C01220,2024-03-12,Odisha,CityD,F,18,Direct Buyer,Facebook Ads
+C01221,2023-06-25,Assam,CityE,F,27,Direct Buyer,Organic
+C01222,2023-10-27,Andhra Pradesh,CityA,F,27,Reseller,Organic
+C01223,2023-05-22,Jharkhand,CityC,F,36,Reseller,Organic
+C01224,2024-05-08,Kerala,CityE,F,39,Direct Buyer,Organic
+C01225,2023-05-19,Madhya Pradesh,CityB,F,28,Reseller,Organic
+C01226,2024-02-14,Tamil Nadu,CityD,F,31,Reseller,Facebook Ads
+C01227,2023-12-22,Maharashtra,CityE,F,32,Reseller,Organic
+C01228,2024-04-15,Chhattisgarh,CityD,F,38,Reseller,Facebook Ads
+C01229,2023-09-26,West Bengal,CityB,M,38,Reseller,Organic
+C01230,2023-11-07,Jharkhand,CityC,F,25,Reseller,Organic
+C01231,2023-02-14,Andhra Pradesh,CityC,M,33,Reseller,Google Ads
+C01232,2024-06-29,Bihar,CityB,F,33,Direct Buyer,Facebook Ads
+C01233,2023-03-24,Bihar,CityD,M,29,Reseller,Referral
+C01234,2024-12-07,Assam,CityE,F,32,Direct Buyer,Organic
+C01235,2024-07-13,Tamil Nadu,CityB,M,30,Reseller,Referral
+C01236,2023-01-12,Chhattisgarh,CityA,M,31,Direct Buyer,Organic
+C01237,2024-03-21,Odisha,CityD,F,19,Reseller,Organic
+C01238,2023-03-19,Jammu & Kashmir,CityC,M,22,Direct Buyer,Referral
+C01239,2025-05-21,Telangana,CityB,F,36,Reseller,Organic
+C01240,2024-01-10,West Bengal,CityC,F,20,Direct Buyer,Organic
+C01241,2024-04-16,Tamil Nadu,CityD,M,33,Reseller,Influencer
+C01242,2023-12-13,Uttar Pradesh,CityC,M,29,Reseller,Google Ads
+C01243,2025-05-04,Jammu & Kashmir,CityB,F,38,Direct Buyer,Organic
+C01244,2023-11-12,Punjab,CityD,F,35,Direct Buyer,Referral
+C01245,2024-07-07,Assam,CityA,M,26,Reseller,Organic
+C01246,2024-07-02,Chhattisgarh,CityB,M,28,Direct Buyer,Google Ads
+C01247,2023-05-05,Karnataka,CityE,M,18,Reseller,Referral
+C01248,2025-06-26,Odisha,CityB,M,28,Reseller,Organic
+C01249,2025-02-01,Andhra Pradesh,CityD,F,19,Direct Buyer,Organic
+C01250,2025-06-27,Assam,CityB,M,28,Reseller,Organic
+C01251,2024-07-26,Gujarat,CityA,F,24,Direct Buyer,Referral
+C01252,2025-01-20,Maharashtra,CityA,F,22,Reseller,Facebook Ads
+C01253,2024-11-03,Madhya Pradesh,CityE,F,39,Direct Buyer,Organic
+C01254,2023-06-16,Tamil Nadu,CityC,F,19,Reseller,Organic
+C01255,2025-04-11,Rajasthan,CityD,F,22,Direct Buyer,Organic
+C01256,2024-06-24,Uttar Pradesh,CityD,M,24,Direct Buyer,Organic
+C01257,2025-02-22,Rajasthan,CityC,F,26,Reseller,Organic
+C01258,2023-10-25,Jammu & Kashmir,CityA,F,22,Direct Buyer,Referral
+C01259,2024-03-26,Odisha,CityA,M,27,Reseller,Facebook Ads
+C01260,2025-01-18,Punjab,CityB,F,32,Direct Buyer,Influencer
+C01261,2025-01-08,Punjab,CityE,F,35,Direct Buyer,Influencer
+C01262,2024-06-23,Telangana,CityE,F,34,Reseller,Referral
+C01263,2025-06-07,West Bengal,CityE,M,18,Direct Buyer,Facebook Ads
+C01264,2023-07-23,Kerala,CityB,F,33,Reseller,Influencer
+C01265,2024-11-19,Rajasthan,CityE,F,33,Reseller,Organic
+C01266,2025-02-20,West Bengal,CityC,F,24,Reseller,Organic
+C01267,2024-04-08,Assam,CityB,F,43,Direct Buyer,Organic
+C01268,2025-04-06,Delhi,CityC,F,38,Reseller,Referral
+C01269,2024-09-11,Gujarat,CityB,F,28,Direct Buyer,Facebook Ads
+C01270,2025-04-12,Telangana,CityE,F,25,Reseller,Organic
+C01271,2023-09-11,Karnataka,CityC,M,43,Direct Buyer,Referral
+C01272,2024-03-22,Uttar Pradesh,CityC,F,29,Reseller,Referral
+C01273,2024-07-17,Karnataka,CityC,F,30,Direct Buyer,Organic
+C01274,2024-11-06,Kerala,CityB,F,30,Reseller,Organic
+C01275,2023-07-24,West Bengal,CityD,F,48,Reseller,Organic
+C01276,2024-04-02,Karnataka,CityE,M,28,Reseller,Organic
+C01277,2023-12-26,Bihar,CityC,F,29,Direct Buyer,Google Ads
+C01278,2023-12-17,Gujarat,CityD,F,23,Reseller,Google Ads
+C01279,2024-06-20,Maharashtra,CityE,M,26,Direct Buyer,Google Ads
+C01280,2023-05-04,Maharashtra,CityE,F,21,Reseller,Facebook Ads
+C01281,2024-10-04,Kerala,CityC,F,23,Direct Buyer,Google Ads
+C01282,2023-09-18,Assam,CityC,F,18,Reseller,Facebook Ads
+C01283,2024-08-10,Odisha,CityB,F,37,Reseller,Facebook Ads
+C01284,2024-11-26,West Bengal,CityD,F,31,Reseller,Facebook Ads
+C01285,2025-06-20,Karnataka,CityD,F,31,Reseller,Referral
+C01286,2024-09-22,Gujarat,CityC,F,29,Reseller,Organic
+C01287,2024-08-15,Madhya Pradesh,CityE,M,30,Direct Buyer,Facebook Ads
+C01288,2025-02-19,Jammu & Kashmir,CityC,F,42,Direct Buyer,Organic
+C01289,2024-03-27,Haryana,CityE,F,23,Direct Buyer,Referral
+C01290,2023-03-28,Telangana,CityE,F,32,Reseller,Organic
+C01291,2023-09-30,Assam,CityC,F,32,Reseller,Organic
+C01292,2024-11-12,Gujarat,CityA,F,39,Direct Buyer,Influencer
+C01293,2023-11-13,Chhattisgarh,CityD,M,33,Reseller,Organic
+C01294,2023-08-26,Odisha,CityE,M,33,Direct Buyer,Organic
+C01295,2023-01-18,Rajasthan,CityE,M,19,Reseller,Organic
+C01296,2024-03-12,Andhra Pradesh,CityA,M,23,Direct Buyer,Google Ads
+C01297,2025-06-26,Andhra Pradesh,CityB,F,20,Reseller,Referral
+C01298,2023-06-25,Kerala,CityA,F,18,Direct Buyer,Referral
+C01299,2025-05-27,Delhi,CityA,F,33,Reseller,Google Ads
+C01300,2024-05-23,Telangana,CityE,F,27,Direct Buyer,Organic
+C01301,2025-01-27,Kerala,CityD,M,33,Reseller,Organic
+C01302,2024-02-14,Karnataka,CityA,F,30,Direct Buyer,Organic
+C01303,2024-02-28,Karnataka,CityB,M,31,Direct Buyer,Facebook Ads
+C01304,2023-06-15,West Bengal,CityC,F,40,Reseller,Referral
+C01305,2023-10-10,Assam,CityA,M,30,Reseller,Organic
+C01306,2023-09-09,Telangana,CityA,M,35,Reseller,Organic
+C01307,2023-10-12,Telangana,CityB,M,27,Reseller,Organic
+C01308,2023-06-29,Uttar Pradesh,CityD,M,36,Reseller,Referral
+C01309,2025-05-24,Chhattisgarh,CityA,F,20,Reseller,Organic
+C01310,2025-03-25,Assam,CityA,M,18,Reseller,Organic
+C01311,2023-05-03,Jammu & Kashmir,CityD,M,46,Direct Buyer,Organic
+C01312,2025-03-14,Tamil Nadu,CityB,M,44,Direct Buyer,Facebook Ads
+C01313,2025-02-14,Assam,CityA,M,18,Reseller,Facebook Ads
+C01314,2023-08-13,Gujarat,CityD,M,29,Direct Buyer,Organic
+C01315,2024-01-30,Jharkhand,CityA,M,31,Direct Buyer,Facebook Ads
+C01316,2024-11-14,Haryana,CityC,F,35,Reseller,Referral
+C01317,2024-10-14,Chhattisgarh,CityE,M,43,Reseller,Influencer
+C01318,2025-06-21,Haryana,CityC,F,21,Reseller,Organic
+C01319,2024-02-24,Madhya Pradesh,CityA,F,21,Direct Buyer,Referral
+C01320,2025-07-02,Jammu & Kashmir,CityB,F,29,Direct Buyer,Referral
+C01321,2023-07-27,Jammu & Kashmir,CityE,F,22,Reseller,Organic
+C01322,2025-04-02,Gujarat,CityC,F,18,Direct Buyer,Facebook Ads
+C01323,2025-03-29,Telangana,CityD,F,28,Reseller,Organic
+C01324,2023-01-08,Uttar Pradesh,CityB,F,36,Reseller,Organic
+C01325,2023-04-20,Haryana,CityC,F,29,Direct Buyer,Organic
+C01326,2023-05-12,Tamil Nadu,CityD,F,34,Direct Buyer,Organic
+C01327,2023-09-10,Maharashtra,CityA,M,33,Reseller,Organic
+C01328,2024-04-29,Assam,CityD,M,21,Reseller,Referral
+C01329,2024-02-13,Jharkhand,CityC,M,30,Direct Buyer,Facebook Ads
+C01330,2023-08-21,Madhya Pradesh,CityC,M,18,Direct Buyer,Facebook Ads
+C01331,2025-05-21,Tamil Nadu,CityA,M,25,Direct Buyer,Organic
+C01332,2023-03-09,Tamil Nadu,CityD,F,30,Reseller,Referral
+C01333,2025-07-10,Haryana,CityD,M,29,Reseller,Google Ads
+C01334,2023-03-13,Jharkhand,CityA,M,19,Reseller,Organic
+C01335,2025-02-20,Andhra Pradesh,CityD,F,21,Reseller,Referral
+C01336,2024-11-08,Jharkhand,CityA,F,32,Direct Buyer,Facebook Ads
+C01337,2024-01-06,Kerala,CityB,M,36,Reseller,Referral
+C01338,2024-01-29,Bihar,CityC,F,28,Reseller,Organic
+C01339,2024-08-11,Tamil Nadu,CityB,M,27,Reseller,Organic
+C01340,2025-03-10,Karnataka,CityE,F,37,Reseller,Referral
+C01341,2023-01-14,Odisha,CityE,F,23,Direct Buyer,Influencer
+C01342,2024-08-28,Kerala,CityE,F,43,Direct Buyer,Organic
+C01343,2024-03-14,Telangana,CityA,F,19,Reseller,Influencer
+C01344,2023-07-21,Odisha,CityD,F,38,Direct Buyer,Organic
+C01345,2023-10-19,Uttar Pradesh,CityB,M,34,Direct Buyer,Organic
+C01346,2024-09-14,Chhattisgarh,CityB,M,49,Direct Buyer,Organic
+C01347,2023-06-10,Punjab,CityB,M,21,Reseller,Referral
+C01348,2025-04-26,Telangana,CityB,F,18,Reseller,Organic
+C01349,2025-01-23,Kerala,CityE,M,39,Reseller,Organic
+C01350,2023-06-30,Haryana,CityB,F,18,Direct Buyer,Google Ads
+C01351,2025-03-15,Telangana,CityD,F,34,Direct Buyer,Influencer
+C01352,2023-04-20,Odisha,CityE,F,39,Reseller,Organic
+C01353,2023-12-06,Tamil Nadu,CityB,F,33,Reseller,Organic
+C01354,2023-02-24,Gujarat,CityA,F,31,Reseller,Google Ads
+C01355,2023-07-26,Punjab,CityC,F,33,Reseller,Referral
+C01356,2024-05-10,West Bengal,CityC,M,36,Direct Buyer,Organic
+C01357,2024-08-23,Bihar,CityC,M,34,Reseller,Influencer
+C01358,2024-07-25,Punjab,CityE,F,20,Reseller,Organic
+C01359,2023-05-16,Odisha,CityB,F,44,Direct Buyer,Referral
+C01360,2023-03-27,Telangana,CityE,F,30,Reseller,Organic
+C01361,2023-04-28,Madhya Pradesh,CityD,F,34,Direct Buyer,Referral
+C01362,2023-11-26,Haryana,CityA,M,35,Reseller,Organic
+C01363,2023-10-19,Delhi,CityA,F,39,Direct Buyer,Facebook Ads
+C01364,2023-07-22,Tamil Nadu,CityC,M,38,Reseller,Influencer
+C01365,2024-10-23,Haryana,CityC,M,31,Direct Buyer,Referral
+C01366,2023-09-13,Tamil Nadu,CityC,F,30,Reseller,Referral
+C01367,2023-07-12,West Bengal,CityB,M,33,Reseller,Organic
+C01368,2024-01-06,Odisha,CityD,F,38,Direct Buyer,Google Ads
+C01369,2024-05-05,Delhi,CityD,F,21,Reseller,Influencer
+C01370,2023-05-02,Maharashtra,CityD,F,35,Direct Buyer,Google Ads
+C01371,2023-08-13,Chhattisgarh,CityD,F,22,Reseller,Referral
+C01372,2023-02-25,Telangana,CityC,F,44,Reseller,Influencer
+C01373,2023-09-29,Telangana,CityA,F,32,Direct Buyer,Organic
+C01374,2023-11-26,Punjab,CityC,M,26,Direct Buyer,Referral
+C01375,2024-01-07,Maharashtra,CityD,M,33,Direct Buyer,Referral
+C01376,2024-03-07,Maharashtra,CityC,M,30,Direct Buyer,Referral
+C01377,2023-11-14,Karnataka,CityD,F,28,Reseller,Google Ads
+C01378,2023-10-08,Kerala,CityE,M,18,Direct Buyer,Facebook Ads
+C01379,2023-10-15,Andhra Pradesh,CityA,M,21,Reseller,Organic
+C01380,2024-11-23,Karnataka,CityE,M,28,Reseller,Organic
+C01381,2024-09-10,West Bengal,CityB,M,18,Reseller,Organic
+C01382,2023-12-05,Assam,CityC,M,25,Reseller,Referral
+C01383,2024-05-02,Uttar Pradesh,CityB,F,26,Direct Buyer,Organic
+C01384,2023-03-26,Telangana,CityC,M,23,Reseller,Organic
+C01385,2024-03-23,Rajasthan,CityE,F,36,Direct Buyer,Facebook Ads
+C01386,2024-03-26,Chhattisgarh,CityD,M,22,Reseller,Google Ads
+C01387,2024-03-10,Jammu & Kashmir,CityD,F,30,Reseller,Influencer
+C01388,2023-11-04,Haryana,CityC,F,27,Reseller,Influencer
+C01389,2023-06-21,Odisha,CityD,F,29,Direct Buyer,Google Ads
+C01390,2024-10-19,Gujarat,CityE,M,42,Reseller,Organic
+C01391,2023-04-15,Madhya Pradesh,CityD,F,31,Direct Buyer,Google Ads
+C01392,2024-07-02,Andhra Pradesh,CityE,F,32,Reseller,Organic
+C01393,2025-07-05,West Bengal,CityB,M,23,Reseller,Facebook Ads
+C01394,2024-05-12,Madhya Pradesh,CityE,M,35,Direct Buyer,Referral
+C01395,2025-05-02,Andhra Pradesh,CityA,F,34,Direct Buyer,Google Ads
+C01396,2024-01-14,Telangana,CityA,F,33,Reseller,Organic
+C01397,2023-07-03,Andhra Pradesh,CityA,M,20,Direct Buyer,Organic
+C01398,2024-03-11,Karnataka,CityC,M,25,Direct Buyer,Referral
+C01399,2024-01-11,Maharashtra,CityC,F,41,Direct Buyer,Organic
+C01400,2025-05-20,Karnataka,CityC,M,24,Direct Buyer,Influencer
+C01401,2023-01-20,Punjab,CityE,F,42,Direct Buyer,Referral
+C01402,2023-09-23,Madhya Pradesh,CityC,M,25,Reseller,Referral
+C01403,2024-05-02,Bihar,CityB,M,31,Direct Buyer,Influencer
+C01404,2024-05-18,Odisha,CityA,F,28,Reseller,Referral
+C01405,2023-08-30,Kerala,CityE,F,23,Direct Buyer,Organic
+C01406,2023-08-28,Kerala,CityA,M,23,Reseller,Organic
+C01407,2023-04-17,Andhra Pradesh,CityC,M,24,Reseller,Referral
+C01408,2024-08-29,West Bengal,CityE,F,31,Direct Buyer,Google Ads
+C01409,2024-12-21,Gujarat,CityD,M,37,Reseller,Google Ads
+C01410,2024-03-06,Maharashtra,CityB,M,30,Reseller,Influencer
+C01411,2023-08-24,Delhi,CityC,F,29,Direct Buyer,Organic
+C01412,2023-01-07,Uttar Pradesh,CityC,M,39,Direct Buyer,Organic
+C01413,2024-02-25,Rajasthan,CityB,F,30,Direct Buyer,Organic
+C01414,2023-09-10,Chhattisgarh,CityB,M,25,Reseller,Facebook Ads
+C01415,2023-02-02,Bihar,CityD,F,22,Direct Buyer,Organic
+C01416,2024-02-15,Jammu & Kashmir,CityC,F,40,Reseller,Organic
+C01417,2024-03-04,Jammu & Kashmir,CityC,F,27,Reseller,Referral
+C01418,2023-06-05,Bihar,CityA,M,25,Direct Buyer,Organic
+C01419,2024-03-24,Bihar,CityE,M,24,Direct Buyer,Facebook Ads
+C01420,2024-07-06,Chhattisgarh,CityE,M,39,Reseller,Referral
+C01421,2023-11-09,Rajasthan,CityA,M,25,Reseller,Organic
+C01422,2023-05-05,Jharkhand,CityE,F,37,Reseller,Organic
+C01423,2023-02-21,Chhattisgarh,CityB,M,28,Reseller,Google Ads
+C01424,2024-02-22,Haryana,CityE,F,20,Reseller,Organic
+C01425,2023-05-14,Kerala,CityE,M,27,Direct Buyer,Organic
+C01426,2023-12-05,Jammu & Kashmir,CityA,F,29,Direct Buyer,Organic
+C01427,2024-02-24,Jammu & Kashmir,CityD,M,29,Direct Buyer,Organic
+C01428,2024-11-21,Haryana,CityE,M,28,Reseller,Google Ads
+C01429,2024-06-03,West Bengal,CityE,M,27,Direct Buyer,Organic
+C01430,2024-01-02,Uttar Pradesh,CityD,F,23,Reseller,Influencer
+C01431,2024-11-05,Haryana,CityA,F,30,Reseller,Organic
+C01432,2024-10-29,Uttar Pradesh,CityD,F,34,Reseller,Google Ads
+C01433,2023-11-04,Kerala,CityA,M,18,Direct Buyer,Google Ads
+C01434,2025-05-01,Jammu & Kashmir,CityB,F,40,Direct Buyer,Referral
+C01435,2023-04-11,Jammu & Kashmir,CityA,M,18,Reseller,Facebook Ads
+C01436,2024-07-15,Andhra Pradesh,CityB,F,30,Reseller,Organic
+C01437,2023-11-11,Telangana,CityB,F,33,Reseller,Referral
+C01438,2024-10-26,Gujarat,CityA,M,25,Direct Buyer,Organic
+C01439,2023-01-03,Gujarat,CityC,F,18,Reseller,Organic
+C01440,2024-09-14,Madhya Pradesh,CityA,M,29,Reseller,Facebook Ads
+C01441,2023-11-01,Uttar Pradesh,CityE,M,31,Direct Buyer,Organic
+C01442,2023-06-12,Chhattisgarh,CityE,F,20,Reseller,Google Ads
+C01443,2024-10-31,Maharashtra,CityC,F,23,Reseller,Organic
+C01444,2024-11-07,Kerala,CityB,F,37,Reseller,Referral
+C01445,2024-11-03,Gujarat,CityC,F,30,Direct Buyer,Influencer
+C01446,2024-05-16,West Bengal,CityE,M,18,Reseller,Facebook Ads
+C01447,2023-08-27,Madhya Pradesh,CityC,F,33,Direct Buyer,Referral
+C01448,2025-01-26,Telangana,CityA,F,22,Direct Buyer,Facebook Ads
+C01449,2023-06-03,Delhi,CityC,F,23,Reseller,Influencer
+C01450,2024-02-14,Bihar,CityB,F,31,Reseller,Organic
+C01451,2023-10-09,Odisha,CityA,F,30,Reseller,Referral
+C01452,2024-07-10,Delhi,CityD,M,26,Reseller,Organic
+C01453,2024-10-01,Delhi,CityE,M,25,Direct Buyer,Organic
+C01454,2023-01-13,Kerala,CityE,M,27,Direct Buyer,Organic
+C01455,2023-05-19,Rajasthan,CityC,M,23,Reseller,Organic
+C01456,2023-08-10,Assam,CityA,F,38,Reseller,Referral
+C01457,2024-08-18,Rajasthan,CityD,M,18,Reseller,Google Ads
+C01458,2023-05-29,Karnataka,CityA,F,28,Reseller,Google Ads
+C01459,2025-03-16,Madhya Pradesh,CityE,F,18,Direct Buyer,Referral
+C01460,2025-03-15,Jharkhand,CityA,F,37,Reseller,Organic
+C01461,2023-02-21,West Bengal,CityD,F,28,Direct Buyer,Organic
+C01462,2024-07-02,Andhra Pradesh,CityC,M,21,Reseller,Organic
+C01463,2025-06-06,Jammu & Kashmir,CityB,F,35,Direct Buyer,Referral
+C01464,2023-03-02,Assam,CityA,M,18,Direct Buyer,Organic
+C01465,2025-02-11,Haryana,CityB,F,32,Reseller,Referral
+C01466,2023-11-07,Jammu & Kashmir,CityE,F,39,Reseller,Influencer
+C01467,2024-10-04,Kerala,CityC,M,31,Reseller,Facebook Ads
+C01468,2023-03-05,Karnataka,CityC,F,25,Reseller,Google Ads
+C01469,2023-10-05,Gujarat,CityA,F,20,Direct Buyer,Facebook Ads
+C01470,2024-12-26,Punjab,CityC,F,38,Direct Buyer,Organic
+C01471,2025-01-29,Delhi,CityA,M,37,Direct Buyer,Organic
+C01472,2024-09-26,Punjab,CityA,M,24,Direct Buyer,Google Ads
+C01473,2023-03-03,Rajasthan,CityB,F,25,Reseller,Facebook Ads
+C01474,2023-08-16,Jharkhand,CityC,M,39,Direct Buyer,Referral
+C01475,2023-01-10,Jharkhand,CityA,M,34,Direct Buyer,Organic
+C01476,2024-11-04,West Bengal,CityB,M,18,Reseller,Referral
+C01477,2024-10-09,Assam,CityD,M,28,Reseller,Organic
+C01478,2023-12-04,Bihar,CityB,F,28,Reseller,Organic
+C01479,2023-08-16,Madhya Pradesh,CityB,M,31,Reseller,Organic
+C01480,2023-03-26,Uttar Pradesh,CityA,F,30,Reseller,Organic
+C01481,2024-10-29,Bihar,CityE,F,25,Direct Buyer,Organic
+C01482,2025-03-21,Assam,CityE,M,31,Direct Buyer,Organic
+C01483,2025-02-14,Karnataka,CityE,M,26,Reseller,Facebook Ads
+C01484,2025-05-30,West Bengal,CityB,F,57,Reseller,Referral
+C01485,2024-07-31,Maharashtra,CityA,F,30,Direct Buyer,Referral
+C01486,2024-05-09,Andhra Pradesh,CityC,M,29,Direct Buyer,Referral
+C01487,2025-05-19,West Bengal,CityB,F,44,Reseller,Influencer
+C01488,2024-07-10,Bihar,CityB,F,19,Direct Buyer,Organic
+C01489,2023-10-23,Maharashtra,CityA,F,29,Direct Buyer,Organic
+C01490,2023-11-08,Chhattisgarh,CityD,F,22,Direct Buyer,Referral
+C01491,2023-06-05,Jammu & Kashmir,CityB,M,35,Reseller,Organic
+C01492,2024-06-01,Kerala,CityD,F,26,Reseller,Referral
+C01493,2023-02-06,Madhya Pradesh,CityD,M,34,Direct Buyer,Referral
+C01494,2024-01-07,Gujarat,CityE,F,34,Reseller,Influencer
+C01495,2023-12-17,Tamil Nadu,CityA,M,36,Direct Buyer,Google Ads
+C01496,2025-03-24,Madhya Pradesh,CityD,M,34,Reseller,Influencer
+C01497,2025-01-23,Andhra Pradesh,CityA,M,28,Reseller,Organic
+C01498,2023-03-19,Karnataka,CityE,M,18,Reseller,Google Ads
+C01499,2024-02-21,Rajasthan,CityA,M,38,Reseller,Organic
+C01500,2023-10-03,Rajasthan,CityB,F,41,Direct Buyer,Referral
+C01501,2024-08-07,Tamil Nadu,CityD,M,22,Reseller,Facebook Ads
+C01502,2024-07-09,Jammu & Kashmir,CityA,M,35,Direct Buyer,Organic
+C01503,2024-03-25,Bihar,CityC,F,20,Direct Buyer,Referral
+C01504,2025-06-09,Delhi,CityA,F,31,Reseller,Organic
+C01505,2024-02-22,Assam,CityD,M,33,Direct Buyer,Organic
+C01506,2025-05-19,West Bengal,CityE,M,26,Reseller,Influencer
+C01507,2025-07-02,Odisha,CityE,F,30,Direct Buyer,Organic
+C01508,2024-11-07,Tamil Nadu,CityD,F,36,Direct Buyer,Organic
+C01509,2025-01-13,Delhi,CityB,M,29,Reseller,Organic
+C01510,2023-04-23,West Bengal,CityB,F,24,Reseller,Google Ads
+C01511,2024-04-30,Assam,CityE,M,20,Direct Buyer,Organic
+C01512,2023-07-05,Gujarat,CityE,M,26,Direct Buyer,Organic
+C01513,2024-11-25,Madhya Pradesh,CityD,M,20,Reseller,Google Ads
+C01514,2024-05-07,Kerala,CityB,F,26,Direct Buyer,Organic
+C01515,2025-05-30,Haryana,CityE,M,26,Reseller,Organic
+C01516,2023-05-29,Madhya Pradesh,CityB,M,36,Direct Buyer,Google Ads
+C01517,2024-01-10,Punjab,CityE,M,30,Reseller,Referral
+C01518,2023-12-08,Delhi,CityA,F,50,Direct Buyer,Google Ads
+C01519,2023-04-08,Jharkhand,CityC,F,18,Reseller,Organic
+C01520,2024-08-20,Punjab,CityA,M,32,Direct Buyer,Influencer
+C01521,2025-03-10,Assam,CityE,F,26,Direct Buyer,Influencer
+C01522,2024-11-29,West Bengal,CityC,F,22,Direct Buyer,Organic
+C01523,2024-04-21,Rajasthan,CityC,F,29,Direct Buyer,Organic
+C01524,2024-01-19,Punjab,CityE,M,29,Reseller,Influencer
+C01525,2024-03-09,Karnataka,CityE,F,38,Direct Buyer,Referral
+C01526,2023-09-08,Chhattisgarh,CityB,F,30,Direct Buyer,Referral
+C01527,2024-10-26,Punjab,CityE,F,24,Direct Buyer,Referral
+C01528,2023-04-08,Andhra Pradesh,CityD,M,32,Reseller,Google Ads
+C01529,2023-10-11,Andhra Pradesh,CityE,F,28,Reseller,Google Ads
+C01530,2024-03-20,Maharashtra,CityD,F,20,Reseller,Organic
+C01531,2024-09-20,Gujarat,CityE,F,28,Reseller,Organic
+C01532,2024-05-08,Chhattisgarh,CityB,M,31,Reseller,Google Ads
+C01533,2024-07-12,Telangana,CityD,F,30,Direct Buyer,Google Ads
+C01534,2024-12-03,Andhra Pradesh,CityA,F,32,Direct Buyer,Referral
+C01535,2024-06-21,Chhattisgarh,CityD,F,25,Direct Buyer,Influencer
+C01536,2024-11-29,West Bengal,CityB,M,32,Reseller,Facebook Ads
+C01537,2024-07-22,Punjab,CityD,M,30,Reseller,Organic
+C01538,2023-01-17,Jammu & Kashmir,CityE,M,31,Direct Buyer,Google Ads
+C01539,2023-02-21,Assam,CityE,M,30,Reseller,Organic
+C01540,2024-05-14,Madhya Pradesh,CityB,F,47,Reseller,Organic
+C01541,2025-05-24,Tamil Nadu,CityC,M,38,Direct Buyer,Organic
+C01542,2024-05-04,Chhattisgarh,CityE,F,32,Reseller,Facebook Ads
+C01543,2023-01-16,Uttar Pradesh,CityA,F,23,Reseller,Influencer
+C01544,2023-04-19,Delhi,CityB,F,27,Direct Buyer,Organic
+C01545,2025-07-09,West Bengal,CityD,F,42,Reseller,Organic
+C01546,2023-04-26,Chhattisgarh,CityD,M,25,Direct Buyer,Referral
+C01547,2025-02-16,Gujarat,CityA,F,28,Reseller,Google Ads
+C01548,2025-05-25,Maharashtra,CityE,M,28,Direct Buyer,Facebook Ads
+C01549,2023-08-16,Karnataka,CityB,F,32,Reseller,Referral
+C01550,2025-03-23,Assam,CityA,F,26,Direct Buyer,Referral
+C01551,2023-07-05,Rajasthan,CityE,M,31,Reseller,Organic
+C01552,2023-08-27,Tamil Nadu,CityB,M,26,Direct Buyer,Organic
+C01553,2023-05-09,Uttar Pradesh,CityD,M,40,Reseller,Organic
+C01554,2025-01-06,Assam,CityB,F,24,Reseller,Google Ads
+C01555,2024-08-27,Rajasthan,CityC,F,37,Direct Buyer,Organic
+C01556,2025-07-12,Chhattisgarh,CityB,M,25,Reseller,Facebook Ads
+C01557,2024-04-17,Maharashtra,CityC,M,23,Reseller,Organic
+C01558,2024-01-21,Gujarat,CityB,F,24,Reseller,Referral
+C01559,2024-09-30,Gujarat,CityC,M,18,Reseller,Organic
+C01560,2023-02-25,Kerala,CityD,M,33,Reseller,Organic
+C01561,2023-10-30,Tamil Nadu,CityE,M,20,Reseller,Organic
+C01562,2023-06-13,Tamil Nadu,CityC,M,27,Reseller,Facebook Ads
+C01563,2024-06-07,Jammu & Kashmir,CityC,M,36,Direct Buyer,Organic
+C01564,2023-01-24,Jammu & Kashmir,CityD,F,35,Reseller,Facebook Ads
+C01565,2025-04-01,Bihar,CityC,F,18,Reseller,Referral
+C01566,2023-12-20,Chhattisgarh,CityA,M,32,Direct Buyer,Referral
+C01567,2023-03-13,Chhattisgarh,CityD,F,39,Direct Buyer,Referral
+C01568,2024-02-24,Odisha,CityA,F,24,Reseller,Influencer
+C01569,2023-05-03,Punjab,CityD,F,34,Reseller,Organic
+C01570,2024-09-08,Assam,CityC,F,20,Direct Buyer,Organic
+C01571,2023-09-27,Kerala,CityA,M,33,Reseller,Influencer
+C01572,2023-01-23,Uttar Pradesh,CityC,M,31,Reseller,Organic
+C01573,2024-04-27,Chhattisgarh,CityD,F,35,Reseller,Google Ads
+C01574,2024-07-12,Bihar,CityC,F,34,Direct Buyer,Organic
+C01575,2023-10-28,Assam,CityA,M,19,Reseller,Facebook Ads
+C01576,2024-08-21,West Bengal,CityA,M,31,Direct Buyer,Organic
+C01577,2023-04-01,West Bengal,CityC,M,41,Direct Buyer,Influencer
+C01578,2024-04-27,Haryana,CityB,F,18,Reseller,Referral
+C01579,2024-08-26,Chhattisgarh,CityD,F,37,Direct Buyer,Organic
+C01580,2025-03-10,Delhi,CityD,F,42,Reseller,Organic
+C01581,2024-01-17,Telangana,CityC,M,18,Direct Buyer,Organic
+C01582,2025-06-10,Jammu & Kashmir,CityB,M,24,Reseller,Facebook Ads
+C01583,2024-02-23,Bihar,CityA,M,34,Reseller,Organic
+C01584,2024-04-25,Karnataka,CityE,F,22,Reseller,Organic
+C01585,2023-05-05,Jharkhand,CityE,M,40,Reseller,Referral
+C01586,2023-07-07,Uttar Pradesh,CityC,M,38,Reseller,Organic
+C01587,2023-04-19,Jharkhand,CityB,F,18,Reseller,Organic
+C01588,2025-04-05,Maharashtra,CityB,F,24,Reseller,Organic
+C01589,2025-05-31,West Bengal,CityD,F,36,Direct Buyer,Facebook Ads
+C01590,2023-08-29,Delhi,CityA,F,35,Reseller,Influencer
+C01591,2024-03-16,Tamil Nadu,CityB,F,47,Direct Buyer,Organic
+C01592,2024-08-22,Uttar Pradesh,CityE,F,22,Reseller,Google Ads
+C01593,2024-11-26,Chhattisgarh,CityA,F,41,Reseller,Organic
+C01594,2025-03-15,Karnataka,CityA,F,22,Reseller,Organic
+C01595,2023-02-25,Delhi,CityC,F,34,Reseller,Referral
+C01596,2023-11-20,Uttar Pradesh,CityB,M,37,Direct Buyer,Organic
+C01597,2025-06-09,Madhya Pradesh,CityC,F,18,Reseller,Referral
+C01598,2024-09-10,Punjab,CityB,M,37,Direct Buyer,Google Ads
+C01599,2023-07-17,Tamil Nadu,CityD,F,41,Direct Buyer,Influencer
+C01600,2024-08-04,Karnataka,CityC,M,38,Reseller,Organic
+C01601,2025-02-08,Kerala,CityC,F,46,Direct Buyer,Organic
+C01602,2023-05-10,Punjab,CityE,M,37,Reseller,Influencer
+C01603,2023-10-31,Bihar,CityC,F,25,Reseller,Organic
+C01604,2025-02-04,Delhi,CityB,M,39,Direct Buyer,Facebook Ads
+C01605,2024-03-15,Odisha,CityE,F,25,Reseller,Organic
+C01606,2023-11-23,Punjab,CityC,M,30,Reseller,Organic
+C01607,2024-12-14,Telangana,CityC,F,36,Reseller,Organic
+C01608,2025-04-27,Andhra Pradesh,CityD,F,33,Reseller,Google Ads
+C01609,2023-11-23,Jammu & Kashmir,CityC,F,40,Reseller,Google Ads
+C01610,2023-05-19,West Bengal,CityA,M,49,Reseller,Organic
+C01611,2024-02-07,Odisha,CityE,M,20,Reseller,Google Ads
+C01612,2024-01-10,Maharashtra,CityA,M,27,Reseller,Organic
+C01613,2023-05-12,Delhi,CityE,F,32,Direct Buyer,Organic
+C01614,2024-09-19,Madhya Pradesh,CityD,F,26,Reseller,Facebook Ads
+C01615,2023-12-04,Karnataka,CityC,M,29,Direct Buyer,Referral
+C01616,2024-06-12,Rajasthan,CityC,F,36,Direct Buyer,Organic
+C01617,2023-11-26,Jharkhand,CityC,M,35,Direct Buyer,Organic
+C01618,2023-07-01,Bihar,CityE,M,31,Direct Buyer,Influencer
+C01619,2024-01-24,Haryana,CityC,M,31,Reseller,Google Ads
+C01620,2025-01-06,Punjab,CityA,F,28,Reseller,Google Ads
+C01621,2025-04-20,Delhi,CityC,F,41,Reseller,Organic
+C01622,2025-02-08,Delhi,CityD,F,43,Direct Buyer,Facebook Ads
+C01623,2023-11-13,Haryana,CityA,M,38,Direct Buyer,Organic
+C01624,2023-03-17,Jammu & Kashmir,CityC,F,20,Reseller,Influencer
+C01625,2023-12-28,Punjab,CityC,F,27,Reseller,Organic
+C01626,2025-03-10,Karnataka,CityB,F,31,Direct Buyer,Organic
+C01627,2023-02-02,Uttar Pradesh,CityE,F,22,Reseller,Organic
+C01628,2024-02-09,Chhattisgarh,CityA,M,30,Reseller,Google Ads
+C01629,2024-12-08,Odisha,CityB,M,30,Reseller,Facebook Ads
+C01630,2023-01-25,Telangana,CityD,F,38,Direct Buyer,Organic
+C01631,2024-03-24,Madhya Pradesh,CityE,F,26,Reseller,Referral
+C01632,2024-09-22,Odisha,CityA,M,39,Reseller,Google Ads
+C01633,2023-09-04,Chhattisgarh,CityC,F,22,Direct Buyer,Organic
+C01634,2023-10-19,Tamil Nadu,CityA,M,23,Reseller,Google Ads
+C01635,2023-02-23,Uttar Pradesh,CityC,M,26,Direct Buyer,Influencer
+C01636,2025-06-27,Madhya Pradesh,CityE,F,30,Reseller,Organic
+C01637,2025-03-20,Jharkhand,CityC,F,18,Reseller,Organic
+C01638,2025-03-02,Madhya Pradesh,CityD,M,33,Direct Buyer,Organic
+C01639,2025-05-10,Uttar Pradesh,CityC,F,43,Direct Buyer,Organic
+C01640,2024-03-08,Haryana,CityD,F,35,Reseller,Referral
+C01641,2024-06-30,Punjab,CityE,F,28,Reseller,Facebook Ads
+C01642,2023-08-13,Gujarat,CityE,F,21,Direct Buyer,Referral
+C01643,2024-11-02,Delhi,CityA,M,18,Reseller,Organic
+C01644,2025-07-03,Madhya Pradesh,CityD,M,18,Direct Buyer,Facebook Ads
+C01645,2024-07-14,Maharashtra,CityD,M,28,Direct Buyer,Facebook Ads
+C01646,2024-10-15,Assam,CityB,F,46,Reseller,Influencer
+C01647,2025-03-25,Rajasthan,CityB,F,18,Direct Buyer,Organic
+C01648,2024-08-16,West Bengal,CityB,M,35,Reseller,Facebook Ads
+C01649,2024-07-04,Uttar Pradesh,CityC,F,24,Direct Buyer,Influencer
+C01650,2023-05-06,Kerala,CityB,M,27,Reseller,Referral
+C01651,2024-06-20,Jammu & Kashmir,CityD,F,22,Direct Buyer,Organic
+C01652,2025-02-09,Rajasthan,CityC,M,19,Direct Buyer,Organic
+C01653,2024-07-19,Assam,CityE,F,31,Direct Buyer,Google Ads
+C01654,2023-08-05,Jharkhand,CityA,F,32,Direct Buyer,Organic
+C01655,2023-09-27,Delhi,CityB,F,35,Reseller,Influencer
+C01656,2024-08-08,Jammu & Kashmir,CityE,F,18,Reseller,Google Ads
+C01657,2025-05-27,Haryana,CityD,F,36,Direct Buyer,Organic
+C01658,2024-10-07,Andhra Pradesh,CityA,M,37,Direct Buyer,Referral
+C01659,2024-01-11,Gujarat,CityE,M,33,Direct Buyer,Organic
+C01660,2023-04-23,Karnataka,CityA,M,26,Direct Buyer,Organic
+C01661,2023-10-20,Andhra Pradesh,CityB,M,32,Reseller,Facebook Ads
+C01662,2023-01-27,Chhattisgarh,CityD,F,28,Reseller,Facebook Ads
+C01663,2023-01-21,Maharashtra,CityA,F,37,Reseller,Organic
+C01664,2025-06-08,Tamil Nadu,CityE,F,27,Direct Buyer,Google Ads
+C01665,2024-03-16,Madhya Pradesh,CityB,M,30,Reseller,Organic
+C01666,2025-06-30,Gujarat,CityB,F,18,Direct Buyer,Referral
+C01667,2024-03-06,Madhya Pradesh,CityE,M,32,Reseller,Referral
+C01668,2025-06-22,Haryana,CityE,F,24,Reseller,Organic
+C01669,2023-05-27,Jammu & Kashmir,CityA,M,34,Reseller,Influencer
+C01670,2025-06-10,Gujarat,CityC,M,36,Reseller,Facebook Ads
+C01671,2024-09-07,Chhattisgarh,CityB,F,25,Direct Buyer,Referral
+C01672,2024-02-07,Chhattisgarh,CityA,F,30,Reseller,Referral
+C01673,2025-01-15,Odisha,CityE,M,31,Reseller,Organic
+C01674,2023-10-23,Rajasthan,CityA,F,32,Reseller,Organic
+C01675,2024-12-31,Bihar,CityE,F,36,Direct Buyer,Facebook Ads
+C01676,2023-07-01,Andhra Pradesh,CityD,M,35,Direct Buyer,Influencer
+C01677,2024-04-20,Maharashtra,CityE,F,26,Reseller,Google Ads
+C01678,2023-12-26,Bihar,CityE,M,42,Direct Buyer,Organic
+C01679,2024-05-28,Punjab,CityE,M,36,Reseller,Organic
+C01680,2023-02-05,Maharashtra,CityC,F,41,Reseller,Organic
+C01681,2025-06-07,Andhra Pradesh,CityE,F,32,Direct Buyer,Organic
+C01682,2024-07-08,Tamil Nadu,CityB,F,33,Reseller,Referral
+C01683,2023-09-03,Telangana,CityB,M,29,Direct Buyer,Referral
+C01684,2025-05-13,Rajasthan,CityA,F,26,Reseller,Organic
+C01685,2024-12-12,Assam,CityC,M,37,Direct Buyer,Referral
+C01686,2024-06-12,Tamil Nadu,CityA,F,32,Reseller,Facebook Ads
+C01687,2024-12-02,Jammu & Kashmir,CityB,F,28,Direct Buyer,Organic
+C01688,2023-08-05,Gujarat,CityB,F,21,Direct Buyer,Facebook Ads
+C01689,2025-05-25,Jammu & Kashmir,CityD,F,42,Reseller,Organic
+C01690,2025-05-06,Odisha,CityE,F,30,Reseller,Referral
+C01691,2023-07-30,Delhi,CityB,F,20,Reseller,Google Ads
+C01692,2025-02-14,Jammu & Kashmir,CityA,F,30,Direct Buyer,Referral
+C01693,2024-06-11,Bihar,CityA,F,28,Reseller,Influencer
+C01694,2023-02-19,Assam,CityE,F,28,Reseller,Organic
+C01695,2024-12-29,Maharashtra,CityE,M,34,Direct Buyer,Referral
+C01696,2023-02-06,Maharashtra,CityD,F,28,Reseller,Referral
+C01697,2024-01-19,Bihar,CityC,F,27,Direct Buyer,Facebook Ads
+C01698,2025-07-10,Tamil Nadu,CityA,M,40,Reseller,Google Ads
+C01699,2025-05-04,Assam,CityE,F,18,Reseller,Facebook Ads
+C01700,2023-04-26,Andhra Pradesh,CityA,M,29,Direct Buyer,Google Ads
+C01701,2024-12-14,Gujarat,CityE,F,37,Direct Buyer,Organic
+C01702,2024-12-04,Uttar Pradesh,CityB,F,35,Reseller,Organic
+C01703,2025-05-04,Punjab,CityA,M,38,Reseller,Referral
+C01704,2023-11-01,Tamil Nadu,CityB,F,46,Reseller,Referral
+C01705,2023-02-27,Gujarat,CityA,M,43,Reseller,Influencer
+C01706,2023-02-12,West Bengal,CityC,F,20,Reseller,Organic
+C01707,2023-01-08,Maharashtra,CityD,M,18,Reseller,Organic
+C01708,2024-08-23,West Bengal,CityB,M,32,Direct Buyer,Referral
+C01709,2025-03-23,Uttar Pradesh,CityE,F,19,Direct Buyer,Google Ads
+C01710,2023-11-07,Delhi,CityC,M,18,Reseller,Influencer
+C01711,2025-02-24,Andhra Pradesh,CityA,F,32,Reseller,Organic
+C01712,2023-09-21,Assam,CityB,M,34,Reseller,Organic
+C01713,2023-09-12,Delhi,CityA,F,43,Reseller,Organic
+C01714,2023-09-25,Punjab,CityA,M,36,Direct Buyer,Organic
+C01715,2024-05-06,West Bengal,CityA,F,45,Direct Buyer,Influencer
+C01716,2023-12-20,Maharashtra,CityD,F,32,Direct Buyer,Organic
+C01717,2025-05-20,Kerala,CityD,M,20,Direct Buyer,Organic
+C01718,2025-07-02,Uttar Pradesh,CityE,M,36,Reseller,Organic
+C01719,2024-02-08,Chhattisgarh,CityB,F,40,Reseller,Organic
+C01720,2025-07-09,Kerala,CityC,F,33,Direct Buyer,Google Ads
+C01721,2024-12-09,West Bengal,CityC,F,41,Reseller,Organic
+C01722,2023-04-11,Rajasthan,CityC,F,29,Direct Buyer,Organic
+C01723,2024-09-09,Chhattisgarh,CityA,F,34,Direct Buyer,Influencer
+C01724,2023-12-07,Gujarat,CityD,M,28,Direct Buyer,Organic
+C01725,2023-06-17,West Bengal,CityB,F,49,Reseller,Facebook Ads
+C01726,2023-05-12,Delhi,CityA,M,36,Reseller,Organic
+C01727,2024-12-13,Uttar Pradesh,CityD,M,21,Direct Buyer,Referral
+C01728,2024-06-16,Andhra Pradesh,CityD,F,44,Direct Buyer,Organic
+C01729,2024-12-31,West Bengal,CityB,F,24,Direct Buyer,Organic
+C01730,2024-09-30,Gujarat,CityB,F,30,Direct Buyer,Referral
+C01731,2023-08-28,Kerala,CityB,F,33,Reseller,Organic
+C01732,2023-03-21,Jharkhand,CityA,M,34,Reseller,Referral
+C01733,2023-05-31,Andhra Pradesh,CityE,F,33,Reseller,Organic
+C01734,2024-07-10,Tamil Nadu,CityB,M,20,Reseller,Facebook Ads
+C01735,2025-04-23,Punjab,CityE,F,33,Direct Buyer,Influencer
+C01736,2023-10-06,Tamil Nadu,CityA,F,38,Direct Buyer,Organic
+C01737,2024-02-23,Chhattisgarh,CityE,F,38,Reseller,Organic
+C01738,2023-02-02,Andhra Pradesh,CityC,F,19,Reseller,Google Ads
+C01739,2023-05-01,Haryana,CityE,F,24,Reseller,Referral
+C01740,2023-02-26,Haryana,CityB,F,21,Direct Buyer,Organic
+C01741,2023-08-13,Bihar,CityA,M,32,Reseller,Referral
+C01742,2024-01-05,Jammu & Kashmir,CityB,M,18,Reseller,Organic
+C01743,2025-02-02,Assam,CityC,F,21,Reseller,Organic
+C01744,2023-06-24,Assam,CityB,F,24,Reseller,Influencer
+C01745,2025-01-25,West Bengal,CityB,F,18,Direct Buyer,Facebook Ads
+C01746,2024-12-23,Gujarat,CityB,F,29,Reseller,Facebook Ads
+C01747,2024-07-17,Delhi,CityD,F,18,Reseller,Organic
+C01748,2023-02-03,Chhattisgarh,CityC,F,33,Reseller,Organic
+C01749,2024-09-02,Telangana,CityB,F,26,Reseller,Google Ads
+C01750,2023-05-24,Gujarat,CityB,F,25,Direct Buyer,Organic
+C01751,2025-04-03,Andhra Pradesh,CityB,F,26,Reseller,Organic
+C01752,2023-08-22,Haryana,CityA,F,29,Reseller,Organic
+C01753,2023-09-23,Jammu & Kashmir,CityD,M,34,Direct Buyer,Referral
+C01754,2023-02-03,Kerala,CityA,F,40,Reseller,Organic
+C01755,2025-02-15,Karnataka,CityD,F,38,Direct Buyer,Organic
+C01756,2024-10-20,Rajasthan,CityB,F,47,Reseller,Google Ads
+C01757,2023-10-14,Chhattisgarh,CityC,M,35,Reseller,Referral
+C01758,2025-02-28,Assam,CityE,M,31,Direct Buyer,Organic
+C01759,2024-08-23,Jammu & Kashmir,CityE,M,26,Direct Buyer,Facebook Ads
+C01760,2023-09-16,Assam,CityB,F,26,Direct Buyer,Organic
+C01761,2025-03-10,Uttar Pradesh,CityA,F,34,Reseller,Organic
+C01762,2023-02-16,Jharkhand,CityC,M,22,Reseller,Referral
+C01763,2024-02-01,Madhya Pradesh,CityD,F,31,Reseller,Organic
+C01764,2023-09-27,Telangana,CityB,F,29,Reseller,Organic
+C01765,2024-11-04,Punjab,CityC,M,24,Direct Buyer,Facebook Ads
+C01766,2025-05-07,Maharashtra,CityC,F,21,Reseller,Influencer
+C01767,2024-07-10,Karnataka,CityD,F,50,Reseller,Referral
+C01768,2023-05-16,Telangana,CityC,F,18,Direct Buyer,Organic
+C01769,2024-12-18,Haryana,CityA,F,29,Reseller,Organic
+C01770,2023-12-10,Bihar,CityA,F,39,Direct Buyer,Organic
+C01771,2024-02-28,Uttar Pradesh,CityA,M,34,Reseller,Organic
+C01772,2024-12-30,Telangana,CityC,M,26,Reseller,Organic
+C01773,2024-06-15,Punjab,CityA,F,20,Direct Buyer,Referral
+C01774,2024-04-27,Haryana,CityD,M,31,Reseller,Organic
+C01775,2024-08-29,Punjab,CityC,F,18,Reseller,Organic
+C01776,2024-08-17,Andhra Pradesh,CityE,F,31,Direct Buyer,Referral
+C01777,2025-05-23,Haryana,CityC,M,30,Direct Buyer,Organic
+C01778,2024-04-09,Tamil Nadu,CityD,M,38,Direct Buyer,Influencer
+C01779,2023-01-23,Delhi,CityE,M,20,Direct Buyer,Organic
+C01780,2023-08-26,West Bengal,CityC,M,27,Reseller,Google Ads
+C01781,2024-07-06,Kerala,CityA,M,33,Direct Buyer,Google Ads
+C01782,2024-11-25,Jharkhand,CityB,M,31,Direct Buyer,Google Ads
+C01783,2023-06-19,Bihar,CityB,F,19,Reseller,Organic
+C01784,2024-06-02,Andhra Pradesh,CityA,M,24,Direct Buyer,Influencer
+C01785,2024-02-02,Tamil Nadu,CityB,M,41,Reseller,Organic
+C01786,2023-03-04,Uttar Pradesh,CityB,M,32,Reseller,Organic
+C01787,2025-01-24,Jharkhand,CityA,F,18,Direct Buyer,Organic
+C01788,2023-09-16,Karnataka,CityA,F,37,Reseller,Organic
+C01789,2025-05-28,Delhi,CityC,F,18,Reseller,Organic
+C01790,2023-04-27,Jharkhand,CityC,F,27,Reseller,Organic
+C01791,2024-01-30,Andhra Pradesh,CityA,M,34,Direct Buyer,Organic
+C01792,2024-12-04,Chhattisgarh,CityD,F,39,Reseller,Facebook Ads
+C01793,2025-01-09,Gujarat,CityB,F,18,Reseller,Organic
+C01794,2025-06-21,Tamil Nadu,CityC,M,35,Direct Buyer,Referral
+C01795,2023-01-25,Telangana,CityB,F,36,Direct Buyer,Influencer
+C01796,2025-06-14,Rajasthan,CityE,F,25,Reseller,Organic
+C01797,2025-06-25,Chhattisgarh,CityA,F,30,Direct Buyer,Referral
+C01798,2024-05-06,Uttar Pradesh,CityD,M,18,Direct Buyer,Influencer
+C01799,2024-02-16,Madhya Pradesh,CityE,F,18,Direct Buyer,Organic
+C01800,2024-01-11,Gujarat,CityE,M,38,Reseller,Organic
+C01801,2024-03-12,Haryana,CityE,F,25,Direct Buyer,Google Ads
+C01802,2025-05-03,Maharashtra,CityA,F,27,Reseller,Influencer
+C01803,2023-09-10,Telangana,CityC,F,31,Reseller,Referral
+C01804,2024-04-24,Tamil Nadu,CityA,M,27,Reseller,Organic
+C01805,2024-06-02,Karnataka,CityC,F,26,Direct Buyer,Influencer
+C01806,2024-01-27,West Bengal,CityE,F,33,Reseller,Organic
+C01807,2023-12-17,Haryana,CityE,F,18,Reseller,Organic
+C01808,2024-01-17,Telangana,CityD,M,39,Direct Buyer,Organic
+C01809,2024-05-16,Madhya Pradesh,CityC,F,28,Direct Buyer,Organic
+C01810,2025-05-01,Assam,CityE,M,21,Direct Buyer,Google Ads
+C01811,2023-12-03,Haryana,CityB,M,20,Reseller,Google Ads
+C01812,2023-06-30,Maharashtra,CityD,F,30,Reseller,Facebook Ads
+C01813,2024-11-19,Telangana,CityA,F,27,Direct Buyer,Organic
+C01814,2023-02-20,Kerala,CityD,F,18,Reseller,Referral
+C01815,2024-01-29,West Bengal,CityB,F,25,Direct Buyer,Facebook Ads
+C01816,2025-07-05,Rajasthan,CityC,F,23,Reseller,Organic
+C01817,2025-04-04,Telangana,CityA,F,40,Direct Buyer,Influencer
+C01818,2024-02-01,West Bengal,CityA,F,31,Reseller,Google Ads
+C01819,2023-12-29,Assam,CityC,F,42,Reseller,Referral
+C01820,2024-06-14,Uttar Pradesh,CityD,F,24,Direct Buyer,Organic
+C01821,2025-02-17,Bihar,CityE,F,27,Reseller,Facebook Ads
+C01822,2025-07-10,Jharkhand,CityD,M,33,Reseller,Influencer
+C01823,2024-11-28,Tamil Nadu,CityB,M,34,Direct Buyer,Organic
+C01824,2024-10-14,Haryana,CityE,M,35,Reseller,Google Ads
+C01825,2024-08-27,Uttar Pradesh,CityD,F,22,Reseller,Organic
+C01826,2023-08-28,Tamil Nadu,CityC,F,23,Reseller,Referral
+C01827,2023-11-23,Tamil Nadu,CityB,F,27,Reseller,Referral
+C01828,2024-07-25,Punjab,CityB,F,41,Reseller,Facebook Ads
+C01829,2025-06-27,Madhya Pradesh,CityB,F,21,Direct Buyer,Google Ads
+C01830,2025-01-05,Chhattisgarh,CityE,M,25,Direct Buyer,Organic
+C01831,2023-06-11,Andhra Pradesh,CityA,F,35,Reseller,Organic
+C01832,2024-08-27,Haryana,CityE,F,35,Reseller,Facebook Ads
+C01833,2024-02-10,Rajasthan,CityD,M,34,Direct Buyer,Organic
+C01834,2025-07-11,Bihar,CityA,F,30,Direct Buyer,Referral
+C01835,2024-11-22,Kerala,CityD,F,21,Reseller,Organic
+C01836,2023-05-09,Assam,CityA,F,24,Direct Buyer,Organic
+C01837,2024-01-26,Jammu & Kashmir,CityE,F,39,Direct Buyer,Facebook Ads
+C01838,2024-10-07,Delhi,CityB,M,36,Reseller,Facebook Ads
+C01839,2023-11-29,Bihar,CityC,F,19,Reseller,Organic
+C01840,2025-01-24,West Bengal,CityB,F,36,Reseller,Organic
+C01841,2024-04-02,Madhya Pradesh,CityE,M,40,Direct Buyer,Organic
+C01842,2024-04-08,Uttar Pradesh,CityA,M,30,Direct Buyer,Organic
+C01843,2024-09-13,West Bengal,CityB,M,33,Direct Buyer,Organic
+C01844,2025-05-06,Odisha,CityE,M,38,Reseller,Organic
+C01845,2025-07-09,Andhra Pradesh,CityD,F,24,Direct Buyer,Facebook Ads
+C01846,2023-08-26,Jammu & Kashmir,CityC,F,48,Direct Buyer,Facebook Ads
+C01847,2025-04-26,Kerala,CityB,F,39,Direct Buyer,Organic
+C01848,2024-04-25,Jharkhand,CityA,F,34,Reseller,Facebook Ads
+C01849,2025-06-19,Madhya Pradesh,CityD,M,29,Direct Buyer,Influencer
+C01850,2023-10-08,West Bengal,CityE,M,33,Reseller,Organic
+C01851,2024-10-18,Jharkhand,CityC,F,18,Direct Buyer,Organic
+C01852,2024-05-17,Andhra Pradesh,CityA,F,46,Direct Buyer,Referral
+C01853,2024-01-05,Chhattisgarh,CityE,F,39,Reseller,Organic
+C01854,2025-05-19,Andhra Pradesh,CityE,M,41,Direct Buyer,Facebook Ads
+C01855,2025-01-24,Rajasthan,CityB,F,30,Reseller,Google Ads
+C01856,2024-07-15,Punjab,CityB,M,27,Direct Buyer,Referral
+C01857,2023-03-30,Uttar Pradesh,CityA,M,24,Reseller,Facebook Ads
+C01858,2025-04-07,Chhattisgarh,CityE,M,36,Direct Buyer,Facebook Ads
+C01859,2024-12-10,Gujarat,CityB,M,25,Direct Buyer,Organic
+C01860,2025-05-29,Tamil Nadu,CityC,M,28,Reseller,Organic
+C01861,2024-08-07,Delhi,CityC,F,34,Reseller,Google Ads
+C01862,2025-03-30,Kerala,CityE,F,24,Reseller,Influencer
+C01863,2025-06-19,Bihar,CityB,F,38,Reseller,Google Ads
+C01864,2023-07-25,Rajasthan,CityA,F,29,Direct Buyer,Influencer
+C01865,2023-07-24,Gujarat,CityA,M,18,Direct Buyer,Organic
+C01866,2023-04-08,Madhya Pradesh,CityA,F,24,Direct Buyer,Organic
+C01867,2025-04-23,Andhra Pradesh,CityC,M,40,Direct Buyer,Organic
+C01868,2024-07-25,Chhattisgarh,CityB,F,22,Reseller,Organic
+C01869,2024-10-25,Odisha,CityB,F,37,Direct Buyer,Google Ads
+C01870,2025-02-06,Punjab,CityC,M,30,Direct Buyer,Influencer
+C01871,2024-10-06,Bihar,CityA,F,28,Reseller,Google Ads
+C01872,2024-10-18,Gujarat,CityA,F,50,Reseller,Referral
+C01873,2023-12-09,Assam,CityE,F,19,Reseller,Organic
+C01874,2025-03-01,Madhya Pradesh,CityD,M,24,Direct Buyer,Organic
+C01875,2023-12-15,Kerala,CityB,F,29,Direct Buyer,Organic
+C01876,2023-02-06,Jharkhand,CityB,F,49,Direct Buyer,Facebook Ads
+C01877,2025-04-13,Jammu & Kashmir,CityB,F,29,Reseller,Organic
+C01878,2024-07-22,Assam,CityD,M,32,Direct Buyer,Influencer
+C01879,2023-06-13,Punjab,CityE,M,27,Reseller,Google Ads
+C01880,2024-01-16,Kerala,CityD,F,32,Direct Buyer,Organic
+C01881,2023-09-17,Chhattisgarh,CityA,F,27,Reseller,Organic
+C01882,2024-02-17,Karnataka,CityA,M,35,Reseller,Facebook Ads
+C01883,2023-10-14,Maharashtra,CityB,F,36,Direct Buyer,Organic
+C01884,2023-09-03,Madhya Pradesh,CityC,F,28,Direct Buyer,Google Ads
+C01885,2025-02-25,Tamil Nadu,CityB,F,20,Reseller,Referral
+C01886,2023-06-18,Odisha,CityC,M,30,Reseller,Organic
+C01887,2023-11-05,Haryana,CityD,F,41,Reseller,Referral
+C01888,2024-05-29,Uttar Pradesh,CityA,F,23,Reseller,Organic
+C01889,2024-04-15,Chhattisgarh,CityC,M,32,Reseller,Google Ads
+C01890,2023-10-05,Telangana,CityD,M,20,Direct Buyer,Organic
+C01891,2025-02-28,Andhra Pradesh,CityA,F,21,Direct Buyer,Google Ads
+C01892,2025-04-21,Delhi,CityC,F,40,Reseller,Facebook Ads
+C01893,2025-01-10,Jharkhand,CityB,M,35,Direct Buyer,Facebook Ads
+C01894,2023-04-10,Andhra Pradesh,CityB,M,32,Reseller,Organic
+C01895,2023-08-06,Assam,CityB,M,18,Reseller,Referral
+C01896,2024-06-24,Delhi,CityD,F,25,Reseller,Referral
+C01897,2024-01-29,West Bengal,CityB,F,34,Direct Buyer,Referral
+C01898,2024-07-13,Maharashtra,CityE,M,18,Reseller,Google Ads
+C01899,2023-12-11,Gujarat,CityA,M,27,Reseller,Referral
+C01900,2023-09-02,Andhra Pradesh,CityD,F,36,Reseller,Google Ads
+C01901,2023-09-12,Telangana,CityB,F,18,Reseller,Organic
+C01902,2024-10-25,Jharkhand,CityA,M,18,Reseller,Google Ads
+C01903,2024-01-05,Rajasthan,CityC,F,18,Direct Buyer,Organic
+C01904,2025-01-13,Assam,CityB,F,32,Direct Buyer,Google Ads
+C01905,2025-01-24,Delhi,CityA,F,25,Direct Buyer,Influencer
+C01906,2024-03-11,Assam,CityE,F,37,Reseller,Organic
+C01907,2023-09-10,Karnataka,CityC,F,30,Reseller,Referral
+C01908,2023-03-26,Telangana,CityE,M,45,Reseller,Facebook Ads
+C01909,2024-08-23,Gujarat,CityA,F,20,Reseller,Organic
+C01910,2024-08-11,Assam,CityE,F,32,Direct Buyer,Referral
+C01911,2023-05-21,Uttar Pradesh,CityA,F,23,Reseller,Organic
+C01912,2024-10-20,Uttar Pradesh,CityA,F,34,Reseller,Google Ads
+C01913,2023-06-22,Delhi,CityE,F,30,Direct Buyer,Google Ads
+C01914,2023-10-05,Bihar,CityA,F,22,Reseller,Facebook Ads
+C01915,2024-08-14,Andhra Pradesh,CityB,M,28,Direct Buyer,Facebook Ads
+C01916,2024-03-16,Karnataka,CityA,F,30,Reseller,Facebook Ads
+C01917,2025-06-12,Assam,CityD,F,25,Direct Buyer,Organic
+C01918,2024-05-10,Andhra Pradesh,CityA,F,35,Reseller,Organic
+C01919,2023-05-05,Uttar Pradesh,CityD,F,21,Direct Buyer,Referral
+C01920,2023-08-29,Haryana,CityA,M,46,Reseller,Influencer
+C01921,2024-10-29,Maharashtra,CityA,F,37,Direct Buyer,Facebook Ads
+C01922,2024-12-08,Delhi,CityE,M,32,Reseller,Referral
+C01923,2023-08-16,Kerala,CityB,F,52,Direct Buyer,Google Ads
+C01924,2023-06-10,Uttar Pradesh,CityB,M,27,Reseller,Organic
+C01925,2023-05-26,Maharashtra,CityC,F,34,Reseller,Facebook Ads
+C01926,2025-03-28,Punjab,CityE,M,31,Direct Buyer,Organic
+C01927,2024-10-01,Assam,CityE,F,36,Direct Buyer,Organic
+C01928,2024-04-07,Kerala,CityB,F,41,Reseller,Referral
+C01929,2023-11-03,Punjab,CityE,M,34,Direct Buyer,Facebook Ads
+C01930,2023-03-03,Chhattisgarh,CityB,M,38,Reseller,Referral
+C01931,2023-07-09,Rajasthan,CityE,F,25,Direct Buyer,Referral
+C01932,2024-03-06,Chhattisgarh,CityA,F,28,Direct Buyer,Facebook Ads
+C01933,2024-09-12,Rajasthan,CityB,F,43,Reseller,Facebook Ads
+C01934,2024-12-06,Kerala,CityB,M,34,Direct Buyer,Google Ads
+C01935,2023-11-02,Madhya Pradesh,CityD,F,31,Direct Buyer,Organic
+C01936,2024-01-10,Chhattisgarh,CityE,F,23,Reseller,Influencer
+C01937,2025-02-28,Bihar,CityE,M,37,Direct Buyer,Referral
+C01938,2023-09-27,Rajasthan,CityB,M,23,Reseller,Google Ads
+C01939,2025-07-05,Chhattisgarh,CityA,M,21,Direct Buyer,Facebook Ads
+C01940,2025-07-13,Rajasthan,CityA,M,30,Direct Buyer,Organic
+C01941,2024-03-08,Uttar Pradesh,CityA,M,18,Reseller,Organic
+C01942,2025-01-30,Chhattisgarh,CityE,F,34,Direct Buyer,Facebook Ads
+C01943,2023-12-17,Chhattisgarh,CityD,F,33,Direct Buyer,Referral
+C01944,2023-11-27,Telangana,CityB,M,27,Direct Buyer,Facebook Ads
+C01945,2023-09-19,Bihar,CityC,F,27,Reseller,Referral
+C01946,2023-05-15,Assam,CityD,M,29,Reseller,Organic
+C01947,2025-01-02,Telangana,CityC,F,23,Direct Buyer,Organic
+C01948,2024-11-05,Punjab,CityD,F,31,Reseller,Facebook Ads
+C01949,2023-12-06,Gujarat,CityA,M,28,Reseller,Organic
+C01950,2023-02-08,Uttar Pradesh,CityE,M,30,Direct Buyer,Facebook Ads
+C01951,2023-06-01,Punjab,CityC,F,28,Reseller,Organic
+C01952,2023-01-31,Gujarat,CityD,M,27,Direct Buyer,Google Ads
+C01953,2023-09-02,Delhi,CityE,M,32,Direct Buyer,Organic
+C01954,2024-03-03,Odisha,CityC,F,36,Direct Buyer,Organic
+C01955,2024-10-13,Delhi,CityB,F,25,Reseller,Facebook Ads
+C01956,2025-03-25,Gujarat,CityD,M,33,Reseller,Referral
+C01957,2023-10-21,Rajasthan,CityB,M,34,Reseller,Organic
+C01958,2023-05-08,Jharkhand,CityA,F,19,Direct Buyer,Influencer
+C01959,2024-04-28,Delhi,CityB,M,37,Reseller,Organic
+C01960,2024-09-27,Delhi,CityB,M,46,Direct Buyer,Organic
+C01961,2024-04-27,Maharashtra,CityD,F,29,Direct Buyer,Organic
+C01962,2023-08-31,Gujarat,CityA,M,28,Direct Buyer,Organic
+C01963,2023-12-07,Kerala,CityB,F,28,Reseller,Referral
+C01964,2025-02-18,Assam,CityE,F,34,Reseller,Organic
+C01965,2023-10-02,Bihar,CityC,M,34,Direct Buyer,Facebook Ads
+C01966,2024-10-15,Telangana,CityB,M,18,Reseller,Organic
+C01967,2023-09-07,Jharkhand,CityA,M,23,Reseller,Facebook Ads
+C01968,2024-08-23,Karnataka,CityB,F,34,Reseller,Organic
+C01969,2023-07-22,Haryana,CityC,F,28,Direct Buyer,Organic
+C01970,2024-01-17,Delhi,CityA,F,20,Direct Buyer,Organic
+C01971,2025-03-08,Punjab,CityD,F,42,Direct Buyer,Facebook Ads
+C01972,2023-02-27,Maharashtra,CityA,F,23,Direct Buyer,Referral
+C01973,2024-02-26,Karnataka,CityD,F,30,Reseller,Google Ads
+C01974,2023-09-04,Tamil Nadu,CityA,F,28,Direct Buyer,Referral
+C01975,2023-05-27,Odisha,CityC,M,21,Reseller,Google Ads
+C01976,2023-10-07,Assam,CityC,F,31,Direct Buyer,Referral
+C01977,2025-06-16,Karnataka,CityA,F,33,Reseller,Organic
+C01978,2023-05-28,West Bengal,CityB,F,26,Reseller,Organic
+C01979,2023-03-03,Assam,CityC,F,27,Reseller,Referral
+C01980,2023-05-13,Jammu & Kashmir,CityD,F,34,Reseller,Referral
+C01981,2025-03-20,Chhattisgarh,CityD,F,18,Direct Buyer,Organic
+C01982,2024-03-12,Kerala,CityE,M,23,Reseller,Facebook Ads
+C01983,2023-11-06,Haryana,CityD,F,31,Reseller,Referral
+C01984,2025-07-04,Maharashtra,CityE,M,25,Reseller,Referral
+C01985,2024-05-13,Kerala,CityA,M,25,Direct Buyer,Organic
+C01986,2025-05-08,Kerala,CityA,M,37,Reseller,Referral
+C01987,2024-01-06,Assam,CityA,F,24,Direct Buyer,Organic
+C01988,2023-08-30,Jammu & Kashmir,CityB,M,45,Reseller,Organic
+C01989,2023-04-27,Andhra Pradesh,CityB,F,18,Reseller,Facebook Ads
+C01990,2023-12-08,Bihar,CityE,F,18,Reseller,Organic
+C01991,2024-06-08,Delhi,CityD,M,37,Direct Buyer,Organic
+C01992,2025-03-04,Bihar,CityD,M,22,Direct Buyer,Organic
+C01993,2024-05-11,Jharkhand,CityA,F,22,Reseller,Organic
+C01994,2024-09-21,Karnataka,CityC,F,37,Direct Buyer,Organic
+C01995,2024-01-10,West Bengal,CityB,F,26,Direct Buyer,Organic
+C01996,2024-06-11,Jammu & Kashmir,CityB,F,37,Reseller,Referral
+C01997,2025-06-26,Telangana,CityA,F,25,Direct Buyer,Referral
+C01998,2023-03-03,Telangana,CityB,M,32,Reseller,Influencer
+C01999,2025-03-31,Telangana,CityA,M,25,Direct Buyer,Organic
+C02000,2024-09-19,Maharashtra,CityE,M,22,Reseller,Organic

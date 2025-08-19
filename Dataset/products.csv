@@ -1,0 +1,801 @@
+product_id,category,subcategory,vendor_id,mrp,cost
+P00001,Beauty & Personal Care,Face Wash,V0009,271.38,196.57
+P00002,Electronics Accessories,Power Bank,V0069,996.37,669.8
+P00003,Men Clothing,Jeans,V0189,931.35,598.71
+P00004,Home & Kitchen,Bedsheet,V0139,951.81,691.36
+P00005,Men Clothing,Jeans,V0099,1028.62,628.08
+P00006,Women Clothing,Saree,V0196,384.44,249.34
+P00007,Home & Kitchen,Bottle,V0074,800.67,628.29
+P00008,Men Clothing,T-Shirt,V0103,669.06,497.47
+P00009,Home & Kitchen,Bedsheet,V0123,548.85,342.37
+P00010,Women Clothing,Dress,V0102,1012.19,758.69
+P00011,Footwear,Casual Shoes,V0008,503.55,315.37
+P00012,Home & Kitchen,Bottle,V0177,569.56,339.82
+P00013,Footwear,Heels,V0152,1411.04,984.67
+P00014,Beauty & Personal Care,Comb,V0161,171.72,102.35
+P00015,Kids & Baby,Onesie,V0019,671.61,493.33
+P00016,Electronics Accessories,Case,V0002,1168.01,663.57
+P00017,Women Clothing,Kurti,V0055,1183.83,782.43
+P00018,Home & Kitchen,Storage Box,V0139,709.76,560.66
+P00019,Women Clothing,Kurti,V0017,309.01,207.21
+P00020,Beauty & Personal Care,Face Wash,V0170,128.77,86.9
+P00021,Footwear,Casual Shoes,V0061,565.32,439.69
+P00022,Electronics Accessories,USB Cable,V0131,748.12,530.02
+P00023,Women Clothing,Leggings,V0086,1145.32,911.58
+P00024,Footwear,Heels,V0035,879.77,584.12
+P00025,Beauty & Personal Care,Lipstick,V0103,144.44,79.9
+P00026,Beauty & Personal Care,Lipstick,V0066,464.28,262.95
+P00027,Beauty & Personal Care,Face Wash,V0001,327.23,180.27
+P00028,Kids & Baby,Bottle,V0135,468.14,307.26
+P00029,Footwear,Flip Flops,V0148,408.78,255.11
+P00030,Home & Kitchen,Bedsheet,V0171,633.21,452.23
+P00031,Men Clothing,Jeans,V0119,707.57,531.38
+P00032,Women Clothing,Saree,V0134,322.68,184.3
+P00033,Kids & Baby,Toy,V0055,125.55,85.87
+P00034,Men Clothing,Shirt,V0100,975.85,568.56
+P00035,Beauty & Personal Care,Face Wash,V0021,482.37,322.82
+P00036,Men Clothing,Jeans,V0051,1285.08,937.3
+P00037,Footwear,Sports Shoes,V0174,1071.84,742.37
+P00038,Beauty & Personal Care,Shampoo,V0163,697.42,554.53
+P00039,Kids & Baby,Diaper,V0100,421.87,280.03
+P00040,Beauty & Personal Care,Lipstick,V0008,376.27,247.24
+P00041,Electronics Accessories,Case,V0068,914.25,565.37
+P00042,Electronics Accessories,USB Cable,V0107,1408.49,947.29
+P00043,Kids & Baby,Diaper,V0144,604.2,404.11
+P00044,Footwear,Heels,V0067,1147.86,728.0
+P00045,Footwear,Sports Shoes,V0199,1031.01,695.51
+P00046,Men Clothing,Kurta,V0192,602.83,464.41
+P00047,Kids & Baby,Bottle,V0002,166.63,111.93
+P00048,Women Clothing,Leggings,V0001,412.81,315.91
+P00049,Kids & Baby,Toy,V0186,251.08,177.86
+P00050,Men Clothing,Shirt,V0001,381.12,248.2
+P00051,Footwear,Sandals,V0102,1374.2,812.86
+P00052,Women Clothing,Kurti,V0115,928.52,558.16
+P00053,Kids & Baby,Diaper,V0135,348.45,238.74
+P00054,Men Clothing,T-Shirt,V0088,834.04,584.35
+P00055,Home & Kitchen,Cookware,V0197,693.11,428.3
+P00056,Home & Kitchen,Storage Box,V0092,490.16,274.16
+P00057,Women Clothing,Dress,V0018,1044.63,793.16
+P00058,Electronics Accessories,Power Bank,V0088,499.05,299.61
+P00059,Women Clothing,Saree,V0160,245.24,194.38
+P00060,Men Clothing,Kurta,V0173,1086.91,695.81
+P00061,Beauty & Personal Care,Shampoo,V0033,388.14,241.81
+P00062,Home & Kitchen,Bedsheet,V0073,656.66,478.92
+P00063,Beauty & Personal Care,Shampoo,V0177,367.42,282.33
+P00064,Home & Kitchen,Storage Box,V0161,588.47,344.88
+P00065,Men Clothing,Track Pants,V0199,883.52,588.03
+P00066,Home & Kitchen,Storage Box,V0196,944.32,611.9
+P00067,Women Clothing,Dress,V0028,642.15,457.66
+P00068,Beauty & Personal Care,Lipstick,V0087,415.19,267.22
+P00069,Footwear,Heels,V0053,1487.22,930.32
+P00070,Beauty & Personal Care,Eyeliner,V0044,265.52,203.41
+P00071,Men Clothing,Track Pants,V0080,202.71,121.69
+P00072,Footwear,Casual Shoes,V0183,988.06,583.56
+P00073,Beauty & Personal Care,Eyeliner,V0138,690.48,459.9
+P00074,Kids & Baby,Toy,V0014,457.42,269.92
+P00075,Men Clothing,Shirt,V0103,517.32,364.01
+P00076,Kids & Baby,Bottle,V0036,428.73,319.87
+P00077,Electronics Accessories,Power Bank,V0034,586.54,418.43
+P00078,Women Clothing,Kurti,V0088,519.07,361.63
+P00079,Home & Kitchen,Storage Box,V0146,663.28,385.01
+P00080,Kids & Baby,Bottle,V0016,428.18,236.78
+P00081,Home & Kitchen,Bottle,V0165,575.03,416.54
+P00082,Home & Kitchen,Bottle,V0041,210.91,165.49
+P00083,Electronics Accessories,Case,V0025,823.44,646.08
+P00084,Women Clothing,Dress,V0126,317.14,249.74
+P00085,Beauty & Personal Care,Shampoo,V0008,164.52,109.47
+P00086,Kids & Baby,Bottle,V0112,661.8,402.49
+P00087,Beauty & Personal Care,Eyeliner,V0094,119.87,89.7
+P00088,Women Clothing,Leggings,V0084,854.47,579.74
+P00089,Footwear,Casual Shoes,V0146,292.93,208.95
+P00090,Women Clothing,Saree,V0068,387.79,303.56
+P00091,Home & Kitchen,Curtain,V0176,731.87,531.89
+P00092,Beauty & Personal Care,Face Wash,V0198,238.55,183.73
+P00093,Women Clothing,Dress,V0067,790.51,604.16
+P00094,Beauty & Personal Care,Face Wash,V0146,261.57,193.26
+P00095,Women Clothing,Kurti,V0111,831.02,467.12
+P00096,Men Clothing,Jeans,V0018,644.88,384.33
+P00097,Kids & Baby,Toy,V0056,314.5,203.12
+P00098,Home & Kitchen,Bottle,V0151,552.69,386.92
+P00099,Women Clothing,Kurti,V0035,827.08,462.95
+P00100,Electronics Accessories,USB Cable,V0134,1188.36,935.59
+P00101,Women Clothing,Dupatta,V0118,582.55,346.58
+P00102,Men Clothing,Kurta,V0026,793.0,575.9
+P00103,Electronics Accessories,Power Bank,V0061,1098.63,772.37
+P00104,Electronics Accessories,Case,V0088,432.79,328.58
+P00105,Women Clothing,Dupatta,V0015,667.18,403.89
+P00106,Men Clothing,Jeans,V0091,293.89,192.26
+P00107,Electronics Accessories,Power Bank,V0032,1022.47,732.44
+P00108,Kids & Baby,Onesie,V0140,676.64,398.06
+P00109,Home & Kitchen,Bedsheet,V0133,986.91,704.33
+P00110,Footwear,Heels,V0064,817.79,631.37
+P00111,Home & Kitchen,Bedsheet,V0199,739.31,471.07
+P00112,Beauty & Personal Care,Face Wash,V0086,629.45,451.1
+P00113,Beauty & Personal Care,Shampoo,V0155,518.3,401.22
+P00114,Men Clothing,Track Pants,V0045,692.26,494.43
+P00115,Electronics Accessories,Charger,V0035,1180.86,783.48
+P00116,Home & Kitchen,Curtain,V0026,219.93,163.38
+P00117,Home & Kitchen,Storage Box,V0023,189.64,138.34
+P00118,Footwear,Sandals,V0141,1388.59,884.18
+P00119,Men Clothing,Kurta,V0131,311.27,189.32
+P00120,Kids & Baby,Frock,V0029,436.37,342.84
+P00121,Electronics Accessories,Case,V0194,890.35,514.79
+P00122,Men Clothing,T-Shirt,V0064,889.56,652.24
+P00123,Women Clothing,Saree,V0156,631.61,461.32
+P00124,Home & Kitchen,Storage Box,V0164,425.1,317.67
+P00125,Men Clothing,T-Shirt,V0113,574.18,352.56
+P00126,Men Clothing,Jeans,V0134,1166.1,801.25
+P00127,Footwear,Heels,V0139,606.45,475.31
+P00128,Kids & Baby,Bottle,V0166,513.51,310.76
+P00129,Women Clothing,Dupatta,V0118,875.11,671.72
+P00130,Beauty & Personal Care,Comb,V0162,516.69,315.8
+P00131,Home & Kitchen,Cookware,V0067,700.52,493.72
+P00132,Footwear,Sandals,V0108,1276.05,758.66
+P00133,Kids & Baby,Onesie,V0174,518.78,288.88
+P00134,Kids & Baby,Onesie,V0086,516.71,408.25
+P00135,Men Clothing,T-Shirt,V0029,390.83,245.37
+P00136,Home & Kitchen,Bottle,V0060,644.44,472.44
+P00137,Beauty & Personal Care,Shampoo,V0054,305.62,218.85
+P00138,Kids & Baby,Frock,V0093,638.57,467.2
+P00139,Men Clothing,Jeans,V0069,981.12,633.31
+P00140,Kids & Baby,Frock,V0117,645.86,400.0
+P00141,Women Clothing,Dupatta,V0009,424.81,272.33
+P00142,Kids & Baby,Frock,V0126,489.09,374.36
+P00143,Home & Kitchen,Curtain,V0077,261.27,196.85
+P00144,Kids & Baby,Bottle,V0010,586.69,408.77
+P00145,Kids & Baby,Diaper,V0102,555.39,330.72
+P00146,Footwear,Heels,V0196,461.98,353.74
+P00147,Women Clothing,Saree,V0058,746.96,456.76
+P00148,Beauty & Personal Care,Eyeliner,V0113,512.24,395.94
+P00149,Beauty & Personal Care,Eyeliner,V0180,478.39,304.66
+P00150,Home & Kitchen,Bottle,V0162,559.75,413.13
+P00151,Beauty & Personal Care,Face Wash,V0106,139.5,84.3
+P00152,Electronics Accessories,Case,V0035,828.23,580.64
+P00153,Footwear,Casual Shoes,V0103,673.96,420.95
+P00154,Home & Kitchen,Bedsheet,V0103,184.18,102.8
+P00155,Kids & Baby,Bottle,V0161,266.22,181.73
+P00156,Electronics Accessories,Earphones,V0200,945.46,636.78
+P00157,Beauty & Personal Care,Lipstick,V0160,344.93,211.47
+P00158,Kids & Baby,Toy,V0183,339.42,198.45
+P00159,Home & Kitchen,Storage Box,V0097,246.97,154.35
+P00160,Electronics Accessories,Case,V0136,1494.19,943.76
+P00161,Beauty & Personal Care,Shampoo,V0174,660.87,428.29
+P00162,Men Clothing,T-Shirt,V0142,681.91,510.93
+P00163,Men Clothing,Jeans,V0136,302.0,179.87
+P00164,Women Clothing,Dress,V0106,1270.22,859.28
+P00165,Men Clothing,Shirt,V0071,247.74,139.19
+P00166,Electronics Accessories,Case,V0077,1384.05,1063.42
+P00167,Footwear,Heels,V0054,823.0,486.23
+P00168,Men Clothing,Shirt,V0021,1112.31,702.04
+P00169,Home & Kitchen,Curtain,V0111,505.2,364.06
+P00170,Home & Kitchen,Cookware,V0075,449.39,317.79
+P00171,Home & Kitchen,Bottle,V0014,901.49,675.53
+P00172,Men Clothing,T-Shirt,V0002,618.77,384.87
+P00173,Kids & Baby,Bottle,V0189,270.31,172.23
+P00174,Men Clothing,Shirt,V0108,741.87,485.29
+P00175,Women Clothing,Dress,V0145,345.3,204.03
+P00176,Footwear,Sandals,V0078,678.66,468.63
+P00177,Kids & Baby,Bottle,V0048,454.6,305.29
+P00178,Footwear,Sandals,V0091,1173.47,861.69
+P00179,Kids & Baby,Onesie,V0136,355.58,206.63
+P00180,Kids & Baby,Toy,V0184,417.1,269.19
+P00181,Beauty & Personal Care,Face Wash,V0017,181.75,144.58
+P00182,Women Clothing,Saree,V0197,605.73,427.92
+P00183,Electronics Accessories,Earphones,V0012,862.66,505.27
+P00184,Home & Kitchen,Cookware,V0166,196.21,138.61
+P00185,Men Clothing,Shirt,V0146,470.72,287.57
+P00186,Beauty & Personal Care,Eyeliner,V0026,673.19,447.97
+P00187,Beauty & Personal Care,Shampoo,V0037,116.66,74.07
+P00188,Kids & Baby,Frock,V0070,449.69,284.27
+P00189,Men Clothing,Kurta,V0169,228.54,151.08
+P00190,Women Clothing,Kurti,V0079,315.5,222.36
+P00191,Beauty & Personal Care,Shampoo,V0170,470.75,263.36
+P00192,Footwear,Sandals,V0090,613.33,400.76
+P00193,Women Clothing,Dress,V0041,804.29,501.89
+P00194,Men Clothing,Jeans,V0175,515.52,410.23
+P00195,Kids & Baby,Bottle,V0142,124.12,98.95
+P00196,Women Clothing,Leggings,V0129,251.53,156.47
+P00197,Kids & Baby,Bottle,V0017,395.21,231.53
+P00198,Footwear,Heels,V0183,418.56,257.03
+P00199,Home & Kitchen,Bottle,V0053,976.48,629.86
+P00200,Kids & Baby,Onesie,V0118,438.6,318.45
+P00201,Kids & Baby,Diaper,V0109,544.33,393.01
+P00202,Men Clothing,Shirt,V0159,569.62,329.2
+P00203,Footwear,Heels,V0190,602.15,362.84
+P00204,Men Clothing,Track Pants,V0136,348.91,194.03
+P00205,Footwear,Sports Shoes,V0158,1419.66,1107.7
+P00206,Footwear,Heels,V0077,313.02,185.71
+P00207,Beauty & Personal Care,Face Wash,V0080,182.7,113.33
+P00208,Beauty & Personal Care,Comb,V0194,221.44,174.16
+P00209,Beauty & Personal Care,Shampoo,V0045,149.5,90.14
+P00210,Home & Kitchen,Cookware,V0018,217.61,173.02
+P00211,Home & Kitchen,Cookware,V0099,929.65,677.86
+P00212,Footwear,Heels,V0173,782.47,467.56
+P00213,Electronics Accessories,Charger,V0147,526.86,348.13
+P00214,Men Clothing,Track Pants,V0068,1044.04,643.32
+P00215,Beauty & Personal Care,Lipstick,V0083,285.48,199.83
+P00216,Men Clothing,Shirt,V0050,460.5,320.53
+P00217,Kids & Baby,Onesie,V0025,331.28,185.05
+P00218,Footwear,Heels,V0166,753.38,587.54
+P00219,Women Clothing,Saree,V0121,521.42,328.87
+P00220,Footwear,Flip Flops,V0164,332.43,233.95
+P00221,Home & Kitchen,Bedsheet,V0068,870.86,555.81
+P00222,Electronics Accessories,Case,V0056,550.31,434.28
+P00223,Women Clothing,Dupatta,V0039,1018.58,704.64
+P00224,Men Clothing,Shirt,V0063,535.08,323.83
+P00225,Home & Kitchen,Storage Box,V0128,757.38,515.36
+P00226,Beauty & Personal Care,Comb,V0135,411.36,233.83
+P00227,Women Clothing,Kurti,V0122,762.41,576.15
+P00228,Home & Kitchen,Cookware,V0186,953.78,550.02
+P00229,Men Clothing,Track Pants,V0059,893.28,618.23
+P00230,Footwear,Sports Shoes,V0048,1362.89,1005.56
+P00231,Men Clothing,Jeans,V0133,1260.79,996.03
+P00232,Women Clothing,Dress,V0036,447.25,327.09
+P00233,Women Clothing,Leggings,V0088,782.58,472.4
+P00234,Footwear,Sandals,V0025,493.59,281.48
+P00235,Women Clothing,Kurti,V0173,1074.1,677.89
+P00236,Electronics Accessories,Case,V0019,1321.21,927.59
+P00237,Beauty & Personal Care,Lipstick,V0135,503.18,313.44
+P00238,Home & Kitchen,Bottle,V0186,537.7,351.16
+P00239,Footwear,Flip Flops,V0066,544.61,412.88
+P00240,Men Clothing,T-Shirt,V0080,883.29,494.08
+P00241,Men Clothing,T-Shirt,V0167,1100.91,634.68
+P00242,Beauty & Personal Care,Shampoo,V0125,341.22,236.4
+P00243,Women Clothing,Saree,V0146,207.42,147.93
+P00244,Women Clothing,Dupatta,V0103,924.67,659.41
+P00245,Men Clothing,T-Shirt,V0129,378.81,232.57
+P00246,Beauty & Personal Care,Eyeliner,V0191,247.43,195.47
+P00247,Men Clothing,Shirt,V0131,273.28,179.6
+P00248,Women Clothing,Kurti,V0127,1157.38,859.2
+P00249,Footwear,Flip Flops,V0021,1278.05,1013.59
+P00250,Home & Kitchen,Bottle,V0126,478.17,300.01
+P00251,Women Clothing,Dress,V0124,232.73,136.73
+P00252,Footwear,Sandals,V0158,952.52,561.43
+P00253,Home & Kitchen,Bedsheet,V0011,774.86,433.39
+P00254,Kids & Baby,Toy,V0022,254.69,184.36
+P00255,Electronics Accessories,Charger,V0111,569.38,416.89
+P00256,Beauty & Personal Care,Shampoo,V0125,696.52,521.88
+P00257,Footwear,Heels,V0057,677.29,525.0
+P00258,Electronics Accessories,Charger,V0089,313.97,229.59
+P00259,Women Clothing,Saree,V0131,224.65,133.36
+P00260,Kids & Baby,Bottle,V0158,691.55,442.75
+P00261,Beauty & Personal Care,Face Wash,V0128,591.3,380.81
+P00262,Footwear,Flip Flops,V0045,1300.04,1028.8
+P00263,Kids & Baby,Frock,V0036,360.32,248.56
+P00264,Women Clothing,Dupatta,V0087,890.5,697.9
+P00265,Beauty & Personal Care,Face Wash,V0118,253.05,177.84
+P00266,Beauty & Personal Care,Eyeliner,V0072,293.83,177.54
+P00267,Women Clothing,Dupatta,V0192,292.41,206.2
+P00268,Women Clothing,Leggings,V0182,1169.29,745.83
+P00269,Kids & Baby,Toy,V0068,430.6,305.96
+P00270,Kids & Baby,Onesie,V0178,347.79,269.83
+P00271,Footwear,Flip Flops,V0103,703.44,408.88
+P00272,Beauty & Personal Care,Lipstick,V0159,185.41,143.27
+P00273,Footwear,Heels,V0029,1485.01,924.02
+P00274,Kids & Baby,Frock,V0187,185.16,124.16
+P00275,Beauty & Personal Care,Lipstick,V0164,524.72,368.93
+P00276,Footwear,Sports Shoes,V0105,1438.89,1085.56
+P00277,Women Clothing,Dress,V0073,1154.87,791.57
+P00278,Women Clothing,Dupatta,V0119,559.0,405.52
+P00279,Men Clothing,T-Shirt,V0085,681.96,424.14
+P00280,Kids & Baby,Diaper,V0195,190.36,129.82
+P00281,Footwear,Casual Shoes,V0089,992.82,687.22
+P00282,Men Clothing,Jeans,V0089,327.2,226.59
+P00283,Men Clothing,Kurta,V0076,384.26,275.1
+P00284,Electronics Accessories,Power Bank,V0139,786.73,599.64
+P00285,Beauty & Personal Care,Face Wash,V0116,565.96,413.77
+P00286,Home & Kitchen,Storage Box,V0139,744.63,513.88
+P00287,Electronics Accessories,Earphones,V0154,326.39,233.0
+P00288,Kids & Baby,Bottle,V0053,379.15,253.04
+P00289,Beauty & Personal Care,Face Wash,V0142,326.41,255.34
+P00290,Home & Kitchen,Bedsheet,V0064,361.03,227.14
+P00291,Men Clothing,Kurta,V0138,1258.34,946.95
+P00292,Home & Kitchen,Bedsheet,V0031,160.97,125.0
+P00293,Women Clothing,Saree,V0036,448.31,325.69
+P00294,Kids & Baby,Toy,V0010,430.84,294.78
+P00295,Women Clothing,Dress,V0026,988.71,595.0
+P00296,Footwear,Flip Flops,V0020,448.78,319.97
+P00297,Beauty & Personal Care,Face Wash,V0125,273.35,216.9
+P00298,Electronics Accessories,Power Bank,V0044,814.39,470.64
+P00299,Kids & Baby,Diaper,V0062,510.49,319.84
+P00300,Men Clothing,Kurta,V0079,362.45,237.66
+P00301,Kids & Baby,Diaper,V0009,677.53,442.33
+P00302,Beauty & Personal Care,Shampoo,V0071,307.4,203.23
+P00303,Men Clothing,Kurta,V0090,212.33,123.85
+P00304,Women Clothing,Dupatta,V0024,1133.64,900.69
+P00305,Kids & Baby,Onesie,V0140,193.76,132.51
+P00306,Electronics Accessories,Power Bank,V0060,1457.92,858.92
+P00307,Electronics Accessories,Charger,V0084,482.89,377.47
+P00308,Women Clothing,Dupatta,V0120,975.26,573.44
+P00309,Home & Kitchen,Storage Box,V0078,483.47,272.71
+P00310,Electronics Accessories,Case,V0016,790.84,588.76
+P00311,Home & Kitchen,Cookware,V0029,619.88,441.27
+P00312,Men Clothing,Kurta,V0160,558.5,329.71
+P00313,Electronics Accessories,Case,V0119,266.4,201.22
+P00314,Footwear,Heels,V0035,1045.82,635.16
+P00315,Women Clothing,Leggings,V0043,659.28,494.7
+P00316,Kids & Baby,Onesie,V0096,422.22,263.9
+P00317,Home & Kitchen,Storage Box,V0119,376.11,227.32
+P00318,Footwear,Flip Flops,V0053,1279.66,889.96
+P00319,Men Clothing,Shirt,V0020,979.07,749.02
+P00320,Men Clothing,Shirt,V0115,1284.55,786.62
+P00321,Electronics Accessories,Earphones,V0008,476.13,316.86
+P00322,Electronics Accessories,USB Cable,V0122,293.84,219.77
+P00323,Footwear,Heels,V0042,1354.7,977.43
+P00324,Beauty & Personal Care,Lipstick,V0077,259.8,150.89
+P00325,Beauty & Personal Care,Lipstick,V0070,328.29,248.95
+P00326,Electronics Accessories,Charger,V0111,684.78,382.5
+P00327,Beauty & Personal Care,Comb,V0016,263.57,210.19
+P00328,Women Clothing,Dupatta,V0069,943.34,731.29
+P00329,Footwear,Sports Shoes,V0053,1218.58,834.64
+P00330,Women Clothing,Dupatta,V0173,362.56,231.01
+P00331,Beauty & Personal Care,Eyeliner,V0179,449.24,344.87
+P00332,Electronics Accessories,USB Cable,V0006,585.84,339.97
+P00333,Women Clothing,Leggings,V0123,813.72,483.45
+P00334,Men Clothing,Shirt,V0033,870.4,536.06
+P00335,Kids & Baby,Bottle,V0015,237.58,154.38
+P00336,Electronics Accessories,Power Bank,V0014,991.49,680.49
+P00337,Footwear,Flip Flops,V0167,555.92,429.6
+P00338,Home & Kitchen,Cookware,V0063,242.4,135.71
+P00339,Home & Kitchen,Curtain,V0005,661.3,384.12
+P00340,Electronics Accessories,Case,V0121,881.11,694.27
+P00341,Beauty & Personal Care,Comb,V0090,518.15,364.96
+P00342,Women Clothing,Kurti,V0107,831.29,494.52
+P00343,Women Clothing,Dupatta,V0180,674.91,429.0
+P00344,Electronics Accessories,Case,V0016,1441.34,880.06
+P00345,Men Clothing,Shirt,V0099,717.67,563.02
+P00346,Footwear,Sports Shoes,V0166,1236.48,978.21
+P00347,Beauty & Personal Care,Comb,V0053,464.0,293.92
+P00348,Men Clothing,Track Pants,V0077,1108.31,690.33
+P00349,Electronics Accessories,USB Cable,V0093,455.97,331.29
+P00350,Electronics Accessories,Charger,V0181,1048.69,807.22
+P00351,Men Clothing,Kurta,V0174,1257.12,960.81
+P00352,Home & Kitchen,Bottle,V0098,200.02,143.24
+P00353,Electronics Accessories,Power Bank,V0098,1230.92,979.17
+P00354,Footwear,Sandals,V0143,718.33,425.59
+P00355,Kids & Baby,Toy,V0059,610.76,384.39
+P00356,Beauty & Personal Care,Face Wash,V0178,457.92,296.49
+P00357,Men Clothing,Kurta,V0137,641.56,470.34
+P00358,Home & Kitchen,Bottle,V0026,456.25,329.99
+P00359,Men Clothing,Track Pants,V0003,214.76,135.55
+P00360,Home & Kitchen,Curtain,V0100,420.19,309.77
+P00361,Home & Kitchen,Curtain,V0047,416.37,294.93
+P00362,Footwear,Casual Shoes,V0005,1110.66,793.68
+P00363,Beauty & Personal Care,Lipstick,V0062,460.98,301.2
+P00364,Electronics Accessories,Charger,V0084,716.63,495.3
+P00365,Home & Kitchen,Cookware,V0133,203.15,156.21
+P00366,Electronics Accessories,Power Bank,V0138,1281.64,815.89
+P00367,Beauty & Personal Care,Eyeliner,V0080,439.09,343.83
+P00368,Electronics Accessories,Power Bank,V0063,589.55,433.68
+P00369,Footwear,Sports Shoes,V0025,353.41,240.62
+P00370,Footwear,Sports Shoes,V0044,1354.96,932.11
+P00371,Women Clothing,Leggings,V0153,876.88,681.26
+P00372,Footwear,Heels,V0158,1144.2,828.36
+P00373,Home & Kitchen,Bedsheet,V0014,647.43,458.54
+P00374,Beauty & Personal Care,Eyeliner,V0086,581.22,461.96
+P00375,Footwear,Flip Flops,V0171,1244.16,904.36
+P00376,Men Clothing,Track Pants,V0156,348.1,262.56
+P00377,Beauty & Personal Care,Eyeliner,V0019,540.6,401.45
+P00378,Home & Kitchen,Curtain,V0102,345.43,268.01
+P00379,Beauty & Personal Care,Shampoo,V0170,157.37,96.53
+P00380,Footwear,Sports Shoes,V0020,1078.78,775.03
+P00381,Men Clothing,Shirt,V0079,543.66,394.36
+P00382,Women Clothing,Kurti,V0139,625.72,344.18
+P00383,Home & Kitchen,Cookware,V0182,287.22,221.34
+P00384,Kids & Baby,Frock,V0098,232.62,134.51
+P00385,Home & Kitchen,Curtain,V0121,728.87,481.18
+P00386,Beauty & Personal Care,Lipstick,V0152,576.95,441.58
+P00387,Kids & Baby,Onesie,V0198,606.59,381.09
+P00388,Kids & Baby,Frock,V0017,402.33,286.67
+P00389,Electronics Accessories,USB Cable,V0156,652.48,365.57
+P00390,Kids & Baby,Diaper,V0050,396.4,219.29
+P00391,Electronics Accessories,Charger,V0183,1438.31,1077.54
+P00392,Kids & Baby,Onesie,V0010,214.21,133.21
+P00393,Men Clothing,T-Shirt,V0149,1280.12,823.61
+P00394,Women Clothing,Dress,V0058,1061.09,702.13
+P00395,Women Clothing,Dress,V0162,1149.51,834.47
+P00396,Kids & Baby,Diaper,V0095,112.75,70.31
+P00397,Beauty & Personal Care,Face Wash,V0107,433.8,339.03
+P00398,Beauty & Personal Care,Comb,V0171,160.22,112.2
+P00399,Electronics Accessories,Case,V0139,627.72,484.81
+P00400,Footwear,Sports Shoes,V0033,1206.46,775.06
+P00401,Women Clothing,Kurti,V0186,382.81,211.65
+P00402,Footwear,Flip Flops,V0046,1026.42,668.74
+P00403,Women Clothing,Leggings,V0189,545.23,434.21
+P00404,Footwear,Flip Flops,V0190,832.68,614.07
+P00405,Footwear,Sandals,V0129,471.77,261.06
+P00406,Women Clothing,Dupatta,V0149,658.32,471.63
+P00407,Men Clothing,Shirt,V0062,756.26,584.3
+P00408,Men Clothing,Shirt,V0192,676.38,424.6
+P00409,Beauty & Personal Care,Lipstick,V0087,648.63,422.71
+P00410,Footwear,Sports Shoes,V0073,587.06,337.22
+P00411,Footwear,Sandals,V0184,1241.64,939.02
+P00412,Footwear,Casual Shoes,V0001,291.62,186.54
+P00413,Footwear,Flip Flops,V0021,1187.35,933.96
+P00414,Footwear,Sports Shoes,V0022,722.27,554.72
+P00415,Electronics Accessories,USB Cable,V0182,742.15,441.49
+P00416,Home & Kitchen,Cookware,V0004,151.93,96.1
+P00417,Footwear,Heels,V0065,723.09,568.55
+P00418,Electronics Accessories,Case,V0179,507.59,327.68
+P00419,Men Clothing,Jeans,V0063,226.67,167.94
+P00420,Footwear,Heels,V0143,1393.93,849.54
+P00421,Men Clothing,T-Shirt,V0036,670.89,389.47
+P00422,Beauty & Personal Care,Eyeliner,V0029,373.1,217.64
+P00423,Home & Kitchen,Storage Box,V0180,593.85,435.68
+P00424,Women Clothing,Saree,V0174,807.68,493.74
+P00425,Home & Kitchen,Cookware,V0069,449.73,319.15
+P00426,Footwear,Flip Flops,V0157,987.19,576.71
+P00427,Footwear,Heels,V0111,1306.19,873.57
+P00428,Home & Kitchen,Storage Box,V0175,287.01,166.67
+P00429,Home & Kitchen,Curtain,V0153,969.72,601.6
+P00430,Beauty & Personal Care,Eyeliner,V0144,644.16,420.41
+P00431,Kids & Baby,Toy,V0100,330.55,239.73
+P00432,Men Clothing,Track Pants,V0041,209.87,133.17
+P00433,Women Clothing,Dupatta,V0193,531.91,407.99
+P00434,Kids & Baby,Diaper,V0197,416.47,267.02
+P00435,Home & Kitchen,Bedsheet,V0148,375.17,261.73
+P00436,Women Clothing,Kurti,V0197,365.84,223.73
+P00437,Home & Kitchen,Curtain,V0164,398.57,279.79
+P00438,Men Clothing,Jeans,V0186,609.58,412.35
+P00439,Women Clothing,Kurti,V0048,914.48,721.59
+P00440,Kids & Baby,Bottle,V0130,557.9,363.37
+P00441,Electronics Accessories,Power Bank,V0157,1185.34,933.37
+P00442,Men Clothing,Track Pants,V0144,748.32,488.37
+P00443,Kids & Baby,Bottle,V0163,145.81,112.73
+P00444,Women Clothing,Saree,V0111,470.08,266.06
+P00445,Home & Kitchen,Curtain,V0062,605.62,461.17
+P00446,Kids & Baby,Toy,V0107,342.98,255.78
+P00447,Home & Kitchen,Storage Box,V0106,859.94,570.65
+P00448,Men Clothing,T-Shirt,V0132,849.05,580.31
+P00449,Men Clothing,T-Shirt,V0113,1232.12,901.14
+P00450,Kids & Baby,Toy,V0068,654.21,395.8
+P00451,Home & Kitchen,Bedsheet,V0179,412.7,234.3
+P00452,Women Clothing,Dupatta,V0089,748.9,575.51
+P00453,Kids & Baby,Bottle,V0161,295.11,171.77
+P00454,Electronics Accessories,Power Bank,V0078,335.56,222.1
+P00455,Beauty & Personal Care,Eyeliner,V0152,197.41,125.66
+P00456,Men Clothing,Kurta,V0075,1100.98,711.24
+P00457,Home & Kitchen,Bottle,V0025,667.39,450.85
+P00458,Women Clothing,Dress,V0156,989.39,582.79
+P00459,Men Clothing,Track Pants,V0007,1211.49,861.25
+P00460,Women Clothing,Dress,V0113,497.05,288.69
+P00461,Men Clothing,Jeans,V0036,363.7,271.2
+P00462,Home & Kitchen,Bedsheet,V0010,648.89,418.66
+P00463,Women Clothing,Saree,V0113,565.19,431.77
+P00464,Home & Kitchen,Bottle,V0036,892.55,620.6
+P00465,Women Clothing,Dress,V0018,776.0,585.19
+P00466,Men Clothing,Kurta,V0134,1023.27,665.21
+P00467,Beauty & Personal Care,Comb,V0135,148.64,110.31
+P00468,Beauty & Personal Care,Eyeliner,V0102,200.22,110.94
+P00469,Kids & Baby,Toy,V0140,604.98,420.2
+P00470,Electronics Accessories,Case,V0169,1364.58,915.84
+P00471,Electronics Accessories,Case,V0191,1408.1,899.06
+P00472,Kids & Baby,Toy,V0025,533.71,333.7
+P00473,Kids & Baby,Toy,V0181,99.7,64.3
+P00474,Footwear,Casual Shoes,V0033,1172.21,688.68
+P00475,Home & Kitchen,Bottle,V0087,578.08,348.63
+P00476,Women Clothing,Dupatta,V0073,281.09,197.99
+P00477,Electronics Accessories,USB Cable,V0006,1439.96,903.83
+P00478,Men Clothing,Jeans,V0190,837.71,660.45
+P00479,Kids & Baby,Bottle,V0194,489.29,351.45
+P00480,Beauty & Personal Care,Comb,V0137,206.36,138.91
+P00481,Women Clothing,Kurti,V0067,602.79,402.51
+P00482,Footwear,Sports Shoes,V0144,1251.03,832.16
+P00483,Beauty & Personal Care,Comb,V0093,136.71,106.14
+P00484,Kids & Baby,Toy,V0108,425.89,332.67
+P00485,Women Clothing,Kurti,V0183,828.59,470.15
+P00486,Kids & Baby,Diaper,V0168,430.72,298.89
+P00487,Electronics Accessories,Earphones,V0026,517.92,345.85
+P00488,Electronics Accessories,Earphones,V0038,824.3,581.73
+P00489,Home & Kitchen,Bottle,V0163,369.67,257.08
+P00490,Footwear,Flip Flops,V0196,551.19,364.67
+P00491,Women Clothing,Saree,V0187,333.98,186.8
+P00492,Footwear,Casual Shoes,V0142,650.73,402.57
+P00493,Men Clothing,Kurta,V0175,646.63,511.16
+P00494,Footwear,Sports Shoes,V0103,902.79,621.38
+P00495,Kids & Baby,Bottle,V0199,663.96,518.08
+P00496,Kids & Baby,Frock,V0200,629.47,361.63
+P00497,Electronics Accessories,USB Cable,V0042,1042.87,784.27
+P00498,Home & Kitchen,Cookware,V0179,859.24,596.72
+P00499,Kids & Baby,Bottle,V0147,109.5,86.88
+P00500,Electronics Accessories,Earphones,V0066,840.25,544.81
+P00501,Beauty & Personal Care,Lipstick,V0175,335.97,220.41
+P00502,Electronics Accessories,USB Cable,V0193,552.73,349.23
+P00503,Women Clothing,Kurti,V0042,1282.89,823.67
+P00504,Home & Kitchen,Bedsheet,V0038,596.72,454.74
+P00505,Kids & Baby,Diaper,V0141,415.46,262.2
+P00506,Women Clothing,Dupatta,V0106,775.13,448.43
+P00507,Men Clothing,T-Shirt,V0172,342.01,247.45
+P00508,Men Clothing,Shirt,V0152,1208.21,883.71
+P00509,Electronics Accessories,USB Cable,V0096,343.27,223.37
+P00510,Home & Kitchen,Storage Box,V0158,151.17,102.46
+P00511,Footwear,Sandals,V0070,491.51,377.0
+P00512,Home & Kitchen,Cookware,V0038,237.68,130.81
+P00513,Home & Kitchen,Bedsheet,V0097,532.47,313.55
+P00514,Home & Kitchen,Storage Box,V0108,776.29,605.49
+P00515,Electronics Accessories,Charger,V0119,302.42,196.24
+P00516,Women Clothing,Leggings,V0151,1295.5,949.82
+P00517,Electronics Accessories,USB Cable,V0074,1441.48,851.95
+P00518,Footwear,Sports Shoes,V0057,526.71,310.08
+P00519,Women Clothing,Dupatta,V0110,531.61,388.65
+P00520,Footwear,Casual Shoes,V0079,456.18,310.69
+P00521,Beauty & Personal Care,Lipstick,V0151,260.53,197.3
+P00522,Beauty & Personal Care,Eyeliner,V0036,102.96,62.37
+P00523,Kids & Baby,Toy,V0057,462.14,265.35
+P00524,Kids & Baby,Bottle,V0129,378.79,249.64
+P00525,Women Clothing,Dress,V0200,1136.78,802.96
+P00526,Electronics Accessories,Earphones,V0003,1049.63,827.06
+P00527,Footwear,Casual Shoes,V0014,1477.95,1054.29
+P00528,Footwear,Sports Shoes,V0034,902.5,633.54
+P00529,Kids & Baby,Frock,V0070,328.47,261.74
+P00530,Kids & Baby,Bottle,V0069,522.01,325.08
+P00531,Men Clothing,Shirt,V0179,262.54,147.33
+P00532,Footwear,Flip Flops,V0104,506.14,307.85
+P00533,Electronics Accessories,Case,V0029,768.81,464.14
+P00534,Men Clothing,Track Pants,V0048,893.0,538.31
+P00535,Electronics Accessories,Charger,V0094,484.85,323.78
+P00536,Home & Kitchen,Cookware,V0079,904.37,603.28
+P00537,Footwear,Casual Shoes,V0117,767.31,532.92
+P00538,Home & Kitchen,Curtain,V0144,367.63,234.68
+P00539,Beauty & Personal Care,Shampoo,V0185,227.3,157.51
+P00540,Beauty & Personal Care,Comb,V0138,517.43,371.74
+P00541,Women Clothing,Leggings,V0147,479.3,357.04
+P00542,Footwear,Sports Shoes,V0067,569.94,334.89
+P00543,Kids & Baby,Frock,V0164,308.89,216.05
+P00544,Men Clothing,Jeans,V0132,355.2,252.91
+P00545,Home & Kitchen,Bottle,V0075,882.61,550.12
+P00546,Electronics Accessories,Charger,V0161,812.76,493.41
+P00547,Footwear,Sports Shoes,V0028,701.58,389.72
+P00548,Women Clothing,Saree,V0121,1248.15,816.25
+P00549,Electronics Accessories,Charger,V0009,1236.09,723.93
+P00550,Home & Kitchen,Bottle,V0134,839.5,642.25
+P00551,Footwear,Heels,V0123,1144.35,887.79
+P00552,Kids & Baby,Toy,V0049,199.32,133.37
+P00553,Home & Kitchen,Bottle,V0091,676.09,472.62
+P00554,Footwear,Sports Shoes,V0125,1326.3,800.98
+P00555,Footwear,Flip Flops,V0076,469.55,288.0
+P00556,Home & Kitchen,Curtain,V0150,906.82,712.08
+P00557,Home & Kitchen,Bedsheet,V0104,633.19,427.62
+P00558,Electronics Accessories,Case,V0176,1006.73,708.82
+P00559,Women Clothing,Saree,V0149,386.34,278.78
+P00560,Home & Kitchen,Bedsheet,V0033,533.5,362.43
+P00561,Beauty & Personal Care,Eyeliner,V0184,117.19,86.85
+P00562,Women Clothing,Kurti,V0157,1117.97,788.01
+P00563,Beauty & Personal Care,Comb,V0053,548.23,373.17
+P00564,Electronics Accessories,Charger,V0040,1022.94,663.52
+P00565,Home & Kitchen,Storage Box,V0018,822.09,548.39
+P00566,Women Clothing,Leggings,V0175,947.23,668.14
+P00567,Kids & Baby,Onesie,V0013,520.39,388.37
+P00568,Home & Kitchen,Curtain,V0155,584.81,440.52
+P00569,Footwear,Casual Shoes,V0190,871.57,687.81
+P00570,Home & Kitchen,Cookware,V0074,788.77,467.57
+P00571,Kids & Baby,Frock,V0096,596.75,410.5
+P00572,Women Clothing,Dress,V0105,1281.91,935.41
+P00573,Home & Kitchen,Bedsheet,V0173,220.73,143.2
+P00574,Home & Kitchen,Bottle,V0131,588.68,447.25
+P00575,Men Clothing,Track Pants,V0150,1001.28,643.16
+P00576,Men Clothing,T-Shirt,V0155,917.78,637.15
+P00577,Women Clothing,Saree,V0183,337.66,205.54
+P00578,Women Clothing,Dupatta,V0067,574.23,343.89
+P00579,Footwear,Heels,V0033,437.67,247.08
+P00580,Footwear,Heels,V0002,1341.38,834.65
+P00581,Home & Kitchen,Cookware,V0075,395.77,238.08
+P00582,Beauty & Personal Care,Face Wash,V0174,384.24,260.73
+P00583,Women Clothing,Dress,V0074,428.11,300.59
+P00584,Kids & Baby,Onesie,V0161,532.8,342.84
+P00585,Home & Kitchen,Bedsheet,V0186,646.63,436.85
+P00586,Beauty & Personal Care,Face Wash,V0135,216.33,158.46
+P00587,Men Clothing,T-Shirt,V0143,1080.6,769.6
+P00588,Footwear,Heels,V0026,654.87,511.91
+P00589,Kids & Baby,Toy,V0139,372.22,229.46
+P00590,Women Clothing,Dress,V0128,648.06,468.56
+P00591,Home & Kitchen,Storage Box,V0166,868.04,554.8
+P00592,Men Clothing,Shirt,V0027,454.89,321.43
+P00593,Electronics Accessories,Case,V0135,1401.52,835.06
+P00594,Men Clothing,Shirt,V0129,1082.32,724.24
+P00595,Home & Kitchen,Bottle,V0021,828.59,560.44
+P00596,Footwear,Sandals,V0079,721.66,522.62
+P00597,Beauty & Personal Care,Face Wash,V0158,639.38,402.85
+P00598,Kids & Baby,Bottle,V0094,375.45,228.03
+P00599,Kids & Baby,Bottle,V0008,209.05,155.63
+P00600,Electronics Accessories,Case,V0083,500.83,374.79
+P00601,Kids & Baby,Frock,V0003,356.53,284.78
+P00602,Electronics Accessories,Power Bank,V0055,496.68,284.72
+P00603,Footwear,Casual Shoes,V0143,344.29,261.27
+P00604,Electronics Accessories,Charger,V0036,797.22,439.09
+P00605,Women Clothing,Kurti,V0006,1161.25,893.27
+P00606,Home & Kitchen,Bedsheet,V0121,834.45,510.75
+P00607,Kids & Baby,Onesie,V0042,322.65,237.55
+P00608,Electronics Accessories,Charger,V0050,861.69,507.07
+P00609,Men Clothing,Shirt,V0112,466.08,369.67
+P00610,Beauty & Personal Care,Comb,V0146,189.61,138.7
+P00611,Home & Kitchen,Curtain,V0050,555.32,409.35
+P00612,Footwear,Sandals,V0030,1076.39,710.19
+P00613,Kids & Baby,Diaper,V0039,311.35,229.96
+P00614,Men Clothing,Jeans,V0116,554.46,414.15
+P00615,Women Clothing,Saree,V0140,946.83,657.49
+P00616,Electronics Accessories,USB Cable,V0059,711.0,427.5
+P00617,Men Clothing,Track Pants,V0076,980.46,561.65
+P00618,Home & Kitchen,Bottle,V0172,973.96,773.99
+P00619,Kids & Baby,Diaper,V0132,177.13,102.03
+P00620,Men Clothing,T-Shirt,V0164,652.99,516.46
+P00621,Women Clothing,Leggings,V0048,639.34,409.79
+P00622,Beauty & Personal Care,Lipstick,V0142,521.15,309.92
+P00623,Electronics Accessories,Earphones,V0081,704.15,438.57
+P00624,Home & Kitchen,Bedsheet,V0049,660.3,390.03
+P00625,Kids & Baby,Bottle,V0067,428.22,327.33
+P00626,Electronics Accessories,Charger,V0077,892.71,643.53
+P00627,Electronics Accessories,Charger,V0137,344.06,227.85
+P00628,Footwear,Sandals,V0021,368.62,257.98
+P00629,Electronics Accessories,Power Bank,V0105,601.32,373.91
+P00630,Men Clothing,T-Shirt,V0072,283.44,177.88
+P00631,Men Clothing,Kurta,V0016,756.34,526.54
+P00632,Beauty & Personal Care,Shampoo,V0144,139.0,99.09
+P00633,Women Clothing,Dress,V0028,736.76,504.11
+P00634,Kids & Baby,Diaper,V0179,598.68,380.49
+P00635,Kids & Baby,Toy,V0184,203.43,139.95
+P00636,Home & Kitchen,Storage Box,V0080,952.27,647.04
+P00637,Men Clothing,Kurta,V0057,1114.1,823.61
+P00638,Electronics Accessories,Charger,V0110,897.91,639.21
+P00639,Women Clothing,Saree,V0052,646.35,441.23
+P00640,Home & Kitchen,Cookware,V0174,580.19,421.96
+P00641,Kids & Baby,Diaper,V0166,344.99,198.35
+P00642,Home & Kitchen,Curtain,V0084,819.4,590.96
+P00643,Home & Kitchen,Curtain,V0048,956.6,628.66
+P00644,Kids & Baby,Frock,V0127,145.92,84.69
+P00645,Home & Kitchen,Storage Box,V0169,806.32,457.14
+P00646,Beauty & Personal Care,Comb,V0098,643.7,399.36
+P00647,Home & Kitchen,Bottle,V0118,913.05,678.74
+P00648,Women Clothing,Leggings,V0187,1157.32,698.45
+P00649,Men Clothing,Kurta,V0093,854.26,489.83
+P00650,Women Clothing,Dupatta,V0067,421.51,264.49
+P00651,Electronics Accessories,Charger,V0074,1176.02,654.07
+P00652,Footwear,Sandals,V0084,1378.9,782.8
+P00653,Beauty & Personal Care,Face Wash,V0194,324.89,185.28
+P00654,Beauty & Personal Care,Eyeliner,V0155,560.38,328.01
+P00655,Electronics Accessories,Power Bank,V0160,1355.95,925.51
+P00656,Kids & Baby,Toy,V0184,668.08,415.94
+P00657,Women Clothing,Leggings,V0010,698.75,505.59
+P00658,Women Clothing,Dupatta,V0168,1114.1,730.12
+P00659,Electronics Accessories,Charger,V0145,1365.54,791.33
+P00660,Kids & Baby,Diaper,V0186,524.21,333.95
+P00661,Footwear,Flip Flops,V0118,376.67,243.58
+P00662,Home & Kitchen,Curtain,V0097,897.18,713.38
+P00663,Kids & Baby,Bottle,V0006,334.68,258.24
+P00664,Home & Kitchen,Curtain,V0167,582.21,424.58
+P00665,Men Clothing,Kurta,V0018,248.91,171.58
+P00666,Women Clothing,Saree,V0072,276.18,170.44
+P00667,Women Clothing,Dupatta,V0089,822.5,618.34
+P00668,Electronics Accessories,Earphones,V0042,951.12,745.72
+P00669,Electronics Accessories,Charger,V0004,1262.92,743.93
+P00670,Home & Kitchen,Storage Box,V0020,479.61,343.94
+P00671,Kids & Baby,Toy,V0028,662.04,527.6
+P00672,Women Clothing,Dupatta,V0168,1038.51,720.14
+P00673,Women Clothing,Leggings,V0193,1031.27,637.64
+P00674,Beauty & Personal Care,Comb,V0104,269.16,192.07
+P00675,Men Clothing,Kurta,V0044,1158.02,917.68
+P00676,Men Clothing,Track Pants,V0023,574.47,430.36
+P00677,Home & Kitchen,Storage Box,V0185,872.8,616.02
+P00678,Footwear,Flip Flops,V0047,684.49,482.41
+P00679,Kids & Baby,Diaper,V0013,449.67,315.5
+P00680,Women Clothing,Dress,V0144,880.19,670.49
+P00681,Beauty & Personal Care,Comb,V0183,201.05,129.04
+P00682,Kids & Baby,Toy,V0095,450.6,279.75
+P00683,Women Clothing,Kurti,V0193,1274.97,785.11
+P00684,Electronics Accessories,Power Bank,V0016,837.04,643.97
+P00685,Kids & Baby,Bottle,V0119,147.04,111.04
+P00686,Home & Kitchen,Cookware,V0165,634.36,353.94
+P00687,Kids & Baby,Frock,V0180,640.75,358.69
+P00688,Footwear,Sports Shoes,V0117,894.02,502.67
+P00689,Kids & Baby,Bottle,V0010,141.72,109.38
+P00690,Kids & Baby,Bottle,V0122,558.5,334.67
+P00691,Kids & Baby,Onesie,V0038,471.28,352.83
+P00692,Men Clothing,Kurta,V0044,1177.55,785.52
+P00693,Women Clothing,Leggings,V0095,1186.25,803.05
+P00694,Footwear,Casual Shoes,V0074,1110.29,882.41
+P00695,Home & Kitchen,Bedsheet,V0182,349.56,206.98
+P00696,Men Clothing,Kurta,V0113,575.22,340.01
+P00697,Women Clothing,Saree,V0051,511.58,376.39
+P00698,Beauty & Personal Care,Lipstick,V0052,385.51,248.18
+P00699,Home & Kitchen,Storage Box,V0198,462.42,276.82
+P00700,Women Clothing,Dupatta,V0092,691.15,488.06
+P00701,Men Clothing,T-Shirt,V0059,352.07,279.26
+P00702,Men Clothing,Track Pants,V0013,686.61,540.35
+P00703,Beauty & Personal Care,Shampoo,V0169,179.8,133.37
+P00704,Home & Kitchen,Bottle,V0012,673.99,508.88
+P00705,Home & Kitchen,Bedsheet,V0050,659.58,521.53
+P00706,Footwear,Sports Shoes,V0057,1033.66,771.27
+P00707,Women Clothing,Dupatta,V0178,1164.34,848.39
+P00708,Footwear,Heels,V0119,905.3,559.66
+P00709,Men Clothing,Track Pants,V0057,1138.94,763.26
+P00710,Men Clothing,Jeans,V0182,881.78,502.44
+P00711,Kids & Baby,Diaper,V0194,397.41,287.94
+P00712,Beauty & Personal Care,Eyeliner,V0008,449.44,297.59
+P00713,Beauty & Personal Care,Shampoo,V0106,233.06,146.22
+P00714,Home & Kitchen,Bottle,V0191,744.53,451.22
+P00715,Footwear,Casual Shoes,V0137,1027.16,716.38
+P00716,Men Clothing,Kurta,V0188,1266.46,715.8
+P00717,Kids & Baby,Toy,V0120,163.87,110.86
+P00718,Women Clothing,Dupatta,V0063,778.82,436.13
+P00719,Kids & Baby,Bottle,V0072,594.51,400.51
+P00720,Electronics Accessories,USB Cable,V0131,683.3,430.29
+P00721,Women Clothing,Dupatta,V0013,1146.55,686.99
+P00722,Beauty & Personal Care,Lipstick,V0137,195.25,117.79
+P00723,Women Clothing,Dress,V0052,886.52,667.32
+P00724,Men Clothing,T-Shirt,V0062,563.08,334.11
+P00725,Footwear,Heels,V0119,511.49,360.5
+P00726,Kids & Baby,Diaper,V0109,246.62,189.73
+P00727,Home & Kitchen,Bedsheet,V0008,237.31,132.44
+P00728,Footwear,Sandals,V0095,360.47,274.47
+P00729,Electronics Accessories,Case,V0125,1064.04,839.99
+P00730,Home & Kitchen,Curtain,V0173,434.85,262.29
+P00731,Electronics Accessories,Charger,V0053,952.47,651.92
+P00732,Electronics Accessories,Power Bank,V0063,988.78,629.74
+P00733,Men Clothing,T-Shirt,V0095,205.49,114.82
+P00734,Men Clothing,Track Pants,V0081,929.21,632.62
+P00735,Beauty & Personal Care,Shampoo,V0057,591.61,369.81
+P00736,Beauty & Personal Care,Comb,V0182,588.28,386.13
+P00737,Electronics Accessories,Case,V0147,370.87,294.65
+P00738,Footwear,Sandals,V0067,889.92,629.5
+P00739,Beauty & Personal Care,Comb,V0046,501.48,321.25
+P00740,Men Clothing,Jeans,V0094,1021.28,783.9
+P00741,Beauty & Personal Care,Shampoo,V0138,331.31,236.64
+P00742,Electronics Accessories,Earphones,V0113,1196.4,714.89
+P00743,Kids & Baby,Diaper,V0093,298.56,172.33
+P00744,Home & Kitchen,Bedsheet,V0146,660.88,495.81
+P00745,Footwear,Casual Shoes,V0140,1013.55,603.01
+P00746,Footwear,Heels,V0049,932.96,707.87
+P00747,Women Clothing,Saree,V0023,532.0,403.34
+P00748,Beauty & Personal Care,Lipstick,V0062,569.77,316.47
+P00749,Footwear,Sandals,V0011,549.32,376.69
+P00750,Kids & Baby,Onesie,V0073,529.57,407.84
+P00751,Kids & Baby,Diaper,V0118,483.63,311.98
+P00752,Men Clothing,Jeans,V0184,402.09,297.55
+P00753,Home & Kitchen,Bedsheet,V0088,324.76,235.08
+P00754,Men Clothing,Shirt,V0089,398.33,228.15
+P00755,Beauty & Personal Care,Comb,V0055,249.66,155.1
+P00756,Electronics Accessories,USB Cable,V0153,1059.01,625.05
+P00757,Kids & Baby,Onesie,V0009,657.18,452.53
+P00758,Kids & Baby,Frock,V0012,393.56,259.23
+P00759,Women Clothing,Leggings,V0139,822.26,456.86
+P00760,Women Clothing,Kurti,V0113,1288.1,887.99
+P00761,Kids & Baby,Frock,V0166,120.12,83.78
+P00762,Home & Kitchen,Bottle,V0156,520.52,289.41
+P00763,Footwear,Heels,V0008,1405.54,776.76
+P00764,Footwear,Heels,V0175,972.34,768.58
+P00765,Kids & Baby,Diaper,V0036,241.56,148.21
+P00766,Footwear,Sports Shoes,V0125,250.53,141.95
+P00767,Women Clothing,Dress,V0050,248.38,187.69
+P00768,Electronics Accessories,USB Cable,V0107,1295.92,948.19
+P00769,Footwear,Casual Shoes,V0009,690.93,521.87
+P00770,Men Clothing,Jeans,V0188,792.75,496.32
+P00771,Kids & Baby,Toy,V0200,361.37,204.69
+P00772,Footwear,Sandals,V0067,1431.14,1008.63
+P00773,Electronics Accessories,Case,V0053,1164.04,837.12
+P00774,Kids & Baby,Toy,V0082,499.65,276.96
+P00775,Home & Kitchen,Bedsheet,V0110,595.57,449.91
+P00776,Home & Kitchen,Cookware,V0145,186.84,147.43
+P00777,Women Clothing,Dress,V0053,665.58,414.3
+P00778,Electronics Accessories,Charger,V0156,914.78,686.36
+P00779,Men Clothing,Jeans,V0114,721.23,512.99
+P00780,Electronics Accessories,Charger,V0063,874.89,619.27
+P00781,Men Clothing,Kurta,V0143,350.83,196.35
+P00782,Men Clothing,Shirt,V0019,349.59,217.26
+P00783,Electronics Accessories,USB Cable,V0124,566.7,398.84
+P00784,Kids & Baby,Toy,V0086,372.53,208.51
+P00785,Beauty & Personal Care,Face Wash,V0070,119.92,68.67
+P00786,Electronics Accessories,Earphones,V0047,691.35,381.31
+P00787,Kids & Baby,Toy,V0199,395.39,253.12
+P00788,Men Clothing,Shirt,V0108,809.99,591.46
+P00789,Kids & Baby,Bottle,V0176,249.58,147.07
+P00790,Kids & Baby,Toy,V0020,265.83,146.32
+P00791,Footwear,Flip Flops,V0037,400.02,295.09
+P00792,Home & Kitchen,Curtain,V0130,338.39,270.23
+P00793,Home & Kitchen,Curtain,V0192,291.66,217.92
+P00794,Women Clothing,Leggings,V0036,974.55,614.49
+P00795,Home & Kitchen,Bedsheet,V0133,430.13,297.17
+P00796,Beauty & Personal Care,Eyeliner,V0064,610.42,394.67
+P00797,Men Clothing,Kurta,V0007,266.3,171.39
+P00798,Electronics Accessories,Power Bank,V0198,509.14,399.57
+P00799,Electronics Accessories,USB Cable,V0120,1121.59,631.13
+P00800,Beauty & Personal Care,Comb,V0022,274.79,154.59

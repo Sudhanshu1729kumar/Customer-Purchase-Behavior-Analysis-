@@ -1,0 +1,201 @@
+vendor_id,state,avg_rating
+V0001,Uttar Pradesh,4.24
+V0002,West Bengal,4.57
+V0003,Haryana,4.88
+V0004,Tamil Nadu,4.46
+V0005,Maharashtra,3.86
+V0006,Bihar,3.91
+V0007,Jharkhand,3.92
+V0008,Karnataka,4.32
+V0009,Punjab,4.01
+V0010,Delhi,2.98
+V0011,Haryana,3.73
+V0012,Tamil Nadu,4.02
+V0013,Jharkhand,3.66
+V0014,Bihar,3.71
+V0015,Punjab,5.0
+V0016,Uttar Pradesh,4.2
+V0017,Odisha,4.05
+V0018,Jharkhand,4.47
+V0019,Delhi,4.66
+V0020,Delhi,5.0
+V0021,Gujarat,4.88
+V0022,Rajasthan,4.37
+V0023,Jharkhand,3.59
+V0024,Madhya Pradesh,3.8
+V0025,Haryana,4.04
+V0026,Gujarat,4.4
+V0027,Rajasthan,4.24
+V0028,Gujarat,3.61
+V0029,West Bengal,3.54
+V0030,Chhattisgarh,4.3
+V0031,Odisha,4.25
+V0032,Tamil Nadu,4.12
+V0033,Haryana,4.39
+V0034,Karnataka,4.7
+V0035,Assam,4.32
+V0036,Bihar,3.82
+V0037,Maharashtra,4.97
+V0038,Gujarat,4.13
+V0039,Karnataka,4.22
+V0040,West Bengal,3.94
+V0041,Maharashtra,3.77
+V0042,Jharkhand,3.8
+V0043,Maharashtra,3.71
+V0044,Maharashtra,3.0
+V0045,Rajasthan,4.14
+V0046,Odisha,4.64
+V0047,Tamil Nadu,3.81
+V0048,Haryana,5.0
+V0049,West Bengal,4.75
+V0050,Delhi,4.19
+V0051,Kerala,3.76
+V0052,Jammu & Kashmir,3.56
+V0053,Maharashtra,4.15
+V0054,Karnataka,4.23
+V0055,Delhi,4.12
+V0056,Gujarat,4.63
+V0057,West Bengal,4.8
+V0058,Punjab,4.39
+V0059,Delhi,4.41
+V0060,Andhra Pradesh,4.07
+V0061,Tamil Nadu,4.2
+V0062,Punjab,4.36
+V0063,Andhra Pradesh,4.07
+V0064,Kerala,4.46
+V0065,Gujarat,3.78
+V0066,Rajasthan,3.91
+V0067,West Bengal,3.78
+V0068,Delhi,3.93
+V0069,West Bengal,4.09
+V0070,Delhi,4.61
+V0071,Delhi,4.22
+V0072,Odisha,3.69
+V0073,Kerala,3.64
+V0074,West Bengal,4.03
+V0075,Andhra Pradesh,4.53
+V0076,Rajasthan,4.76
+V0077,Madhya Pradesh,3.56
+V0078,Chhattisgarh,4.35
+V0079,Haryana,4.04
+V0080,Telangana,4.07
+V0081,Assam,3.77
+V0082,Rajasthan,4.11
+V0083,Haryana,3.76
+V0084,Tamil Nadu,4.09
+V0085,Haryana,4.66
+V0086,Punjab,4.45
+V0087,Maharashtra,4.97
+V0088,Delhi,4.41
+V0089,Uttar Pradesh,4.27
+V0090,Telangana,4.42
+V0091,Jammu & Kashmir,3.89
+V0092,Madhya Pradesh,3.37
+V0093,Punjab,4.52
+V0094,Uttar Pradesh,3.48
+V0095,Delhi,4.65
+V0096,Jharkhand,4.5
+V0097,Bihar,3.86
+V0098,Maharashtra,4.03
+V0099,Madhya Pradesh,4.2
+V0100,Chhattisgarh,3.83
+V0101,Haryana,4.42
+V0102,Uttar Pradesh,4.45
+V0103,Assam,3.62
+V0104,Gujarat,3.87
+V0105,Madhya Pradesh,4.19
+V0106,Kerala,4.66
+V0107,Delhi,4.46
+V0108,Andhra Pradesh,3.27
+V0109,Jammu & Kashmir,4.08
+V0110,Jharkhand,4.39
+V0111,Odisha,3.88
+V0112,Telangana,3.85
+V0113,Rajasthan,3.9
+V0114,Chhattisgarh,4.08
+V0115,Haryana,3.81
+V0116,Rajasthan,4.46
+V0117,Jammu & Kashmir,3.86
+V0118,Tamil Nadu,3.79
+V0119,Telangana,4.04
+V0120,Odisha,4.79
+V0121,Punjab,4.41
+V0122,Delhi,4.44
+V0123,Delhi,4.31
+V0124,Telangana,3.82
+V0125,Punjab,3.94
+V0126,Odisha,3.88
+V0127,Karnataka,4.64
+V0128,Bihar,4.32
+V0129,Maharashtra,3.53
+V0130,Tamil Nadu,4.78
+V0131,Punjab,4.07
+V0132,Jammu & Kashmir,4.46
+V0133,Assam,4.62
+V0134,Jharkhand,3.18
+V0135,Maharashtra,4.38
+V0136,Jammu & Kashmir,4.1
+V0137,Haryana,3.23
+V0138,Jharkhand,3.75
+V0139,Haryana,4.02
+V0140,Maharashtra,4.54
+V0141,Uttar Pradesh,4.13
+V0142,Jammu & Kashmir,4.26
+V0143,Maharashtra,4.06
+V0144,Gujarat,4.64
+V0145,Gujarat,4.41
+V0146,Punjab,4.27
+V0147,Telangana,3.74
+V0148,Tamil Nadu,4.25
+V0149,Odisha,5.0
+V0150,Bihar,4.52
+V0151,Odisha,3.9
+V0152,Uttar Pradesh,4.94
+V0153,Gujarat,3.89
+V0154,Jammu & Kashmir,4.49
+V0155,Tamil Nadu,4.18
+V0156,Telangana,4.27
+V0157,Bihar,4.29
+V0158,West Bengal,4.1
+V0159,Andhra Pradesh,4.04
+V0160,Delhi,3.67
+V0161,Tamil Nadu,3.75
+V0162,Uttar Pradesh,4.33
+V0163,Karnataka,3.93
+V0164,Karnataka,3.84
+V0165,Tamil Nadu,5.0
+V0166,Chhattisgarh,5.0
+V0167,Delhi,4.43
+V0168,Uttar Pradesh,4.49
+V0169,Assam,3.88
+V0170,Kerala,3.73
+V0171,Bihar,4.06
+V0172,Maharashtra,4.2
+V0173,Bihar,4.49
+V0174,Gujarat,3.47
+V0175,Punjab,5.0
+V0176,Kerala,4.3
+V0177,Delhi,3.58
+V0178,Haryana,4.26
+V0179,Odisha,3.84
+V0180,Odisha,3.81
+V0181,Uttar Pradesh,3.78
+V0182,Jammu & Kashmir,4.1
+V0183,Karnataka,5.0
+V0184,Chhattisgarh,4.24
+V0185,Jammu & Kashmir,4.48
+V0186,Rajasthan,4.58
+V0187,Gujarat,4.14
+V0188,Chhattisgarh,3.74
+V0189,Andhra Pradesh,3.56
+V0190,West Bengal,4.05
+V0191,Rajasthan,4.66
+V0192,Rajasthan,4.57
+V0193,Karnataka,4.3
+V0194,Karnataka,4.36
+V0195,Punjab,4.15
+V0196,Odisha,4.01
+V0197,Assam,3.9
+V0198,Karnataka,3.61
+V0199,Gujarat,4.92
+V0200,Bihar,4.27
